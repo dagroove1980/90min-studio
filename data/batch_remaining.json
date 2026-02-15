@@ -1,0 +1,866 @@
+[
+  {
+    "id": "build-skincare-routine",
+    "name": "Build a Skincare Routine That Works",
+    "icon": "sparkles",
+    "color": "#6A1B9A",
+    "category": "style",
+    "subcategory": "skincare",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A personalized skincare routine matching your skin type with 3-5 steps",
+    "needs": ["cleanser", "moisturizer", "sunscreen", "mirror", "water"],
+    "steps": [
+      {"time": "0–15 min", "label": "Understand Your Skin", "text": "Determine if your skin is oily, dry, combination, or sensitive by observing how it feels throughout the day", "icon": "eye"},
+      {"time": "15–35 min", "label": "Gather Products", "text": "Select a cleanser, toner (optional), serum (optional), moisturizer, and sunscreen for your skin type", "icon": "hand"},
+      {"time": "35–55 min", "label": "Learn Application Order", "text": "Master the sequence: cleanse, tone, treat, moisturize, protect. Apply lighter products first, heavier last", "icon": "layers"},
+      {"time": "55–75 min", "label": "Practice Morning Routine", "text": "Perform your full routine in the morning: cleanse, tone, moisturize, sunscreen. Take 10 minutes", "icon": "zap"},
+      {"time": "75–90 min", "label": "Practice Evening Routine", "text": "Perform evening routine: cleanse thoroughly, tone, apply serums, moisturize. This removes the day's buildup", "icon": "star"}
+    ],
+    "tip": "Start simple with 3 steps (cleanser, moisturizer, sunscreen) before adding extras. Patch test new products on your arm first",
+    "resources": [
+      {"label": "Skin Type Quiz", "url": "https://www.paulaschoice.com/article/skin-types", "icon": "play"},
+      {"label": "Ingredient Guide", "url": "https://www.cosmopolitan.com/style-beauty/beauty/a9612/skincare-ingredients-explained", "icon": "book-open"}
+    ],
+    "likes": 8750,
+    "createdAt": "2026-01-05",
+    "featured": false
+  },
+  {
+    "id": "style-hair-5-ways",
+    "name": "Style Your Hair 5 Different Ways",
+    "icon": "scissors",
+    "color": "#6A1B9A",
+    "category": "style",
+    "subcategory": "hair-styling",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "5 distinct hairstyles you can create on your own in under 10 minutes each",
+    "needs": ["hairbrush", "hair-elastics", "bobby-pins", "hairspray", "mirror"],
+    "steps": [
+      {"time": "0–15 min", "label": "Master the Sleek Bun", "text": "Brush hair back smoothly, gather into a high or low ponytail, twist around the base, secure with bobby pins", "icon": "eye"},
+      {"time": "15–35 min", "label": "Create Beach Waves", "text": "Use a curling iron or braid damp hair overnight. Section and curl away from face for effortless waves", "icon": "hand"},
+      {"time": "35–55 min", "label": "French Braid Technique", "text": "Divide crown into 3 sections, cross right over middle, left over middle, add hair as you go down the back", "icon": "layers"},
+      {"time": "55–75 min", "label": "Half-Up Half-Down Style", "text": "Take the front sections from temples, twist, and secure at the back with a clip or elastic. Leave the rest down", "icon": "zap"},
+      {"time": "75–90 min", "label": "Sleek Ponytail Variations", "text": "Practice high ponytail, mid-ponytail, and low ponytail. Use a brush and hairspray for a polished, smooth finish", "icon": "star"}
+    ],
+    "tip": "Apply light hairspray between styling attempts to reduce frizz and hold styles longer",
+    "resources": [
+      {"label": "Hair Styling Basics", "url": "https://www.youtube.com/results?search_query=5+easy+hairstyles", "icon": "play"},
+      {"label": "Hair Care Tips", "url": "https://www.allure.com/gallery/best-hairstyles", "icon": "book-open"}
+    ],
+    "likes": 11200,
+    "createdAt": "2026-01-08",
+    "featured": false
+  },
+  {
+    "id": "iron-shirt-perfectly",
+    "name": "Iron a Shirt Perfectly",
+    "icon": "shirt",
+    "color": "#6A1B9A",
+    "category": "style",
+    "subcategory": "ironing",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A crisply pressed shirt with sharp creases and a polished, professional appearance",
+    "needs": ["iron", "ironing-board", "cotton-shirt", "spray-bottle", "hanger"],
+    "steps": [
+      {"time": "0–15 min", "label": "Prepare the Shirt", "text": "Dampen the shirt lightly with water using a spray bottle. Heat your iron to medium-high. Let it preheat for 2 minutes", "icon": "eye"},
+      {"time": "15–35 min", "label": "Iron the Sleeves", "text": "Lay one sleeve flat, smooth with your hand, iron from shoulder to cuff. Flip and repeat. Hang or fold immediately", "icon": "hand"},
+      {"time": "35–55 min", "label": "Press the Body", "text": "Start with the back: center the shirt, iron in smooth overlapping strokes from top to bottom, creating a sharp center crease", "icon": "layers"},
+      {"time": "55–75 min", "label": "Iron the Front and Collar", "text": "Do one front panel at a time, working around the buttons. Iron the collar last by flipping it and pressing both sides", "icon": "zap"},
+      {"time": "75–90 min", "label": "Final Touches and Hanging", "text": "Do a final pass on any wrinkled spots. Immediately hang the shirt on a hanger to prevent new wrinkles from forming", "icon": "star"}
+    ],
+    "tip": "Always use spray starch on collars and cuffs for extra crispness. Never iron buttons directly",
+    "resources": [
+      {"label": "Ironing Guide", "url": "https://www.tidyhq.com/how-to-iron-a-shirt", "icon": "play"},
+      {"label": "Iron Care Tips", "url": "https://www.goodhousekeeping.com/home/cleaning/a31068/how-to-clean-iron", "icon": "book-open"}
+    ],
+    "likes": 7320,
+    "createdAt": "2026-01-12",
+    "featured": false
+  },
+  {
+    "id": "build-capsule-wardrobe",
+    "name": "Build a Capsule Wardrobe",
+    "icon": "shirt",
+    "color": "#6A1B9A",
+    "category": "style",
+    "subcategory": "wardrobe-basics",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A collection of 30-40 versatile pieces that mix and match to create 100+ outfit combinations",
+    "needs": ["closet-space", "neutral-basics", "accent-pieces", "paper", "mirror"],
+    "steps": [
+      {"time": "0–15 min", "label": "Define Your Style", "text": "Look at clothes you love, identify color themes and cuts. Choose 2-3 neutral base colors and 2-3 accent colors", "icon": "eye"},
+      {"time": "15–35 min", "label": "Gather Neutral Basics", "text": "Acquire white, gray, navy, black items: plain t-shirts, long-sleeves, jeans, trousers, neutral sweaters, plain button-ups", "icon": "hand"},
+      {"time": "35–55 min", "label": "Add Layering Pieces", "text": "Get cardigans, blazers, denim jackets, and structured jackets in neutral tones that work over multiple outfits", "icon": "layers"},
+      {"time": "55–75 min", "label": "Introduce Accent Colors", "text": "Add 3-5 pieces in your chosen accent colors: blouses, sweaters, or dresses that pair with your neutral base", "icon": "zap"},
+      {"time": "75–90 min", "label": "Map Your Outfit Combinations", "text": "Write down all possible outfit combinations using your pieces. Aim for 50+ different looks with your 30-40 items", "icon": "star"}
+    ],
+    "tip": "Prioritize quality over quantity. Every piece should match at least 3 other items",
+    "resources": [
+      {"label": "Capsule Wardrobe Guide", "url": "https://www.youtube.com/watch?v=rNfAu-sxapI", "icon": "play"},
+      {"label": "Clothing Budget Tips", "url": "https://www.forbes.com/sites/forbesstylefiles/2021/08/24/how-to-build-a-capsule-wardrobe", "icon": "book-open"}
+    ],
+    "likes": 12100,
+    "createdAt": "2026-01-15",
+    "featured": true
+  },
+  {
+    "id": "tie-tie-3-ways",
+    "name": "Tie a Tie 3 Ways",
+    "icon": "shirt",
+    "color": "#6A1B9A",
+    "category": "style",
+    "subcategory": "wardrobe-basics",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Master the 4-in-hand, Windsor, and Half-Windsor knots for any formal occasion",
+    "needs": ["tie", "dress-shirt", "collar", "mirror"],
+    "steps": [
+      {"time": "0–15 min", "label": "Learn the 4-in-Hand Knot", "text": "Drape tie around neck with wide end on right. Cross wide over narrow, bring wide end around back, pull through loop and down through front knot", "icon": "eye"},
+      {"time": "15–35 min", "label": "Practice the Windsor Knot", "text": "Wide end right. Cross wide over narrow at back of neck. Bring wide up through loop, down through left hole. Repeat on right side, then down through front knot", "icon": "hand"},
+      {"time": "35–55 min", "label": "Master the Half-Windsor", "text": "Similar to Windsor but only cross the wide end once through the front loop instead of twice, creating a smaller, more casual knot", "icon": "layers"},
+      {"time": "55–75 min", "label": "Practice All Three Methods", "text": "Tie and untie each knot 3 times until you can do it without thinking. Speed will improve with repetition", "icon": "zap"},
+      {"time": "75–90 min", "label": "Understand When to Use Each", "text": "4-in-hand for casual and narrow collars, Half-Windsor for medium occasions, Windsor for formal events and spread collars", "icon": "star"}
+    ],
+    "tip": "The tip of your tie should end at your belt buckle. Practice with a mirror positioned at chest height",
+    "resources": [
+      {"label": "Tie Knot Video Guide", "url": "https://www.youtube.com/watch?v=CjIv8MzEGiA", "icon": "play"},
+      {"label": "Tie Selection Guide", "url": "https://www.realmenrealstyle.com/how-to-tie-a-tie", "icon": "book-open"}
+    ],
+    "likes": 6850,
+    "createdAt": "2026-01-18",
+    "featured": false
+  },
+  {
+    "id": "choose-signature-fragrance",
+    "name": "Choose a Signature Fragrance",
+    "icon": "droplets",
+    "color": "#6A1B9A",
+    "category": "style",
+    "subcategory": "fragrance",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "A signature scent that represents your personal style and lasts throughout the day",
+    "needs": ["fragrance-samples", "paper-strips", "perfume-counter", "patience"],
+    "steps": [
+      {"time": "0–15 min", "label": "Learn Fragrance Families", "text": "Understand Floral (romantic), Oriental (warm), Fresh (clean), Citrus (bright), Woody (earthy), and Chypre (sophisticated) families", "icon": "eye"},
+      {"time": "15–35 min", "label": "Test Top, Heart, and Base Notes", "text": "Spray samples on your wrist. Top notes fade in 5-15 min, heart notes develop, base notes linger for hours. Wait to judge", "icon": "hand"},
+      {"time": "35–55 min", "label": "Identify Your Preferences", "text": "Test 3-5 samples. Notice which scents make you feel confident and happy. Consider seasonal variations you might want", "icon": "layers"},
+      {"time": "55–75 min", "label": "Test Through a Full Day", "text": "Wear your favorite sample all day. Notice how it evolves, interacts with your skin chemistry, and how long it lasts", "icon": "zap"},
+      {"time": "75–90 min", "label": "Make Your Selection", "text": "Buy a full bottle of your chosen fragrance. Learn the optimal application spots: wrists, neck, behind ears, inside elbows", "icon": "star"}
+    ],
+    "tip": "Your skin chemistry affects how fragrances smell. Test on skin, not paper. Buy samples before committing to full bottles",
+    "resources": [
+      {"label": "Fragrance Buying Guide", "url": "https://www.vogue.com/article/how-to-choose-fragrance", "icon": "play"},
+      {"label": "Scent Notes Database", "url": "https://www.fragrantica.com/", "icon": "book-open"}
+    ],
+    "likes": 5620,
+    "createdAt": "2026-01-22",
+    "featured": false
+  },
+  {
+    "id": "polish-shoes-like-pro",
+    "name": "Polish Your Shoes Like a Pro",
+    "icon": "sparkles",
+    "color": "#6A1B9A",
+    "category": "style",
+    "subcategory": "shoe-care",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Mirror-shine leather shoes with sharp creases and pristine appearance",
+    "needs": ["shoe-polish", "brushes", "soft-cloth", "newspaper", "shoe-horn"],
+    "steps": [
+      {"time": "0–15 min", "label": "Clean and Prep", "text": "Remove dried mud and dirt with a brush or damp cloth. Let shoes dry completely. Protect surrounding area with newspaper", "icon": "eye"},
+      {"time": "15–35 min", "label": "Apply Base Polish", "text": "Use a small amount of Polish matching your shoe color. Apply in circular motions with a soft cloth, covering the entire surface", "icon": "hand"},
+      {"time": "35–55 min", "label": "Build the Shine", "text": "Apply a second coat of polish. Use a horsehair brush in circular motions. The more layers, the better the shine", "icon": "layers"},
+      {"time": "55–75 min", "label": "Buff to Brilliance", "text": "Use a clean, dry cloth and buff vigorously in circular motions. Work section by section until you see a mirror shine", "icon": "zap"},
+      {"time": "75–90 min", "label": "Final Details and Maintenance", "text": "Wipe the sole and heel. Apply silicone spray for water resistance. Store in a cool place. Polish monthly for best results", "icon": "star"}
+    ],
+    "tip": "Use the spit shine method: add a tiny drop of water with your cloth during buffing for an enhanced shine",
+    "resources": [
+      {"label": "Shoe Care Tutorial", "url": "https://www.youtube.com/watch?v=yKzvTWNvxTA", "icon": "play"},
+      {"label": "Shoe Maintenance Guide", "url": "https://www.realmenrealstyle.com/how-to-clean-shoes", "icon": "book-open"}
+    ],
+    "likes": 4950,
+    "createdAt": "2026-01-25",
+    "featured": false
+  },
+  {
+    "id": "color-coordination-basics",
+    "name": "Master Color Coordination",
+    "icon": "eye",
+    "color": "#6A1B9A",
+    "category": "style",
+    "subcategory": "color-coordination",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Ability to put together harmonious outfits using complementary colors and color theory",
+    "needs": ["color-wheel", "magazine-clippings", "paper", "clothes", "mirror"],
+    "steps": [
+      {"time": "0–15 min", "label": "Understand Color Theory", "text": "Learn primary (red, blue, yellow), secondary (orange, green, purple), and tertiary colors. Study the color wheel", "icon": "eye"},
+      {"time": "15–35 min", "label": "Learn Color Combinations", "text": "Study complementary (opposite colors), analogous (adjacent colors), and triadic (evenly spaced) color schemes", "icon": "hand"},
+      {"time": "35–55 min", "label": "Apply 60-30-10 Rule", "text": "Use 60% dominant color, 30% secondary, 10% accent. This creates balanced, visually appealing outfits", "icon": "layers"},
+      {"time": "55–75 min", "label": "Identify Your Best Colors", "text": "Hold different colored fabrics near your face. Notice which ones brighten your complexion and which ones dull it", "icon": "zap"},
+      {"time": "75–90 min", "label": "Create Color Swatches", "text": "Cut fabric swatches from your favorite pieces. Create a color board showing which pieces work together harmoniously", "icon": "star"}
+    ],
+    "tip": "Neutrals (black, white, gray, beige) pair with any color. Use them as a base for bold color experimentation",
+    "resources": [
+      {"label": "Color Theory for Fashion", "url": "https://www.thespruce.com/color-coordination-2876920", "icon": "play"},
+      {"label": "Color Wheel Guide", "url": "https://www.canva.com/colors/color-wheel/", "icon": "book-open"}
+    ],
+    "likes": 3450,
+    "createdAt": "2026-02-02",
+    "featured": false
+  },
+  {
+    "id": "start-campfire-3-ways",
+    "name": "Start a Campfire 3 Ways",
+    "icon": "flame",
+    "color": "#33691E",
+    "category": "outdoors",
+    "subcategory": "fire-building",
+    "difficulty": "beginner",
+    "setting": "outdoor",
+    "outcome": "Ability to build and ignite a campfire using matches, a lighter, and friction methods",
+    "needs": ["tinder", "kindling", "firewood", "matches", "lighter", "flat-stick"],
+    "steps": [
+      {"time": "0–15 min", "label": "Gather Materials", "text": "Collect tinder (dry leaves, bark), kindling (small twigs), and firewood (logs). Ensure everything is dry and organized by size", "icon": "eye"},
+      {"time": "15–35 min", "label": "Master the Match Method", "text": "Arrange kindling in a teepee shape. Light tinder at the center. Gradually add larger kindling as flames grow", "icon": "hand"},
+      {"time": "35–55 min", "label": "Learn the Lighter Technique", "text": "Build the same teepee structure. Use a lighter to ignite tinder more reliably. Shield flame from wind with your body", "icon": "layers"},
+      {"time": "55–75 min", "label": "Practice Friction Fire (Bow Drill)", "text": "Create a fire bow, socket, and spindle. Use friction from the bow's movement to create heat and ignite tinder bundle", "icon": "zap"},
+      {"time": "75–90 min", "label": "Build and Maintain a Full Fire", "text": "Construct the full fire structure: tinder at center, kindling teepee, then larger logs. Gradually increase fire size and heat", "icon": "star"}
+    ],
+    "tip": "Always ensure tinder is completely dry. Collect dead wood from the ground, not living branches",
+    "resources": [
+      {"label": "Campfire Building Guide", "url": "https://www.youtube.com/watch?v=6V6VjXWtU5I", "icon": "play"},
+      {"label": "Fire Safety Tips", "url": "https://www.nps.gov/articles/campfires.htm", "icon": "book-open"}
+    ],
+    "likes": 9200,
+    "createdAt": "2026-01-06",
+    "featured": false
+  },
+  {
+    "id": "navigate-map-compass",
+    "name": "Navigate with Map and Compass",
+    "icon": "compass",
+    "color": "#33691E",
+    "category": "outdoors",
+    "subcategory": "navigation",
+    "difficulty": "intermediate",
+    "setting": "outdoor",
+    "outcome": "Confidence to navigate using topographic maps and a compass without GPS",
+    "needs": ["topographic-map", "compass", "pencil", "landmark"],
+    "steps": [
+      {"time": "0–15 min", "label": "Understand Map Symbols", "text": "Learn contour lines, elevation changes, landmarks, trails, and scale. Study the legend and understand what each color means", "icon": "eye"},
+      {"time": "15–35 min", "label": "Master Compass Basics", "text": "Learn the magnetic needle, orienting lines, and direction-of-travel arrow. Understand declination and true north vs. magnetic north", "icon": "hand"},
+      {"time": "35–55 min", "label": "Orient the Map", "text": "Place compass on map so orienting lines align with map grid. Rotate map and compass together until magnetic needle aligns", "icon": "layers"},
+      {"time": "55–75 min", "label": "Find Your Position", "text": "Identify known landmarks on the map. Use compass to take bearings from each landmark back to the map", "icon": "zap"},
+      {"time": "75–90 min", "label": "Navigate to a Destination", "text": "Set a bearing on the compass, align the baseplate on the map, rotate to align orienting lines, and walk following the arrow", "icon": "star"}
+    ],
+    "tip": "Always carry multiple maps of your area. Practice in familiar territory before wilderness navigation",
+    "resources": [
+      {"label": "Map and Compass Tutorial", "url": "https://www.youtube.com/watch?v=E4kqJZ18jXo", "icon": "play"},
+      {"label": "Navigation Guide", "url": "https://www.rei.com/learn/article/map-and-compass", "icon": "book-open"}
+    ],
+    "likes": 7680,
+    "createdAt": "2026-01-09",
+    "featured": false
+  },
+  {
+    "id": "start-container-garden",
+    "name": "Start a Container Garden",
+    "icon": "leaf",
+    "color": "#33691E",
+    "category": "outdoors",
+    "subcategory": "gardening",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A thriving container garden with vegetables, herbs, or flowers requiring minimal space",
+    "needs": ["containers", "potting-soil", "seeds-or-plants", "water", "sunlight", "compost"],
+    "steps": [
+      {"time": "0–15 min", "label": "Choose Your Containers", "text": "Select pots with drainage holes, at least 6-12 inches deep. Use food-grade containers or standard pots. Ensure proper sizing for plants", "icon": "eye"},
+      {"time": "15–35 min", "label": "Select Plants for Your Climate", "text": "Choose herbs (basil, mint, parsley), vegetables (tomatoes, peppers, lettuce), or flowers suitable for your sunlight levels", "icon": "hand"},
+      {"time": "35–55 min", "label": "Prepare Soil and Plant", "text": "Fill containers with potting soil. Plant seeds 1/4 to 1/2 inch deep or transplant seedlings at the same depth they were growing", "icon": "layers"},
+      {"time": "55–75 min", "label": "Water and Position", "text": "Water until soil is moist but not waterlogged. Place in appropriate sunlight: 6+ hours for vegetables, 4+ for herbs, varies for flowers", "icon": "zap"},
+      {"time": "75–90 min", "label": "Maintain and Monitor Growth", "text": "Water when top inch of soil is dry. Fertilize every 2-3 weeks. Pinch off dead leaves. Stake or trellis as needed", "icon": "star"}
+    ],
+    "tip": "Container gardens dry out faster than ground gardens. Check soil moisture daily during hot weather",
+    "resources": [
+      {"label": "Container Gardening Guide", "url": "https://www.almanac.com/gardening/container", "icon": "play"},
+      {"label": "Plant Care Tips", "url": "https://www.thespruce.com/container-gardening-basics-3991765", "icon": "book-open"}
+    ],
+    "likes": 8920,
+    "createdAt": "2026-01-11",
+    "featured": false
+  },
+  {
+    "id": "identify-20-common-birds",
+    "name": "Identify 20 Common Birds",
+    "icon": "sun",
+    "color": "#33691E",
+    "category": "outdoors",
+    "subcategory": "birdwatching",
+    "difficulty": "beginner",
+    "setting": "outdoor",
+    "outcome": "Ability to identify 20 common local birds by sight and sound",
+    "needs": ["field-guide", "binoculars", "notebook", "pencil"],
+    "steps": [
+      {"time": "0–15 min", "label": "Get a Field Guide", "text": "Obtain a regional bird identification guide or download a birding app. Learn the parts of a bird: wings, tail, head markings", "icon": "eye"},
+      {"time": "15–35 min", "label": "Study Common Species", "text": "Memorize 5 birds from your region: Robin, Blue Jay, Cardinal, Mourning Dove, Black-capped Chickadee. Know their size, color, and calls", "icon": "hand"},
+      {"time": "35–55 min", "label": "Learn Bird Behavior Patterns", "text": "Understand where birds perch, how they move, and what they eat. Notice foraging behavior, flight patterns, and social habits", "icon": "layers"},
+      {"time": "55–75 min", "label": "Go Birdwatching Outdoors", "text": "Visit a park or garden. Look for birds at dawn or dusk. Note colors, patterns, and behaviors. Record any bird calls you hear", "icon": "zap"},
+      {"time": "75–90 min", "label": "Identify and Log Sightings", "text": "Match observed birds to your guide. Record species, date, location, and behaviors. Build your personal bird sighting log", "icon": "star"}
+    ],
+    "tip": "Early morning and late afternoon are best for birdwatching. Move slowly and quietly to avoid startling birds",
+    "resources": [
+      {"label": "Audubon Bird Guide", "url": "https://www.audubon.org/bird-guide", "icon": "play"},
+      {"label": "Merlin Bird ID App", "url": "https://merlin.allaboutbirds.org/", "icon": "book-open"}
+    ],
+    "likes": 6420,
+    "createdAt": "2026-01-14",
+    "featured": false
+  },
+  {
+    "id": "read-night-sky",
+    "name": "Read the Night Sky",
+    "icon": "telescope",
+    "color": "#33691E",
+    "category": "outdoors",
+    "subcategory": "stargazing",
+    "difficulty": "beginner",
+    "setting": "outdoor",
+    "outcome": "Ability to identify major constellations, planets, and navigate using stars",
+    "needs": ["star-chart", "binoculars-or-telescope", "dark-location", "notebook"],
+    "steps": [
+      {"time": "0–15 min", "label": "Learn Major Constellations", "text": "Study Big Dipper, Little Dipper, Orion, Cassiopeia, and Polaris. Learn to locate the North Star using the Big Dipper's pointer stars", "icon": "eye"},
+      {"time": "15–35 min", "label": "Understand Celestial Coordinates", "text": "Learn how constellations move with the seasons. Understand brightness (magnitude) and how planets differ from stars", "icon": "hand"},
+      {"time": "35–55 min", "label": "Practice Finding Constellations", "text": "On a clear night, locate and trace 5 major constellations. Use a red flashlight to preserve night vision. Draw them in your notebook", "icon": "layers"},
+      {"time": "55–75 min", "label": "Identify Planets and Bright Stars", "text": "Learn Sirius, Betelgeuse, and Rigel. Identify planets like Venus, Jupiter, and Mars by their positions and brightness variations", "icon": "zap"},
+      {"time": "75–90 min", "label": "Use Stars for Navigation", "text": "Practice finding directions using star patterns. Use Polaris to find true north. Create a personal star-mapping journal", "icon": "star"}
+    ],
+    "tip": "Find the darkest location possible, away from city lights. Give your eyes 20 minutes to adjust to darkness",
+    "resources": [
+      {"label": "Star Gazing Guide", "url": "https://www.nasa.gov/mission_pages/hubble/universe/index.html", "icon": "play"},
+      {"label": "SkySafari Star App", "url": "https://www.skysafariastronomy.com/", "icon": "book-open"}
+    ],
+    "likes": 5890,
+    "createdAt": "2026-01-17",
+    "featured": false
+  },
+  {
+    "id": "catch-first-fish",
+    "name": "Catch Your First Fish",
+    "icon": "anchor",
+    "color": "#33691E",
+    "category": "outdoors",
+    "subcategory": "fishing",
+    "difficulty": "beginner",
+    "setting": "outdoor",
+    "outcome": "Land your first fish using proper casting technique and basic fishing knowledge",
+    "needs": ["fishing-rod", "reel", "line", "hooks", "bait-or-lures", "tackle-box"],
+    "steps": [
+      {"time": "0–15 min", "label": "Learn Rod and Reel Basics", "text": "Understand spinning reel components: handle, bail, drag adjustment. Practice casting without water 10 times to build muscle memory", "icon": "eye"},
+      {"time": "15–35 min", "label": "Prepare Your Setup", "text": "Tie an improved clinch knot to attach the hook. Set drag to slip when pulled hard. Load reel with line properly", "icon": "hand"},
+      {"time": "35–55 min", "label": "Find Good Fishing Spots", "text": "Research local water. Look for structure: rocks, weeds, fallen trees. Fish early morning or late afternoon when fish are most active", "icon": "layers"},
+      {"time": "55–75 min", "label": "Master Your Casting", "text": "Hold rod with dominant hand on grip, index finger on line. Open bail, accelerate to 10 o'clock, release line from finger smoothly", "icon": "zap"},
+      {"time": "75–90 min", "label": "Set the Hook and Reel In", "text": "When you feel a bite, quickly raise rod tip (set the hook). Reel steadily while keeping tension on line. Land fish by guiding it to you", "icon": "star"}
+    ],
+    "tip": "Start with live bait for better success. Be patient; fishing requires waiting and observation",
+    "resources": [
+      {"label": "Fishing for Beginners", "url": "https://www.takemefishing.org/learn/", "icon": "play"},
+      {"label": "Fish Species Guide", "url": "https://www.fisheries.noaa.gov/", "icon": "book-open"}
+    ],
+    "likes": 4750,
+    "createdAt": "2026-01-20",
+    "featured": false
+  },
+  {
+    "id": "forage-edible-plants",
+    "name": "Forage Edible Wild Plants Safely",
+    "icon": "trees",
+    "color": "#33691E",
+    "category": "outdoors",
+    "subcategory": "foraging",
+    "difficulty": "intermediate",
+    "setting": "outdoor",
+    "outcome": "Ability to safely identify and harvest 10+ edible wild plants from your region",
+    "needs": ["field-guide", "basket", "knife", "journal"],
+    "steps": [
+      {"time": "0–15 min", "label": "Study Identification Thoroughly", "text": "Get a regional foraging guide. Learn key characteristics: leaf shape, color, texture, growth patterns, smell. Know dangerous lookalikes", "icon": "eye"},
+      {"time": "15–35 min", "label": "Learn Safety Rules", "text": "Never eat anything unless 100% certain. Use the rule of three: positive identification, edible part, proper preparation", "icon": "hand"},
+      {"time": "35–55 min", "label": "Start with Easy Plants", "text": "Begin with unmistakable plants like dandelion, clover, chickweed. Learn seasonal availability. Photograph examples in your journal", "icon": "layers"},
+      {"time": "55–75 min", "label": "Practice Foraging Outdoors", "text": "Go to a park or field with your guide. Find 5 different edible plants. Verify identification multiple times before harvesting", "icon": "zap"},
+      {"time": "75–90 min", "label": "Process and Use Your Harvest", "text": "Clean plants thoroughly. Learn proper preparation: some need cooking, others eaten raw. Record your findings and recipes in a journal", "icon": "star"}
+    ],
+    "tip": "Forage in clean areas away from pesticides and roads. Take only what you need and leave some for the ecosystem",
+    "resources": [
+      {"label": "Wild Edibles Guide", "url": "https://www.eattheplanet.org/guides/wild-edibles/", "icon": "play"},
+      {"label": "Foraging Safety", "url": "https://www.smithsonianmag.com/foraging/", "icon": "book-open"}
+    ],
+    "likes": 3870,
+    "createdAt": "2026-01-23",
+    "featured": false
+  },
+  {
+    "id": "speed-read-2x-faster",
+    "name": "Speed Read 2x Faster",
+    "icon": "book-open",
+    "color": "#283593",
+    "category": "mindset",
+    "subcategory": "speed-reading",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Read at 600+ words per minute while retaining 70%+ comprehension",
+    "needs": ["reading-material", "timer", "notebook", "finger-or-pointer"],
+    "steps": [
+      {"time": "0–15 min", "label": "Eliminate Subvocalization", "text": "Stop 'speaking' words mentally while reading. Use finger to guide eyes. This removes the biggest speed barrier", "icon": "eye"},
+      {"time": "15–35 min", "label": "Expand Eye Span", "text": "Train eyes to take in 3-5 words per fixation instead of 1. Use margin marker or pointer to guide wider vision arc", "icon": "hand"},
+      {"time": "35–55 min", "label": "Increase Fixation Speed", "text": "Use pointer to move down page faster, forcing eyes to follow. Start with 2x normal speed. Gradually increase pace", "icon": "layers"},
+      {"time": "55–75 min", "label": "Practice Chunking", "text": "Pre-read headings and summaries. Recognize word patterns and phrases instead of reading word-by-word. Skim less critical sections", "icon": "zap"},
+      {"time": "75–90 min", "label": "Test Comprehension and Adjust", "text": "Read passage at new speed, then answer questions. Adjust speed up or down based on material difficulty. Build consistency", "icon": "star"}
+    ],
+    "tip": "Speed reading works best for non-technical material. Slow down for complex concepts requiring deep comprehension",
+    "resources": [
+      {"label": "Speed Reading Techniques", "url": "https://www.mindtools.com/pages/article/speed-reading.htm", "icon": "play"},
+      {"label": "Reading Comprehension Tips", "url": "https://blog.readwise.io/speed-reading/", "icon": "book-open"}
+    ],
+    "likes": 9800,
+    "createdAt": "2026-01-07",
+    "featured": false
+  },
+  {
+    "id": "build-habit-in-90-minutes",
+    "name": "Build Any Habit in 90 Minutes of Planning",
+    "icon": "brain",
+    "color": "#283593",
+    "category": "mindset",
+    "subcategory": "habits",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A crystallized action plan to build any habit with 90%+ success rate in the first 30 days",
+    "needs": ["journal", "pen", "timer", "habit-tracker"],
+    "steps": [
+      {"time": "0–15 min", "label": "Define Your Why", "text": "Write why you want this habit. Connect it to your values and goals. Make it emotionally compelling, not just logical", "icon": "eye"},
+      {"time": "15–35 min", "label": "Chunk Down the Habit", "text": "Break into smallest possible version. Instead of 'exercise daily,' start with '5 push-ups.' Make it stupid easy", "icon": "hand"},
+      {"time": "35–55 min", "label": "Create an Implementation Intention", "text": "Write 'After [existing habit], I will [new habit].' Example: 'After pouring coffee, I will meditate 2 minutes.' Link to existing routine", "icon": "layers"},
+      {"time": "55–75 min", "label": "Plan Your Environment", "text": "Remove friction: lay out workout clothes, prep breakfast, delete distracting apps. Make the habit easier than alternatives", "icon": "zap"},
+      {"time": "75–90 min", "label": "Commit and Track", "text": "Write commitment statement. Create simple tracking system (calendar, app, checklist). Plan how you'll celebrate each win", "icon": "star"}
+    ],
+    "tip": "Start embarrassingly small. Consistency beats intensity. Celebrate completing the habit, not quality of execution",
+    "resources": [
+      {"label": "Atomic Habits Summary", "url": "https://jamesclear.com/atomic-habits", "icon": "play"},
+      {"label": "Habit Stacking Guide", "url": "https://www.theneuroscientist.com/habit-stacking-101", "icon": "book-open"}
+    ],
+    "likes": 13450,
+    "createdAt": "2026-01-10",
+    "featured": true
+  },
+  {
+    "id": "memorize-memory-palace",
+    "name": "Memorize Anything with Memory Palace",
+    "icon": "lightbulb",
+    "color": "#283593",
+    "category": "mindset",
+    "subcategory": "memory",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Memorize lists of 50+ items, speeches, or sequences using the ancient memory palace technique",
+    "needs": ["paper", "pen", "visualization-skills"],
+    "steps": [
+      {"time": "0–15 min", "label": "Select Your Palace", "text": "Choose a familiar location: your home, childhood house, or walking route. Visualize it vividly with 5-10 distinct rooms or stations", "icon": "eye"},
+      {"time": "15–35 min", "label": "Create Vivid Associations", "text": "Link each item to memorize with a location in your palace using exaggeration, humor, or unusual imagery. The weirder, the better", "icon": "hand"},
+      {"time": "35–55 min", "label": "Create a Mental Journey", "text": "Walk through your palace mentally, placing items in order. Use multiple senses: sight, sound, smell. Make connections memorable", "icon": "layers"},
+      {"time": "55–75 min", "label": "Practice Recall Drills", "text": "Close your eyes. Walk through your palace mentally. Retrieve each item in order. Repeat multiple times until automatic", "icon": "zap"},
+      {"time": "75–90 min", "label": "Expand and Solidify", "text": "Add more items to your palace. Create multiple palaces for different categories. Test yourself without looking at notes", "icon": "star"}
+    ],
+    "tip": "The more vivid and unusual the mental image, the better it sticks. Use multiple sensory details in your visualizations",
+    "resources": [
+      {"label": "Memory Palace Guide", "url": "https://www.masterclass.com/classes/memory-improvement", "icon": "play"},
+      {"label": "Memory Techniques", "url": "https://www.wikihow.com/Use-the-Method-of-Loci", "icon": "book-open"}
+    ],
+    "likes": 11200,
+    "createdAt": "2026-01-13",
+    "featured": false
+  },
+  {
+    "id": "take-notes-that-help",
+    "name": "Take Notes That Actually Help",
+    "icon": "book-open",
+    "color": "#283593",
+    "category": "mindset",
+    "subcategory": "note-taking",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A personal note-taking system that drives learning, retention, and actionable insights",
+    "needs": ["notebook-or-app", "pen", "paper", "highlighter"],
+    "steps": [
+      {"time": "0–15 min", "label": "Choose a System", "text": "Learn Cornell Notes, Zettelkasten, or Outline method. Pick one and commit. The best system is one you'll actually use", "icon": "eye"},
+      {"time": "15–35 min", "label": "Capture Active Concepts", "text": "Don't transcribe. Listen for key ideas, definitions, and examples. Write in your own words to force understanding", "icon": "hand"},
+      {"time": "35–55 min", "label": "Mark and Organize", "text": "Use symbols (*, !, ?), color-coding, or indentation. Create headers and subheaders. Leave white space for review additions", "icon": "layers"},
+      {"time": "55–75 min", "label": "Add Retrieval Cues", "text": "Write questions on note margins or a separate page. Create summary statements. Link to previous notes. Build a personal knowledge web", "icon": "zap"},
+      {"time": "75–90 min", "label": "Review and Refine", "text": "Review notes within 24 hours. Highlight or rewrite key points. Create a summary at the end. Identify gaps in understanding", "icon": "star"}
+    ],
+    "tip": "The act of handwriting notes boosts memory better than typing. Review notes often rather than taking endless new notes",
+    "resources": [
+      {"label": "Note-Taking Methods", "url": "https://blog.evernote.com/blog/2015/01/09/note-taking-strategies/", "icon": "play"},
+      {"label": "Cornell Notes Guide", "url": "https://lsc.cornell.edu/how-to-study/taking-notes/", "icon": "book-open"}
+    ],
+    "likes": 7620,
+    "createdAt": "2026-01-16",
+    "featured": false
+  },
+  {
+    "id": "make-better-decisions",
+    "name": "Make Better Decisions with Mental Models",
+    "icon": "target",
+    "color": "#283593",
+    "category": "mindset",
+    "subcategory": "decision-making",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Make smarter decisions 80% of the time using 10+ proven mental models",
+    "needs": ["journal", "pen", "decision-scenarios"],
+    "steps": [
+      {"time": "0–15 min", "label": "Learn Core Mental Models", "text": "Study First-Principles Thinking, Opportunity Cost, Inversion, Circle of Competence. Understand their core principles and applications", "icon": "eye"},
+      {"time": "15–35 min", "label": "Practice First-Principles Thinking", "text": "For a decision, break it to fundamental truths. Challenge assumptions. Ask 'Why?' five times. Build decisions from the ground up", "icon": "hand"},
+      {"time": "35–55 min", "label": "Apply Opportunity Cost Thinking", "text": "What are you giving up by choosing option A? Explicitly consider what you're NOT doing. Often the clearest path becomes obvious", "icon": "layers"},
+      {"time": "55–75 min", "label": "Use Inversion and Checklist", "text": "Work backwards: What would cause this to fail? Create a pre-mortem. Build decision checklists for recurring decisions", "icon": "zap"},
+      {"time": "75–90 min", "label": "Document and Review Decisions", "text": "Write decisions made. Note the reasoning and model used. Review results 30 days later. Update your decision framework based on results", "icon": "star"}
+    ],
+    "tip": "Develop a decision journal. Track what you decided, why, and outcomes. This builds pattern recognition over time",
+    "resources": [
+      {"label": "Mental Models Guide", "url": "https://fs.blog/mental-models/", "icon": "play"},
+      {"label": "Decision Making Framework", "url": "https://www.shortform.com/summaries/thinking-fast-and-slow", "icon": "book-open"}
+    ],
+    "likes": 10200,
+    "createdAt": "2026-01-19",
+    "featured": false
+  },
+  {
+    "id": "design-ideal-morning",
+    "name": "Design Your Ideal Morning Routine",
+    "icon": "clock",
+    "color": "#283593",
+    "category": "mindset",
+    "subcategory": "habits",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A personalized morning routine that energizes you and sets up your day for success",
+    "needs": ["journal", "schedule", "timer", "alarm"],
+    "steps": [
+      {"time": "0–15 min", "label": "Define Your Ideal Morning", "text": "Imagine your perfect morning: wake time, energy level, mood, accomplishments. Write it down. What needs to happen?", "icon": "eye"},
+      {"time": "15–35 min", "label": "Identify Non-Negotiables", "text": "List essentials: sleep, breakfast, hygiene, movement, focus. Rank by impact on your day. Keep list to 5-7 items maximum", "icon": "hand"},
+      {"time": "35–55 min", "label": "Build the Schedule", "text": "Allocate time blocks: wake, hydrate, exercise, shower, breakfast, work prep. Create 30, 60, and 90-minute versions for flexibility", "icon": "layers"},
+      {"time": "55–75 min", "label": "Establish Evening Preparation", "text": "Prepare the night before: clothes, breakfast items, schedule review. Remove morning decision-making. Lower friction", "icon": "zap"},
+      {"time": "75–90 min", "label": "Test and Iterate", "text": "Execute your routine for 7 days. Track what works and what doesn't. Adjust activities and timing. Find your unique rhythm", "icon": "star"}
+    ],
+    "tip": "Start by moving your wake time 15 minutes earlier. Successful mornings compound over time to transform your life",
+    "resources": [
+      {"label": "Morning Routine Guide", "url": "https://www.jamesclear.com/habits", "icon": "play"},
+      {"label": "Sleep and Circadian Rhythms", "url": "https://sleep.org/articles/why-morning-routines-are-important/", "icon": "book-open"}
+    ],
+    "likes": 12800,
+    "createdAt": "2026-01-21",
+    "featured": true
+  },
+  {
+    "id": "master-deep-focus",
+    "name": "Master Deep Focus",
+    "icon": "eye",
+    "color": "#283593",
+    "category": "mindset",
+    "subcategory": "focus",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Consistently enter and maintain 4+ hour deep focus sessions with 90%+ quality output",
+    "needs": ["quiet-space", "timer", "journal", "no-phone"],
+    "steps": [
+      {"time": "0–15 min", "label": "Understand Flow State", "text": "Learn the conditions for deep focus: clear goal, immediate feedback, challenge-skill balance. Eliminate distractions ruthlessly", "icon": "eye"},
+      {"time": "15–35 min", "label": "Create Focus Environment", "text": "Silence phone (or leave room). Close browser tabs. Use website blockers. Temperature at 68-72°F. Use white noise if needed", "icon": "hand"},
+      {"time": "35–55 min", "label": "Master the Pomodoro Method", "text": "Work 25-50 minutes intensely, then 5-15 minute break. Track completed sessions. Gradually increase focus window to 90 minutes", "icon": "layers"},
+      {"time": "55–75 min", "label": "Build Ritual and Consistency", "text": "Create pre-focus ritual: specific location, beverage, music. Work at same time daily. Your brain learns to drop into focus automatically", "icon": "zap"},
+      {"time": "75–90 min", "label": "Track and Optimize", "text": "Log focus sessions, depth level, and output quality. Identify patterns. Adjust timing, environment, and tasks. Measure improvement", "icon": "star"}
+    ],
+    "tip": "The first 15 minutes are hardest. Push through resistance. Once flowing, you won't want to stop",
+    "resources": [
+      {"label": "Deep Work Summary", "url": "https://www.calnewport.com/books/deep-work/", "icon": "play"},
+      {"label": "Flow State Guide", "url": "https://www.mindtools.com/pages/article/flow-psychology.htm", "icon": "book-open"}
+    ],
+    "likes": 14200,
+    "createdAt": "2026-01-24",
+    "featured": true
+  },
+  {
+    "id": "master-sleep-quality",
+    "name": "Master Sleep Quality and Consistency",
+    "icon": "zap",
+    "color": "#283593",
+    "category": "mindset",
+    "subcategory": "sleep",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Consistent 7-9 hour nights of quality sleep with improved daytime energy and focus",
+    "needs": ["sleep-tracker", "journal", "blackout-curtains", "white-noise-machine"],
+    "steps": [
+      {"time": "0–15 min", "label": "Establish Sleep Schedule", "text": "Set consistent bedtime and wake time, even weekends. Your body's circadian rhythm responds to consistency, not duration alone", "icon": "eye"},
+      {"time": "15–35 min", "label": "Create Sleep Environment", "text": "Cool room (65-68°F), complete darkness, minimal noise. Use blackout curtains, white noise machine. Remove blue light sources", "icon": "hand"},
+      {"time": "35–55 min", "label": "Build Evening Wind-Down", "text": "30 minutes before bed: dim lights, no screens. Try journaling, reading, stretching, or meditation. This signals sleep time to your brain", "icon": "layers"},
+      {"time": "55–75 min", "label": "Optimize Daytime Habits", "text": "Get morning sunlight exposure. Avoid caffeine after 2 PM. Exercise daily but not right before bed. Manage stress throughout day", "icon": "zap"},
+      {"time": "75–90 min", "label": "Track and Troubleshoot", "text": "Log sleep times, quality ratings, and daytime energy. Identify patterns. Adjust one variable at a time. Give changes 1-2 weeks", "icon": "star"}
+    ],
+    "tip": "Consistency matters more than total hours. A regular 7-hour sleep beats irregular 9-hour sleep",
+    "resources": [
+      {"label": "Sleep Science Guide", "url": "https://www.sleepfoundation.org/sleep-hygiene", "icon": "play"},
+      {"label": "Sleep Optimization", "url": "https://www.hubermanlab.com/sleep", "icon": "book-open"}
+    ],
+    "likes": 9650,
+    "createdAt": "2026-01-26",
+    "featured": false
+  },
+  {
+    "id": "unlock-creativity",
+    "name": "Unlock Your Creativity Daily",
+    "icon": "lightbulb",
+    "color": "#283593",
+    "category": "mindset",
+    "subcategory": "creativity",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Generate 30+ unique ideas daily and develop a consistent creative practice",
+    "needs": ["notebook", "pen", "timer", "art-supplies-optional"],
+    "steps": [
+      {"time": "0–15 min", "label": "Understand Creative Blocks", "text": "Learn that creativity is a skill, not a gift. Identify your blocks: perfectionism, fear, self-criticism. Reframe as normal", "icon": "eye"},
+      {"time": "15–35 min", "label": "Practice Brainstorming Without Judgment", "text": "Write 20 ideas without evaluating them. Quantity over quality. No idea is bad. Keep pen moving for full 20 minutes", "icon": "hand"},
+      {"time": "35–55 min", "label": "Try Ideation Techniques", "text": "Learn SCAMPER, mind mapping, reverse brainstorming. Apply techniques to specific challenges. Generate diverse idea types", "icon": "layers"},
+      {"time": "55–75 min", "label": "Create and Share Work", "text": "Create something: write, draw, build, design. Finish rough drafts rather than perfecting one idea. Share your work with others", "icon": "zap"},
+      {"time": "75–90 min", "label": "Reflect and Build Momentum", "text": "Review your ideas. Identify patterns. Improve your favorite ideas. Commit to daily creative practice. Build a body of work", "icon": "star"}
+    ],
+    "tip": "Set a daily time for creativity, treat it as non-negotiable. Inspiration follows action, not the reverse",
+    "resources": [
+      {"label": "Creativity Exercises", "url": "https://www.creativebloq.com/advice/48-techniques-to-boost-your-creativity", "icon": "play"},
+      {"label": "Creative Writing Prompts", "url": "https://www.writersdigest.com/prompts", "icon": "book-open"}
+    ],
+    "likes": 8420,
+    "createdAt": "2026-01-28",
+    "featured": false
+  },
+  {
+    "id": "manage-stress-effectively",
+    "name": "Manage Stress Effectively",
+    "icon": "brain",
+    "color": "#283593",
+    "category": "mindset",
+    "subcategory": "focus",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "A personal stress management toolkit with 5+ techniques you can deploy anywhere",
+    "needs": ["journal", "timer", "quiet-space", "breathing-awareness"],
+    "steps": [
+      {"time": "0–15 min", "label": "Recognize Stress Signals", "text": "Learn your physical stress signs: tight shoulders, shallow breathing, racing thoughts. Identify triggers: time pressure, uncertainty", "icon": "eye"},
+      {"time": "15–35 min", "label": "Master Box Breathing", "text": "Inhale 4 counts, hold 4, exhale 4, hold 4. Repeat 5 times. This activates parasympathetic nervous system, reducing stress immediately", "icon": "hand"},
+      {"time": "35–55 min", "label": "Practice Grounding Techniques", "text": "5-4-3-2-1 method: name 5 things you see, 4 hear, 3 touch, 2 smell, 1 taste. Brings mind to present, calms anxiety", "icon": "layers"},
+      {"time": "55–75 min", "label": "Build Prevention Habits", "text": "Exercise regularly, sleep 7-9 hours, eat well, limit caffeine. These reduce baseline stress. Practice meditation 10 minutes daily", "icon": "zap"},
+      {"time": "75–90 min", "label": "Create Your Action Plan", "text": "Write your stress toolkit: 3 immediate techniques, 3 daily practices, 3 weekly habits. Practice until automatic", "icon": "star"}
+    ],
+    "tip": "Prevention through sleep, exercise, and meditation is more effective than stress management alone",
+    "resources": [
+      {"label": "Stress Management Tips", "url": "https://www.mayoclinic.org/healthy-lifestyle/stress-management/basics/stress-basics/hlv-20049495", "icon": "play"},
+      {"label": "Mindfulness Meditation", "url": "https://www.headspace.com/", "icon": "book-open"}
+    ],
+    "likes": 6780,
+    "createdAt": "2026-01-29",
+    "featured": false
+  },
+  {
+    "id": "learn-card-magic-tricks",
+    "name": "Learn 5 Card Magic Tricks",
+    "icon": "hand",
+    "color": "#EF6C00",
+    "category": "games",
+    "subcategory": "card-games",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Perform 5 impressive card tricks that amaze audiences of any age",
+    "needs": ["deck-of-cards", "mirror", "table"],
+    "steps": [
+      {"time": "0–15 min", "label": "Master Card Control", "text": "Learn to shuffle, cut, and control card positions. Practice the overhand shuffle and false shuffle. Your hand position matters", "icon": "eye"},
+      {"time": "15–35 min", "label": "Learn the Classic Force", "text": "Master making a spectator pick a 'forced' card of your choice. Practice 20 times. This is the foundation of many tricks", "icon": "hand"},
+      {"time": "35–55 min", "label": "Perform the Self-Working Tricks", "text": "Learn the 21-card trick (principle-based), Double Prediction, and 4-card reveal. These require math, not sleight of hand", "icon": "layers"},
+      {"time": "55–75 min", "label": "Add Sleight of Hand", "text": "Master the double lift (showing two cards as one) and false cut. Practice in front of mirror. Smoothness is key", "icon": "zap"},
+      {"time": "75–90 min", "label": "Practice Misdirection and Presentation", "text": "Perform all 5 tricks for a friend. Work on patter (talking), timing, and misdirection. Build confidence through repetition", "icon": "star"}
+    ],
+    "tip": "Misdirection and presentation matter more than sleight. Tell a story around your tricks",
+    "resources": [
+      {"label": "Card Magic Tutorial", "url": "https://www.youtube.com/user/Scammerproof", "icon": "play"},
+      {"label": "Magic Tricks Explained", "url": "https://www.wikihow.com/Do-Magic-Tricks-with-Cards", "icon": "book-open"}
+    ],
+    "likes": 7920,
+    "createdAt": "2026-01-04",
+    "featured": false
+  },
+  {
+    "id": "play-chess-not-lose",
+    "name": "Play Chess and Not Lose Immediately",
+    "icon": "gamepad",
+    "color": "#EF6C00",
+    "category": "games",
+    "subcategory": "chess",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Play respectable games of chess using solid opening principles and tactical awareness",
+    "needs": ["chessboard", "pieces", "timer-optional", "chess-app"],
+    "steps": [
+      {"time": "0–15 min", "label": "Learn Piece Values and Movement", "text": "Master each piece: pawn (1), knight (3), bishop (3), rook (5), queen (9), king (infinite). Understand how each moves and captures", "icon": "eye"},
+      {"time": "15–35 min", "label": "Study Opening Principles", "text": "Control center (e4 and d4), develop pieces (knights before bishops), castle early, avoid early queen, don't expose king", "icon": "hand"},
+      {"time": "35–55 min", "label": "Learn Basic Tactics", "text": "Study forks, pins, skewers, discovered attacks. These win material. Practice spotting tactics 10 minutes daily on Chess.com", "icon": "layers"},
+      {"time": "55–75 min", "label": "Play Against Computer", "text": "Start on easy level. Play 5 full games. Focus on applying principles, not winning. Analyze losses to understand mistakes", "icon": "zap"},
+      {"time": "75–90 min", "label": "Play Against Humans and Learn", "text": "Play friends or online opponents. Play slowly (5+ minute games initially). Review games. Identify patterns in your play", "icon": "star"}
+    ],
+    "tip": "Focus on solid principles over memorizing openings. Tactical awareness (spotting threats) is more valuable than theory",
+    "resources": [
+      {"label": "Chess Fundamentals", "url": "https://www.chess.com/lessons", "icon": "play"},
+      {"label": "Tactics Trainer", "url": "https://www.chess.com/tactics", "icon": "book-open"}
+    ],
+    "likes": 5420,
+    "createdAt": "2026-01-27",
+    "featured": false
+  },
+  {
+    "id": "solve-rubiks-cube",
+    "name": "Solve a Rubik's Cube",
+    "icon": "puzzle",
+    "color": "#EF6C00",
+    "category": "games",
+    "subcategory": "rubiks-cube",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Solve a Rubik's cube in under 2 minutes using the beginner's layer-by-layer method",
+    "needs": ["rubiks-cube", "tutorial", "patience"],
+    "steps": [
+      {"time": "0–15 min", "label": "Learn Cube Notation", "text": "Understand U (up), D (down), L (left), R (right), F (front), B (back), and prime (opposite direction). Master turn notations", "icon": "eye"},
+      {"time": "15–35 min", "label": "Solve the White Cross", "text": "Get white center on bottom. Create cross matching colors. This layer's foundation determines success for whole cube", "icon": "hand"},
+      {"time": "35–55 min", "label": "Complete the First Layer", "text": "Place white corner pieces. Use the right-hand algorithm R U R' U' repeatedly if needed. All white pieces match side colors", "icon": "layers"},
+      {"time": "55–75 min", "label": "Solve the Middle Layer", "text": "Place edge pieces without moving white cross. Master moving pieces side-to-side using specific algorithms. No guessing", "icon": "zap"},
+      {"time": "75–90 min", "label": "Solve the Yellow Cross and Top", "text": "Create yellow cross on top (might not match), then permute and orient top layer pieces. Use algorithms until cube is solved", "icon": "star"}
+    ],
+    "tip": "The Rubik's cube is a puzzle of algorithms, not luck. Memorize 2-3 core algorithms and apply strategically",
+    "resources": [
+      {"label": "Rubik's Cube Tutorial", "url": "https://www.youtube.com/watch?v=7ROarIlQkWI", "icon": "play"},
+      {"label": "Layer-by-Layer Guide", "url": "https://rubiks.com/en-us/blog/cubers-corner/how-to-solve-a-rubiks-cube", "icon": "book-open"}
+    ],
+    "likes": 8750,
+    "createdAt": "2026-01-30",
+    "featured": false
+  },
+  {
+    "id": "learn-juggle-3-balls",
+    "name": "Learn to Juggle 3 Balls",
+    "icon": "hand",
+    "color": "#EF6C00",
+    "category": "games",
+    "subcategory": "juggling",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Confidently juggle 3 balls in a continuous pattern without dropping",
+    "needs": ["3-juggling-balls", "open-space", "patience"],
+    "steps": [
+      {"time": "0–15 min", "label": "Understand the Pattern", "text": "Learn the basic cascade: balls cross in an X pattern. Left hand throws, right hand throws, left throws. Peak at eye level", "icon": "eye"},
+      {"time": "15–35 min", "label": "Practice One-Ball Toss", "text": "Toss one ball from left hand to right hand at eye level. Catch easily. Do 50 times. Perfect the arch and consistency", "icon": "hand"},
+      {"time": "35–55 min", "label": "Add Second Ball", "text": "Hold 2 balls in left hand, 1 in right. Toss left ball first. When at peak, throw right ball underneath. Catch. Repeat 20 times", "icon": "layers"},
+      {"time": "55–75 min", "label": "Add Third Ball and Complete Pattern", "text": "Hold 2 left, 1 right. Toss left ball. At peak, toss right ball. At its peak, toss left ball again. Catch. Continue pattern", "icon": "zap"},
+      {"time": "75–90 min", "label": "Build Consistency and Speed", "text": "Practice continuously without stopping. Build from 10-catch record to 50, then 100. Gradually increase speed. Make it automatic", "icon": "star"}
+    ],
+    "tip": "Focus on consistent throw height and timing, not catching. Throws determine ease of catches",
+    "resources": [
+      {"label": "Juggling Tutorial", "url": "https://www.youtube.com/watch?v=KPlGKtnCLPc", "icon": "play"},
+      {"label": "Juggling Progression", "url": "https://www.wikihow.com/Learn-to-Juggle", "icon": "book-open"}
+    ],
+    "likes": 4320,
+    "createdAt": "2026-02-01",
+    "featured": false
+  },
+  {
+    "id": "win-poker-night",
+    "name": "Win at Poker Night",
+    "icon": "target",
+    "color": "#EF6C00",
+    "category": "games",
+    "subcategory": "card-games",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Win consistently at casual poker using solid strategy and bankroll management",
+    "needs": ["poker-chips", "playing-cards", "opponents"],
+    "steps": [
+      {"time": "0–15 min", "label": "Understand Hand Rankings", "text": "Royal Flush, Straight Flush, Four of a Kind, Full House, Flush, Straight, Three of a Kind, Two Pair, Pair, High Card. Memorize order", "icon": "eye"},
+      {"time": "15–35 min", "label": "Learn Position and Starting Hands", "text": "Understand table positions: early, middle, late. Play tighter hands early, looser late. Know which hands win from each position", "icon": "hand"},
+      {"time": "35–55 min", "label": "Master Pot Odds and Betting", "text": "Calculate pot odds: is potential win worth the cost? Bet and raise with strength, check/call with weakness. Don't limp", "icon": "layers"},
+      {"time": "55–75 min", "label": "Read Your Opponents", "text": "Watch for tells: betting patterns, speed, hesitation. Notice who plays tight, loose, aggressive, passive. Adjust strategy accordingly", "icon": "zap"},
+      {"time": "75–90 min", "label": "Practice Game Theory", "text": "Play multiple games. Track wins and losses. Review big hands. Understand expected value. Play with profit goal, not gamble mindset", "icon": "star"}
+    ],
+    "tip": "Fold more often. Average players lose because they play too many hands. Patience and position are fundamental",
+    "resources": [
+      {"label": "Poker Strategy Guide", "url": "https://www.pokerhandranking.com/", "icon": "play"},
+      {"label": "Cash Game Strategy", "url": "https://www.pokerstars.com/en/blog/poker-theory", "icon": "book-open"}
+    ],
+    "likes": 6150,
+    "createdAt": "2026-02-03",
+    "featured": false
+  },
+  {
+    "id": "master-pool-shots",
+    "name": "Master 5 Pool Shots",
+    "icon": "trophy",
+    "color": "#EF6C00",
+    "category": "games",
+    "subcategory": "pool",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Execute 5 essential pool shots with consistency and control",
+    "needs": ["pool-table", "cues", "balls"],
+    "steps": [
+      {"time": "0–15 min", "label": "Perfect Your Stance", "text": "Stand 45 degrees to shot line. Bridge hand firm but relaxed. Shooting arm pendulum motion. Aim through cue ball toward object ball", "icon": "eye"},
+      {"time": "15–35 min", "label": "Master the Straight Shot", "text": "Line up directly behind cue ball. Hit center of cue ball. Follow through smoothly. Practice 20 shots in a row until consistent", "icon": "hand"},
+      {"time": "35–55 min", "label": "Learn the Angle Shot", "text": "Hit object ball slightly off-center to sink it at an angle. Aim for the contact point, not the pocket. Practice right and left angles", "icon": "layers"},
+      {"time": "55–75 min", "label": "Practice the Bank Shot", "text": "Bounce cue ball off rail before hitting object ball. Calculate angles using rail geometry. This shot impresses spectators", "icon": "zap"},
+      {"time": "75–90 min", "label": "Master Draw, Follow, and English", "text": "Draw shot: hit below center, cue ball stops after contact. Follow shot: hit above center, cue ball moves forward. English: spin for angles", "icon": "star"}
+    ],
+    "tip": "Smooth, controlled strokes are better than power. Aim for precise contact, not luck",
+    "resources": [
+      {"label": "Pool Shots Tutorial", "url": "https://www.youtube.com/watch?v=gXH-yq0VCUM", "icon": "play"},
+      {"label": "Billiards Technique", "url": "https://www.wikihow.com/Play-Pool", "icon": "book-open"}
+    ],
+    "likes": 3890,
+    "createdAt": "2026-02-04",
+    "featured": false
+  },
+  {
+    "id": "master-darts",
+    "name": "Master Darts: Score & Strategy",
+    "icon": "dice",
+    "color": "#EF6C00",
+    "category": "games",
+    "subcategory": "darts",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Throw accurately to double-digit scores and understand dart game strategy",
+    "needs": ["dart-board", "darts", "scoreboard"],
+    "steps": [
+      {"time": "0–15 min", "label": "Learn the Dartboard Layout", "text": "Memorize double ring, triple ring, outer bull, inner bull (50), and single scoring areas. Understand that 20 is highest single", "icon": "eye"},
+      {"time": "15–35 min", "label": "Master Your Grip and Stance", "text": "Grip dart near back (like pencil). Feet shoulder-width apart. Arm at 90 degrees. Smooth release from fingertips. Practice stance", "icon": "hand"},
+      {"time": "35–55 min", "label": "Practice Accuracy and Consistency", "text": "Throw 30 darts at single 20 repeatedly. Then practice treble 20 (60 points). Focus on grouping three darts together", "icon": "layers"},
+      {"time": "55–75 min", "label": "Learn Game Strategy (501)", "text": "Standard game: score from 501 to zero with double-out. High-score round focuses on treble 20. End game requires doubles", "icon": "zap"},
+      {"time": "75–90 min", "label": "Play Full Games and Compete", "text": "Play 501 against friends or computer. Track your three-dart average. Practice closing out games. Build match experience", "icon": "star"}
+    ],
+    "tip": "Consistency beats raw power. Focus on grouping darts, not maximum single throws",
+    "resources": [
+      {"label": "Darts Technique Guide", "url": "https://www.youtube.com/watch?v=r9lCg_bTe_4", "icon": "play"},
+      {"label": "Dartboard Scoresheet", "url": "https://www.wikihow.com/Play-Darts", "icon": "book-open"}
+    ],
+    "likes": 2650,
+    "createdAt": "2026-02-05",
+    "featured": false
+  }
+]

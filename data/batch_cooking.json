@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "master-knife-skills",
+    "name": "Master Knife Skills",
+    "icon": "hand",
+    "color": "#FF6B6B",
+    "category": "cooking",
+    "subcategory": "knife-skills",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Confidently cut vegetables with proper technique and speed",
+    "needs": ["chef's knife", "cutting board", "onion", "carrot", "bell pepper"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Grip & Stance",
+        "text": "Hold the knife with a firm grip on the handle, thumb and index finger pinching the blade base. Stand with feet shoulder-width apart, body at 45 degrees to the cutting board.",
+        "icon": "hand"
+      },
+      {
+        "time": "15–35 min",
+        "label": "The Claw Hold",
+        "text": "Curl your fingertips inward and use your knuckles as a guide. This protects your fingers while you practice the rocking motion. Keep the blade tip on the board.",
+        "icon": "eye"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Brunoise Practice",
+        "text": "Start with a carrot. Slice lengthwise, stack, and cut into thin strips. Then cut across to create tiny, uniform cubes. Speed comes with repetition.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Dice an Onion",
+        "text": "Halve, peel, and slice horizontally (leaving root end). Slice lengthwise, then cross-cut to create perfect dice. The root keeps it stable.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Speed Drill",
+        "text": "Set a timer for 5 minutes and dice one more vegetable, focusing on consistency and confidence. Quality over speed at this stage.",
+        "icon": "star"
+      }
+    ],
+    "tip": "A sharp knife is safer than a dull one—it requires less pressure and is easier to control. Invest in honing your blade weekly.",
+    "resources": [
+      {
+        "label": "French Knife Techniques",
+        "url": "https://www.youtube.com/results?search_query=french+knife+techniques",
+        "icon": "play"
+      }
+    ],
+    "likes": 11200,
+    "createdAt": "2026-01-20",
+    "featured": true
+  },
+  {
+    "id": "cook-perfect-rice",
+    "name": "Cook Perfect Rice Every Time",
+    "icon": "utensils",
+    "color": "#F39C12",
+    "category": "cooking",
+    "subcategory": "basics",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Fluffy, perfectly cooked rice without mush or crunch",
+    "needs": ["white rice", "pot with lid", "water", "fork", "salt"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Rinse & Measure",
+        "text": "Place rice in a fine-mesh strainer and rinse under cold water until the water runs clear. Use a 2:1 water-to-rice ratio by weight.",
+        "icon": "droplets"
+      },
+      {
+        "time": "15–25 min",
+        "label": "Bring to Boil",
+        "text": "Add rinsed rice to a pot with cold water and salt. Bring to a rolling boil over high heat, uncovered. This takes about 10 minutes.",
+        "icon": "flame"
+      },
+      {
+        "time": "25–55 min",
+        "label": "Simmer Covered",
+        "text": "Once boiling, reduce heat to low, cover with a tight-fitting lid, and simmer for 18 minutes. Do not lift the lid—steam is crucial.",
+        "icon": "timer"
+      },
+      {
+        "time": "55–70 min",
+        "label": "Rest & Fluff",
+        "text": "Remove from heat and let sit covered for 10 minutes. This allows carryover cooking to finish. Fluff with a fork to separate grains.",
+        "icon": "eye"
+      },
+      {
+        "time": "70–90 min",
+        "label": "Serve & Enjoy",
+        "text": "Transfer to a serving bowl. The rice should be tender and each grain separate. Taste and adjust seasoning if needed.",
+        "icon": "star"
+      }
+    ],
+    "tip": "The resting step is non-negotiable—it's what separates mediocre rice from perfect rice. Don't skip it.",
+    "resources": [
+      {
+        "label": "Rice Cooking Science",
+        "url": "https://www.youtube.com/results?search_query=perfect+rice+cooking+technique",
+        "icon": "play"
+      }
+    ],
+    "likes": 9800,
+    "createdAt": "2026-01-21",
+    "featured": false
+  },
+  {
+    "id": "make-perfect-eggs",
+    "name": "Make Perfect Eggs Five Ways",
+    "icon": "egg",
+    "color": "#FFD700",
+    "category": "cooking",
+    "subcategory": "basics",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Cook eggs to perfection: scrambled, fried, poached, boiled, and soft-set",
+    "needs": ["eggs", "butter", "salt", "pepper", "non-stick pan", "slotted spoon", "saucepan"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Scrambled Excellence",
+        "text": "Crack eggs into a bowl, whisk with salt and pepper. Melt butter in a non-stick pan on low-medium heat. Add eggs, stir slowly and constantly. Remove when still slightly wet.",
+        "icon": "egg"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Sunny-Side & Over-Easy",
+        "text": "Heat butter in pan over medium. Crack egg directly into pan. For sunny-side up, cover and cook until whites set but yolk jiggles. For over-easy, flip gently after 3 minutes.",
+        "icon": "flame"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Poached Perfection",
+        "text": "Bring water with vinegar to gentle simmer in shallow pan. Create a whirlpool, slide egg into center. Cook for 3-4 minutes until whites set but yolk soft. Remove with slotted spoon.",
+        "icon": "droplets"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Hard & Soft Boiled",
+        "text": "Place eggs in cold water, bring to boil. For soft-boiled (runny yolk): 6 minutes. For hard-boiled: 12 minutes. Ice bath immediately. Peel under running water.",
+        "icon": "thermometer"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Taste & Master",
+        "text": "Try each method. Soft scrambled eggs should be creamy, poached should have a set white and runny yolk, fried should have crispy edges. Season perfectly each time.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Low and slow heat is the secret to creamy scrambled eggs. High heat makes them rubbery. Also, remove eggs from heat slightly before they look done—carryover cooking finishes the job.",
+    "resources": [
+      {
+        "label": "The Science of Egg Cooking",
+        "url": "https://www.youtube.com/results?search_query=egg+cooking+temperature+science",
+        "icon": "play"
+      }
+    ],
+    "likes": 10500,
+    "createdAt": "2026-01-22",
+    "featured": false
+  },
+  {
+    "id": "bake-sourdough-bread",
+    "name": "Bake Sourdough Bread",
+    "icon": "layers",
+    "color": "#8B4513",
+    "category": "cooking",
+    "subcategory": "baking",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A crusty, tangy sourdough loaf with open crumb structure",
+    "needs": ["sourdough starter", "bread flour", "water", "salt", "Dutch oven", "banneton basket", "scoring knife"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Mix & Autolyse",
+        "text": "Combine flour and water (80% hydration), mix until shaggy. Let rest 30 minutes. Add your active, bubbly starter and salt. Mix thoroughly.",
+        "icon": "layers"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Bulk Fermentation",
+        "text": "Perform 4 sets of stretch-and-fold over 30 minutes at room temperature. Turn out onto the bench, shape gently. Bulk ferment 4-5 hours until 50-75% rise.",
+        "icon": "timer"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Pre-shape & Final Proof",
+        "text": "Pre-shape into a round, rest 20 minutes. Final shape with tension, seam side up in floured banneton. Cold proof in fridge overnight (12+ hours).",
+        "icon": "zap"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Score & Bake",
+        "text": "Preheat Dutch oven to 500°F. Turn dough onto parchment, score with a knife (¼ inch deep, 30-degree angle). Bake covered 20 minutes, uncovered 25-30 minutes until deep brown.",
+        "icon": "flame"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Cool & Slice",
+        "text": "Cool on wire rack for at least 1 hour before slicing. The crust should crackle and crunch. The interior should have good oven spring and open crumb.",
+        "icon": "star"
+      }
+    ],
+    "tip": "The overnight cold proof is essential—it develops flavor and makes the dough easier to score. Oven spring happens when you score properly, so be confident with your cuts.",
+    "resources": [
+      {
+        "label": "Sourdough Mastery Course",
+        "url": "https://www.youtube.com/results?search_query=sourdough+bread+baking+tutorial",
+        "icon": "play"
+      }
+    ],
+    "likes": 12800,
+    "createdAt": "2026-01-23",
+    "featured": true
+  },
+  {
+    "id": "bake-croissants",
+    "name": "Bake Laminated Croissants",
+    "icon": "layers",
+    "color": "#D4A574",
+    "category": "cooking",
+    "subcategory": "baking",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "Buttery, flaky croissants with perfect layers and golden exterior",
+    "needs": ["bread flour", "butter", "sugar", "salt", "yeast", "milk", "egg wash", "rolling pin", "bench scraper"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Make & Chill Dough",
+        "text": "Mix flour, water, yeast, sugar, salt. Knead to smooth dough. Let rest 30 minutes. Wrap in plastic, chill overnight to relax gluten.",
+        "icon": "timer"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Laminate with Butter",
+        "text": "Roll cold dough to rectangle. Place cold butter block in center, fold dough envelope-style. Seal edges. First fold: roll long, fold in thirds (book fold). Chill 30 min.",
+        "icon": "layers"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Complete Lamination",
+        "text": "Perform 4 more book folds with 30-minute chills between each. After final fold, chill 2+ hours. Each fold doubles the layers (243 layers total after 5 folds).",
+        "icon": "zap"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Shape & Proof",
+        "text": "Roll out to ¼-inch thickness. Cut triangles. Roll from base to point, curl ends. Place on parchment, proof at room temperature 2-3 hours until puffy. Brush with egg wash.",
+        "icon": "eye"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Bake to Golden",
+        "text": "Bake at 400°F for 18-22 minutes until deep golden and crispy. Internal temp 205°F. Cool on rack. Listen for the crackle—that's the sign of perfect lamination.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Temperature control is critical—butter must stay cold and firm. If it warms up and leaks, your croissants will be greasy, not flaky. A cool kitchen is your friend.",
+    "resources": [
+      {
+        "label": "Professional Croissant Technique",
+        "url": "https://www.youtube.com/results?search_query=croissant+lamination+tutorial",
+        "icon": "play"
+      }
+    ],
+    "likes": 11000,
+    "createdAt": "2026-01-24",
+    "featured": false
+  },
+  {
+    "id": "bake-chocolate-cake",
+    "name": "Bake Moist Chocolate Cake",
+    "icon": "utensils",
+    "color": "#5D4037",
+    "category": "cooking",
+    "subcategory": "desserts",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A rich, tender chocolate cake with deep cocoa flavor",
+    "needs": ["all-purpose flour", "cocoa powder", "sugar", "eggs", "butter", "buttermilk", "vanilla", "baking powder", "baking soda", "salt", "hot water"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Preheat & Prepare",
+        "text": "Preheat oven to 350°F. Grease two 9-inch round pans and line bottoms with parchment. Whisk together flour, cocoa, baking powder, baking soda, and salt in a bowl.",
+        "icon": "flame"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Cream & Mix",
+        "text": "Cream butter and sugar until light and fluffy, 3 minutes. Add eggs one at a time, beating well. Alternate adding flour mixture and buttermilk, starting and ending with flour.",
+        "icon": "zap"
+      },
+      {
+        "time": "35–50 min",
+        "label": "Add Magic Ingredient",
+        "text": "Stir in vanilla. Pour in hot water and mix until smooth (batter will be thin). This is normal—it creates a moist crumb. Divide between prepared pans.",
+        "icon": "droplets"
+      },
+      {
+        "time": "50–70 min",
+        "label": "Bake Until Done",
+        "text": "Bake for 30-33 minutes until a toothpick inserted in center comes out with a few moist crumbs. Overbaking dries out chocolate cake. Cool in pans 15 minutes.",
+        "icon": "thermometer"
+      },
+      {
+        "time": "70–90 min",
+        "label": "Turn Out & Cool",
+        "text": "Invert cakes onto wire racks and cool completely before frosting. A fully cooled cake is easier to frost and less likely to tear.",
+        "icon": "star"
+      }
+    ],
+    "tip": "The hot water in the batter might seem weird, but it's the secret to moist chocolate cake. It blooms the cocoa and creates steam that keeps the cake tender.",
+    "resources": [
+      {
+        "label": "Chocolate Cake Chemistry",
+        "url": "https://www.youtube.com/results?search_query=chocolate+cake+baking+science",
+        "icon": "play"
+      }
+    ],
+    "likes": 10200,
+    "createdAt": "2026-01-25",
+    "featured": false
+  },
+  {
+    "id": "roll-sushi",
+    "name": "Roll Your First Sushi",
+    "icon": "layers",
+    "color": "#2E7D32",
+    "category": "cooking",
+    "subcategory": "sushi",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Beautiful, properly rolled sushi with the right nori-to-rice ratio",
+    "needs": ["sushi rice", "nori sheets", "cucumber", "avocado", "imitation crab", "soy sauce", "wasabi", "sushi mat", "rice vinegar", "water"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Prepare Rice & Nori",
+        "text": "Cook sushi rice and season with vinegar, sugar, salt while warm. Let cool to room temperature. Place nori shiny-side down on bamboo mat. Have all ingredients prepped.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Spread Rice",
+        "text": "Wet your fingers. Spread a thin, even layer of rice on the nori, leaving ½ inch at the top. Less rice than you think you need. Press gently—rice should stick.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Add Fillings",
+        "text": "Place cucumber, avocado, and crab in a line along the bottom third. Don't overfill—restrain yourself. The most common mistake is too much filling.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Roll & Seal",
+        "text": "Using the mat, roll away from you in one smooth motion, pulling the mat back as you go. Keep pressure even and consistent. When nori meets rice, wet the edge and press to seal.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Slice & Serve",
+        "text": "Let rest 5 minutes. With a wet, sharp knife, slice into 6-8 pieces. Wipe blade between cuts. Serve with soy sauce, wasabi, and pickled ginger.",
+        "icon": "star"
+      }
+    ],
+    "tip": "A very sharp knife is essential for clean cuts. A dull knife will crush the rice. Wet your knife between each cut to prevent sticking.",
+    "resources": [
+      {
+        "label": "Sushi Rolling Basics",
+        "url": "https://www.youtube.com/results?search_query=how+to+roll+sushi+tutorial",
+        "icon": "play"
+      }
+    ],
+    "likes": 10800,
+    "createdAt": "2026-01-26",
+    "featured": false
+  },
+  {
+    "id": "make-nigiri",
+    "name": "Make Nigiri Sushi by Hand",
+    "icon": "hand",
+    "color": "#FF6B6B",
+    "category": "cooking",
+    "subcategory": "sushi",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Restaurant-quality nigiri with perfect rice shape and fish placement",
+    "needs": ["sushi rice", "nori strips", "salmon", "tuna", "eggs", "wasabi", "water", "sharp sushi knife"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Slice Fish",
+        "text": "Place sashimi-grade fish on a cutting board with grain. Using a very sharp knife, slice at 45-degree angle across the grain into ¼-inch slices. Minimize handling.",
+        "icon": "hand"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Shape Rice",
+        "text": "Wet your hands. Take about 25g of sushi rice (walnut-sized ball). Cup hands and gently press and shape into an oval. Don't compress too hard—keep it light and airy.",
+        "icon": "eye"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Apply Fish & Wasabi",
+        "text": "Place fish on a wet cutting board. Dab a tiny bit of wasabi on the rice. Place rice on top of fish, press gently to adhere. Flip so fish is on top, rice underneath.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Wrap with Nori",
+        "text": "For some pieces, wrap a thin strip of nori around the middle as a band. Use a single strip that goes around once. The nori should be crisp and sticky.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Arrange & Enjoy",
+        "text": "Arrange on a plate, serve immediately. Nigiri is best eaten fresh within minutes. The rice should still be slightly warm, the fish at room temperature.",
+        "icon": "star"
+      }
+    ],
+    "tip": "The key to good nigiri is a light hand—the rice should hold together gently, not be compressed into a brick. Practice makes perfect. Expect your first attempts to be lumpy.",
+    "resources": [
+      {
+        "label": "Nigiri Sushi Technique",
+        "url": "https://www.youtube.com/results?search_query=nigiri+sushi+hand+technique",
+        "icon": "play"
+      }
+    ],
+    "likes": 9600,
+    "createdAt": "2026-01-27",
+    "featured": false
+  },
+  {
+    "id": "master-pasta-sauce",
+    "name": "Master Pasta with Perfect Sauce",
+    "icon": "flame",
+    "color": "#E65100",
+    "category": "cooking",
+    "subcategory": "pasta",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Restaurant-quality pasta with emulsified sauce that clings to every noodle",
+    "needs": ["pasta", "tomatoes", "garlic", "olive oil", "salt", "butter", "reserved pasta water", "basil", "parmesan"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Start the Sauce",
+        "text": "Heat olive oil in a pan. Add sliced garlic, cook gently until golden and fragrant (don't brown). Add crushed tomatoes, salt, and a pinch of sugar. Simmer 20 minutes.",
+        "icon": "flame"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Cook Pasta",
+        "text": "Bring salted water to a rolling boil. Add pasta and cook to al dente (1-2 minutes before package time). Reserve 1 cup starchy pasta water before draining.",
+        "icon": "timer"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Emulsify",
+        "text": "Reduce heat to low. Add cooked pasta to the sauce. Add 2 tablespoons butter and ½ cup reserved pasta water. Toss gently but constantly for 2-3 minutes.",
+        "icon": "zap"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Adjust & Finish",
+        "text": "The pasta water's starch creates a creamy sauce that clings to pasta. If too thick, add more water. If too thin, simmer uncovered. Taste and adjust seasoning.",
+        "icon": "eye"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Plate & Serve",
+        "text": "Finish with torn basil, grated parmesan, and a drizzle of olive oil. The sauce should coat pasta evenly, not sit pooled at the bottom. Serve immediately.",
+        "icon": "star"
+      }
+    ],
+    "tip": "The pasta water is liquid gold—the starch in it emulsifies with the butter and oil to create a silky sauce. Never skip reserving it. The tossing technique is just as important as the ingredients.",
+    "resources": [
+      {
+        "label": "The Science of Pasta Water",
+        "url": "https://www.youtube.com/results?search_query=pasta+water+emulsion+technique",
+        "icon": "play"
+      }
+    ],
+    "likes": 11500,
+    "createdAt": "2026-01-28",
+    "featured": false
+  },
+  {
+    "id": "make-fresh-pasta",
+    "name": "Make Fresh Pasta Dough",
+    "icon": "layers",
+    "color": "#FFD700",
+    "category": "cooking",
+    "subcategory": "pasta",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Silky, tender fresh pasta that tastes incomparably better than dried",
+    "needs": ["all-purpose flour", "eggs", "salt", "olive oil", "pasta machine or rolling pin", "wooden board"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Make the Well",
+        "text": "Mound 300g flour on a clean board. Create a well in the center. Crack 3 eggs into the well. Beat eggs lightly. Start incorporating flour from the inner walls.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Knead to Smooth",
+        "text": "Once shaggy, knead for 8-10 minutes until very smooth and elastic. Add flour if too wet, a tiny splash of water if too dry. The dough should feel like an earlobe.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Rest the Dough",
+        "text": "Wrap in plastic and rest at room temperature for at least 30 minutes. This allows gluten to relax, making rolling much easier.",
+        "icon": "timer"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Roll Thin",
+        "text": "Divide dough into 4 pieces. Using a pasta machine on widest setting, run each piece through 4-5 times, folding in half between passes. Then progressively thin setting by setting until paper-thin.",
+        "icon": "layers"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Cut & Cook",
+        "text": "Let sheets rest 10 minutes on floured surface. Cut into desired shapes (tagliatelle, fettuccine, pappardelle). Cook fresh pasta in boiling salted water—it'll float to top and cook in 2-3 minutes.",
+        "icon": "star"
+      }
+    ],
+    "tip": "The resting step is crucial—it transforms tough dough into silky sheets. Don't rush. Also, fresh pasta cooks incredibly fast, so watch carefully.",
+    "resources": [
+      {
+        "label": "Fresh Pasta Making",
+        "url": "https://www.youtube.com/results?search_query=fresh+pasta+dough+tutorial",
+        "icon": "play"
+      }
+    ],
+    "likes": 10300,
+    "createdAt": "2026-01-29",
+    "featured": false
+  },
+  {
+    "id": "grill-perfect-steak",
+    "name": "Grill the Perfect Steak",
+    "icon": "flame",
+    "color": "#8B4513",
+    "category": "cooking",
+    "subcategory": "grilling",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Steakhouse-quality steak with perfect crust and juicy, tender interior",
+    "needs": ["ribeye or ny strip steak", "salt", "pepper", "butter", "garlic", "thyme", "meat thermometer", "grill"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Prepare the Steak",
+        "text": "Remove steak from fridge 40 minutes before cooking. Pat very dry with paper towels—moisture prevents browning. Season generously with salt and pepper on both sides.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Get Grill Hot",
+        "text": "Preheat grill to high (450°F+). Clean grates thoroughly. Oil grates well to prevent sticking. You want grill marks, which require high heat.",
+        "icon": "flame"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Sear Both Sides",
+        "text": "Place steak directly on grill. Don't move it for 3-4 minutes to develop a crust. Flip once and cook another 3-4 minutes. Use a meat thermometer: rare 125°F, medium 135°F, medium-well 145°F.",
+        "icon": "thermometer"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Rest & Butter",
+        "text": "Remove steak to a warm plate. Top with a knob of butter, smashed garlic, and fresh thyme. Tent loosely with foil. Rest for 5-10 minutes (this is essential).",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Serve & Enjoy",
+        "text": "The resting allows juices to redistribute. Cut into the steak—it should be warm all the way through with a beautiful crust. Taste the buttery, beefy perfection.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Resting is non-negotiable. If you cut into the steak immediately, all the juices pour out onto the plate instead of staying in the meat. Those 5-10 minutes make all the difference.",
+    "resources": [
+      {
+        "label": "Steak Grilling Guide",
+        "url": "https://www.youtube.com/results?search_query=how+to+grill+perfect+steak",
+        "icon": "play"
+      }
+    ],
+    "likes": 12300,
+    "createdAt": "2026-01-30",
+    "featured": false
+  },
+  {
+    "id": "grill-vegetables",
+    "name": "Grill Restaurant-Quality Vegetables",
+    "icon": "flame",
+    "color": "#2E7D32",
+    "category": "cooking",
+    "subcategory": "grilling",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Charred, tender vegetables with smoky depth and caramelized edges",
+    "needs": ["zucchini", "bell peppers", "eggplant", "asparagus", "olive oil", "salt", "pepper", "lemon", "garlic"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Prep Vegetables",
+        "text": "Cut vegetables into even-sized pieces (½-inch thick for zucchini, ¼-inch strips for peppers). Toss with olive oil, salt, and pepper. Let sit 10 minutes.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Get Grill Ready",
+        "text": "Preheat grill to medium-high (375-400°F). Clean and oil grates well. Vegetables stick easily, so proper oiling is critical.",
+        "icon": "flame"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Grill with Confidence",
+        "text": "Place vegetables directly on grates. Cook without moving for 3-4 minutes per side until charred and tender. Watch for grill marks. Softer vegetables (zucchini, eggplant) take 4-5 minutes per side.",
+        "icon": "zap"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Build Flavor",
+        "text": "Transfer to a bowl. Drizzle with olive oil, squeeze fresh lemon, add minced garlic and fresh herbs. Season to taste. Let warm flavors meld for a few minutes.",
+        "icon": "eye"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Plate & Serve",
+        "text": "Arrange on a platter. The vegetables should have deep char marks and smoky flavor. Taste the caramelized sweetness with hints of smoke and garlic.",
+        "icon": "star"
+      }
+    ],
+    "tip": "The char is your goal—don't flip too early or move vegetables around. Let them sit on the grill, get golden and crispy. The darker the char, the deeper the flavor.",
+    "resources": [
+      {
+        "label": "Vegetable Grilling Tips",
+        "url": "https://www.youtube.com/results?search_query=grilling+vegetables+technique",
+        "icon": "play"
+      }
+    ],
+    "likes": 8900,
+    "createdAt": "2026-01-31",
+    "featured": false
+  },
+  {
+    "id": "make-classic-sauces",
+    "name": "Make Perfect French Sauces",
+    "icon": "flame",
+    "color": "#E65100",
+    "category": "cooking",
+    "subcategory": "sauces",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Master five classic French sauces: béchamel, hollandaise, béarnaise, demi-glace, and velouté",
+    "needs": ["butter", "flour", "milk", "egg yolks", "white wine", "shallots", "tarragon", "beef stock", "lemon", "salt", "pepper"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Béchamel & Velouté",
+        "text": "Make a roux: melt butter, add flour, cook 1 minute. Whisk in milk (béchamel) or stock (velouté) slowly over medium heat, stirring constantly. Season with salt, pepper, nutmeg.",
+        "icon": "flame"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Hollandaise",
+        "text": "In a heatproof bowl over simmering water, whisk egg yolks with a bit of water until pale and frothy. Remove from heat. Slowly whisk in melted butter while whisking constantly. Add lemon juice. Silky and rich.",
+        "icon": "zap"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Béarnaise",
+        "text": "Reduce white wine with shallots and tarragon until syrupy. Cool slightly. Whisk in egg yolks over simmering water as with hollandaise. Add butter slowly. Strain through fine sieve. Perfect for steak.",
+        "icon": "eye"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Demi-Glace",
+        "text": "Simmer beef stock with beef bones and aromatics for 2-3 hours until reduced by half and glossy. Strain. This rich, concentrated sauce takes time but is the foundation of many French sauces.",
+        "icon": "timer"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Taste & Understand",
+        "text": "Taste each sauce and understand the difference. Béchamel is creamy, hollandaise is luxurious and eggy, béarnaise is herby and rich, demi-glace is deep and meaty, velouté is silky and elegant.",
+        "icon": "star"
+      }
+    ],
+    "tip": "The key to hollandaise and béarnaise is temperature control—keep heat gentle and add butter slowly. If it breaks (looks grainy), start with a fresh egg yolk in a clean bowl and slowly whisk in the broken sauce.",
+    "resources": [
+      {
+        "label": "French Sauce Masterclass",
+        "url": "https://www.youtube.com/results?search_query=french+mother+sauces+tutorial",
+        "icon": "play"
+      }
+    ],
+    "likes": 9200,
+    "createdAt": "2026-02-01",
+    "featured": false
+  },
+  {
+    "id": "make-vinaigrettes",
+    "name": "Master Salad Vinaigrettes",
+    "icon": "droplets",
+    "color": "#558B2F",
+    "category": "cooking",
+    "subcategory": "sauces",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Five perfect vinaigrettes: classic, mustard, balsamic, lemon herb, and shallot",
+    "needs": ["olive oil", "vinegar", "balsamic vinegar", "dijon mustard", "lemon", "shallots", "herbs", "salt", "pepper", "honey"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Classic Vinaigrette",
+        "text": "Whisk together 1 tbsp vinegar, ½ tsp dijon mustard, and a pinch of salt. The mustard is an emulsifier. Slowly whisk in 3 tbsp olive oil. The vinaigrette should be creamy and balanced.",
+        "icon": "droplets"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Shallot Variation",
+        "text": "Mince shallots finely and let soak in vinegar for 5 minutes. This mellows the sharpness and adds complexity. Follow the same process, whisking in oil slowly.",
+        "icon": "eye"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Balsamic & Honey",
+        "text": "Use aged balsamic vinegar instead of regular. The deeper flavor is already rich. Add a touch of honey for sweetness to balance acidity. This vinaigrette is perfect for arugula.",
+        "icon": "zap"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Lemon Herb",
+        "text": "Use fresh lemon juice instead of vinegar. Add minced fresh herbs (tarragon, chervil, parsley). This lighter vinaigrette is perfect for delicate lettuces and fresh vegetables.",
+        "icon": "flame"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Taste & Apply",
+        "text": "Taste each vinaigrette and understand the balance: acid should brighten, oil should be silky, salt should enhance. A good vinaigrette tastes sharp on its own, perfect on salad.",
+        "icon": "star"
+      }
+    ],
+    "tip": "The 3:1 oil-to-acid ratio is a guide, not a rule. Taste and adjust to your preference. Also, emulsify the vinegar and mustard first—this is why you don't just shake everything together.",
+    "resources": [
+      {
+        "label": "Vinaigrette Science",
+        "url": "https://www.youtube.com/results?search_query=how+to+make+perfect+vinaigrette",
+        "icon": "play"
+      }
+    ],
+    "likes": 7800,
+    "createdAt": "2026-02-02",
+    "featured": false
+  },
+  {
+    "id": "meal-prep-sunday",
+    "name": "Meal Prep Like a Pro",
+    "icon": "clock",
+    "color": "#1976D2",
+    "category": "cooking",
+    "subcategory": "meal-prep",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Five days of balanced, healthy meals prepped in 90 minutes",
+    "needs": ["chicken breast", "rice", "vegetables", "containers", "cutting board", "pots", "measuring cups", "labels"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Organize & Plan",
+        "text": "Layout all ingredients and containers. Decide on 2 proteins, 2 grains, and 3 vegetables. Write a prep order list. Having a plan prevents chaos and saves time.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Cook Proteins & Grains",
+        "text": "Get water boiling for rice, put chicken in oven at 425°F. While waiting, start chopping vegetables. Multitasking is key to staying on schedule.",
+        "icon": "timer"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Prep Vegetables",
+        "text": "Chop, blanch, and roast vegetables. Keep them separate until assembly. Some vegetables can be eaten raw, others should be cooked for food safety and flavor.",
+        "icon": "zap"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Assemble Containers",
+        "text": "Layer: grain first, then protein, then vegetables. Keep wet ingredients separate from dry. Use a scale or measuring cups for consistency and portion control.",
+        "icon": "layers"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Cool & Label",
+        "text": "Cool completely before sealing lids (hot food creates condensation). Label with date and contents. Refrigerate immediately. Most meals keep 4-5 days.",
+        "icon": "star"
+      }
+    ],
+    "tip": "The magic is in the workflow—cook proteins and grains while prepping vegetables. Keep tools and containers organized. A well-planned meal prep takes less than 2 hours.",
+    "resources": [
+      {
+        "label": "Meal Prep Strategy",
+        "url": "https://www.youtube.com/results?search_query=meal+prep+tutorial+Sunday",
+        "icon": "play"
+      }
+    ],
+    "likes": 8500,
+    "createdAt": "2026-02-03",
+    "featured": false
+  },
+  {
+    "id": "prep-ingredients-week",
+    "name": "Prep Ingredients for the Week",
+    "icon": "hand",
+    "color": "#F57C00",
+    "category": "cooking",
+    "subcategory": "meal-prep",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Five days of components ready to become quick weeknight meals",
+    "needs": ["proteins", "vegetables", "herbs", "storage containers", "cutting board", "pots", "sharp knives"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Clean & Organize",
+        "text": "Wash all vegetables. Pat dry thoroughly—moisture causes decay. Arrange work station with cutting board, knives, and containers organized nearby.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Slice & Dice",
+        "text": "Chop onions, mince garlic, slice peppers, cut vegetables into consistent sizes. Store in airtight containers with paper towels to absorb moisture.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Cook Foundations",
+        "text": "Cook grains (rice, quinoa, pasta), grill vegetables, poach or bake proteins. Store in separate containers so you can mix-and-match during the week.",
+        "icon": "flame"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Prep Proteins",
+        "text": "Cook proteins (chicken, ground turkey, beef) in bulk. Season lightly so they're versatile for different meals and flavor profiles throughout the week.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Store Strategically",
+        "text": "Label everything with the date. Greens and delicate vegetables in containers with paper towels. Proteins and grains on separate shelves. Keep pantry/fridge organized for easy assembly.",
+        "icon": "star"
+      }
+    ],
+    "tip": "The secret is keeping components separate until you assemble your meal. This gives you flexibility and prevents food boredom. The same grilled chicken goes into different dishes each night.",
+    "resources": [
+      {
+        "label": "Weekly Ingredient Prep",
+        "url": "https://www.youtube.com/results?search_query=ingredient+prep+for+week",
+        "icon": "play"
+      }
+    ],
+    "likes": 7200,
+    "createdAt": "2026-02-04",
+    "featured": false
+  },
+  {
+    "id": "make-cocktails",
+    "name": "Make Five Classic Cocktails",
+    "icon": "wine",
+    "color": "#8B0000",
+    "category": "cooking",
+    "subcategory": "cocktails",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Bartender-quality cocktails: Margarita, Daiquiri, Old Fashioned, Negroni, Manhattan",
+    "needs": ["vodka", "tequila", "rum", "bourbon", "vermouth", "triple sec", "lime", "simple syrup", "bitters", "ice", "shaker", "jigger"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Master the Margarita",
+        "text": "Combine 2 oz tequila, 1 oz fresh lime juice, ½ oz triple sec in a cocktail shaker with ice. Shake for 10-15 seconds until icy cold. Strain into a salt-rimmed glass over ice.",
+        "icon": "wine"
+      },
+      {
+        "time": "15–35 min",
+        "label": "The Daiquiri",
+        "text": "Combine 2 oz rum, ¾ oz fresh lime juice, ½ oz simple syrup in shaker with ice. Shake vigorously. Strain into a coupe glass. This simple drink is perfect when made with quality ingredients.",
+        "icon": "zap"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Old Fashioned (Stirred)",
+        "text": "Place a sugar cube in a glass. Add 2-3 dashes of Angostura bitters and a splash of water. Muddle gently. Add 2 oz bourbon and a large ice cube. Stir until chilled. Orange twist garnish.",
+        "icon": "eye"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Negroni & Manhattan",
+        "text": "Negroni: equal parts gin, Campari, and sweet vermouth, stirred with ice. Manhattan: 2 oz bourbon, ½ oz sweet vermouth, 2 dashes Angostura bitters, stirred with ice.",
+        "icon": "flame"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Taste & Perfect",
+        "text": "Taste each cocktail and understand the balance: sweet, sour, spirit, and strength. A good cocktail should be refreshing and properly chilled. Presentation matters—clear ice, proper glassware, appropriate garnish.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Fresh citrus is non-negotiable. Pre-made sour mix and old juice will ruin a cocktail. Also, use proper ice—shake shakers with ice for 10-15 seconds to get everything properly cold.",
+    "resources": [
+      {
+        "label": "Cocktail Techniques",
+        "url": "https://www.youtube.com/results?search_query=cocktail+making+basics",
+        "icon": "play"
+      }
+    ],
+    "likes": 10100,
+    "createdAt": "2026-02-05",
+    "featured": false
+  },
+  {
+    "id": "brew-coffee-techniques",
+    "name": "Brew Pour-Over Coffee Like a Barista",
+    "icon": "coffee",
+    "color": "#6F4E37",
+    "category": "cooking",
+    "subcategory": "coffee",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Consistently delicious, complex coffee with proper extraction and temperature control",
+    "needs": ["specialty coffee beans", "burr grinder", "pour-over dripper", "filters", "kettle", "thermometer", "gooseneck kettle", "scale", "hot water"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Grind Fresh",
+        "text": "Grind coffee just before brewing. Use a burr grinder (not blade) and grind to medium consistency (like sea salt). Use 1:16 coffee-to-water ratio by weight.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Heat Water",
+        "text": "Heat water to 195-205°F (just off boiling). Use a gooseneck kettle for precision and control. Let water cool for 30 seconds after boiling.",
+        "icon": "thermometer"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Bloom Phase",
+        "text": "Place filter in dripper, rinse with hot water. Add ground coffee. Pour twice the weight of water as coffee (wet all grounds evenly). Wait 30 seconds for CO2 to escape (the bloom).",
+        "icon": "droplets"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Controlled Pour",
+        "text": "Pour slowly in circular motions, keeping bed of grounds wet but not oversaturated. Total brew time should be 3-4 minutes. Pour in stages rather than all at once.",
+        "icon": "flame"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Taste & Adjust",
+        "text": "The coffee should be clear, aromatic, and complex. If bitter, you over-extracted (brew too long or too hot). If weak, you under-extracted. Taste and adjust grind size for next time.",
+        "icon": "star"
+      }
+    ],
+    "tip": "The bloom phase is crucial—it allows CO2 to escape and helps with even extraction. Don't skip it. Also, water temperature matters hugely. Too hot = bitter, too cool = sour.",
+    "resources": [
+      {
+        "label": "Pour-Over Coffee Guide",
+        "url": "https://www.youtube.com/results?search_query=pour+over+coffee+technique",
+        "icon": "play"
+      }
+    ],
+    "likes": 9400,
+    "createdAt": "2026-02-06",
+    "featured": false
+  },
+  {
+    "id": "make-fermented-vegetables",
+    "name": "Make Fermented Vegetables",
+    "icon": "droplets",
+    "color": "#558B2F",
+    "category": "cooking",
+    "subcategory": "fermentation",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Tangy, probiotic-rich fermented vegetables ready in one to two weeks",
+    "needs": ["vegetables", "sea salt", "water", "glass jar", "cheesecloth", "rubber band", "weight"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Prepare Vegetables",
+        "text": "Choose fresh, crisp vegetables (cabbage, carrots, cucumber, etc.). Chop into consistent bite-sized pieces. Pack into a clean glass jar, leaving 1 inch headspace.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Make Brine",
+        "text": "Dissolve 2% sea salt by weight in filtered or dechlorinated water (roughly 2 tbsp salt per quart of water). Pour over vegetables until fully submerged.",
+        "icon": "droplets"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Keep Submerged",
+        "text": "Use a fermentation weight or a small jar filled with water to keep vegetables below the brine. This prevents mold. Cover with cheesecloth to keep dust out but allow gas to escape.",
+        "icon": "hand"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Ferment at Room Temperature",
+        "text": "Leave on counter away from direct sunlight. You'll see bubbles and cloudiness (normal). Taste after 5-7 days. Continue fermenting until desired tanginess reached (1-3 weeks).",
+        "icon": "timer"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Store & Enjoy",
+        "text": "Once fermented, cap and refrigerate. The cold stops fermentation. Your vegetables will be tangy, crunchy, and full of beneficial probiotics. Enjoy as condiments or snacks.",
+        "icon": "star"
+      }
+    ],
+    "tip": "The cloudiness you see is lactic acid bacteria doing its job—completely normal and beneficial. If mold appears (fuzzy growth on surface), it's contaminated and should be discarded.",
+    "resources": [
+      {
+        "label": "Vegetable Fermentation Guide",
+        "url": "https://www.youtube.com/results?search_query=fermented+vegetables+tutorial",
+        "icon": "play"
+      }
+    ],
+    "likes": 6500,
+    "createdAt": "2026-02-07",
+    "featured": false
+  },
+  {
+    "id": "make-kombucha",
+    "name": "Brew Your Own Kombucha",
+    "icon": "beer",
+    "color": "#8B4513",
+    "category": "cooking",
+    "subcategory": "fermentation",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Fizzy, tangy homemade kombucha with beneficial probiotics and zero waste",
+    "needs": ["scoby", "strong black tea", "sugar", "filtered water", "glass jar", "cheesecloth", "rubber band", "bottles", "pH strips"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Brew Tea & Cool",
+        "text": "Steep strong black tea (1 cup tea per gallon of water) with sugar (1 cup per gallon) for 15 minutes. Cool completely to room temperature (crucial—hot liquid kills the culture).",
+        "icon": "coffee"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Add SCOBY",
+        "text": "Pour cooled tea into a clean glass jar. Add SCOBY (Symbiotic Culture Of Bacteria and Yeast) and starter liquid from a previous batch. Cover with cheesecloth secured with rubber band.",
+        "icon": "eye"
+      },
+      {
+        "time": "35–55 min",
+        "label": "First Fermentation",
+        "text": "Leave on counter away from direct sun at room temperature (68-85°F). A new SCOBY layer will form on top. Ferment 7-14 days until pH reaches 2.5-3.5 (use pH strips).",
+        "icon": "timer"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Bottle & Second Ferment",
+        "text": "Strain kombucha into bottles, leaving sediment in jar. Add flavorings if desired (ginger, fruit juice). Cap bottles and let sit 2-5 days for carbonation.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Chill & Enjoy",
+        "text": "Refrigerate to stop carbonation. You now have fizzy, probiotic-rich kombucha. Keep your SCOBY in starter liquid for the next batch. The cycle continues.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Temperature and cleanliness are crucial. Too cold and fermentation stalls, too hot and you kill the culture. Keep everything clean and use only clean equipment to prevent contamination.",
+    "resources": [
+      {
+        "label": "Kombucha Brewing Basics",
+        "url": "https://www.youtube.com/results?search_query=how+to+brew+kombucha+tutorial",
+        "icon": "play"
+      }
+    ],
+    "likes": 8200,
+    "createdAt": "2026-02-08",
+    "featured": false
+  },
+  {
+    "id": "make-chocolate-truffle",
+    "name": "Make Chocolate Truffles",
+    "icon": "utensils",
+    "color": "#5D4037",
+    "category": "cooking",
+    "subcategory": "desserts",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Silky, decadent chocolate truffles with perfectly tempered chocolate coating",
+    "needs": ["dark chocolate", "heavy cream", "butter", "vanilla", "cocoa powder", "tempering chocolate", "thermometer", "dipping fork"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Make Ganache",
+        "text": "Heat heavy cream until steaming (not boiling). Pour over chopped dark chocolate in a bowl. Let sit 1 minute, then stir until smooth and glossy. Add butter and vanilla.",
+        "icon": "flame"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Chill Ganache",
+        "text": "Cover ganache and refrigerate for 2-3 hours until firm but scoopable. The texture should be like soft butter, not hard or oily.",
+        "icon": "timer"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Scoop & Roll",
+        "text": "Using a melon baller or small spoon, scoop portions and roll between your hands into smooth balls. Place on parchment-lined baking sheet. Work quickly so ganache doesn't warm.",
+        "icon": "hand"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Temper & Dip",
+        "text": "Temper chocolate by melting to 113°F, cooling to 81°F, then reheating to 88°F. Using a dipping fork, dip each truffle into tempered chocolate. The coating will snap when hardened.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Coat & Set",
+        "text": "Immediately roll in cocoa powder or sprinkles. Place on parchment to harden. Once set (20-30 minutes), store in an airtight container at room temperature.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Tempering chocolate ensures a crisp shell instead of a dull, streaky coating that melts on your fingers. If you mess up tempering, the truffles still taste great—the coating just won't be as professional.",
+    "resources": [
+      {
+        "label": "Chocolate Truffle Tutorial",
+        "url": "https://www.youtube.com/results?search_query=chocolate+truffle+recipe+tutorial",
+        "icon": "play"
+      }
+    ],
+    "likes": 9700,
+    "createdAt": "2026-01-22",
+    "featured": false
+  },
+  {
+    "id": "make-macarons",
+    "name": "Make French Macarons",
+    "icon": "utensils",
+    "color": "#FFB6C1",
+    "category": "cooking",
+    "subcategory": "desserts",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "Perfect French macarons with ruffled feet, shiny domes, and silky ganache filling",
+    "needs": ["almond flour", "powdered sugar", "egg whites", "caster sugar", "food coloring", "butter", "dark chocolate", "cream", "piping bags", "baking sheets", "thermometer"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Make Batter",
+        "text": "Pulse almond flour and powdered sugar together until ultra-fine (sift if necessary). In a separate bowl, whip egg whites to soft peaks, gradually add caster sugar, whip to stiff peaks. Color if desired.",
+        "icon": "zap"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Macaronage",
+        "text": "Fold almond-sugar mixture into meringue gently in 3 additions. The batter should be smooth, shiny, and flow like lava. Overmix makes them spread too much; undermix makes them lumpy.",
+        "icon": "layers"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Pipe & Rest",
+        "text": "Pipe 1½-inch rounds onto silicone mats or parchment, leaving 2 inches between shells. Tap the baking sheet on the counter to remove air bubbles. Rest 30-40 minutes until shells lose their shine.",
+        "icon": "eye"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Bake to Perfection",
+        "text": "Bake at 300°F for 16-18 minutes until shells are dry and ruffled feet are visible. The top should be smooth and the shells should not slide around on the mat.",
+        "icon": "flame"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Cool & Fill",
+        "text": "Cool completely on the baking sheet. Make ganache from chocolate and cream. Pipe onto flat side of one shell, sandwich with another. The 'feet' at the base make them iconic.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Macarons are finicky but rewarding. The key is proper macaronage technique and respecting the resting time. If your shells spread too much, your batter was undermixed or your oven was too hot.",
+    "resources": [
+      {
+        "label": "Macaron Mastery",
+        "url": "https://www.youtube.com/results?search_query=french+macaron+recipe+tutorial",
+        "icon": "play"
+      }
+    ],
+    "likes": 10600,
+    "createdAt": "2026-01-25",
+    "featured": false
+  }
+]

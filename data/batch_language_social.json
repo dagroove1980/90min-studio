@@ -1,0 +1,2037 @@
+[
+  {
+    "id": "learn-50-essential-spanish-phrases",
+    "name": "Learn 50 Essential Spanish Phrases",
+    "icon": "globe",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "spanish-basics",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Confidently use 50 essential Spanish phrases in everyday conversations",
+    "needs": ["notebook", "pen", "audio speaker"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Listen & Repeat",
+        "text": "Play audio for greetings and basic phrases. Repeat each phrase 3 times focusing on pronunciation.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Write & Memorize",
+        "text": "Write down 10 phrases with English translations. Create flashcards for quick review.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Group & Practice",
+        "text": "Organize phrases by category (greetings, food, directions). Practice saying groups aloud.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Apply in Context",
+        "text": "Create sample conversations using 5 phrases per dialogue. Practice with a language partner or recording.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Self-Test",
+        "text": "Cover translations and test yourself on all 50 phrases. Identify weak areas for next session.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Group phrases by context like 'Ordering Food' or 'Hotel Checkin' to learn faster and retain better.",
+    "resources": [
+      {
+        "label": "SpanishDict Audio",
+        "url": "https://www.spanishdict.com",
+        "icon": "play"
+      },
+      {
+        "label": "Anki Flashcards",
+        "url": "https://ankiweb.net",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 2800,
+    "createdAt": "2026-01-05",
+    "featured": false
+  },
+  {
+    "id": "read-japanese-hiragana",
+    "name": "Read Japanese Hiragana",
+    "icon": "book-open",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "japanese-basics",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Read and write all 46 hiragana characters fluently",
+    "needs": ["hiragana chart", "pen", "notebook"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Structure",
+        "text": "Learn that hiragana has 5 vowel sounds and 9 consonant+vowel combinations. Review the pattern.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Trace & Write",
+        "text": "Trace each hiragana character 5 times. Focus on stroke order. Write the vowels first: a, e, i, o, u.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Group by Sound",
+        "text": "Organize characters by row (a-row, ka-row, sa-row). Practice writing each group from memory.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Read Simple Words",
+        "text": "Read simple hiragana words and write their English meanings. Start with 2-3 character words.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Speed Drill",
+        "text": "Time yourself reading 46 characters in random order. Aim for 2 minutes for all characters.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Focus on the first 5 vowels and the K-row before moving forward. These are your foundation.",
+    "resources": [
+      {
+        "label": "NHK Hiragana Course",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/learnjapanese/",
+        "icon": "play"
+      }
+    ],
+    "likes": 3200,
+    "createdAt": "2026-01-08",
+    "featured": false
+  },
+  {
+    "id": "have-basic-french-conversation",
+    "name": "Have a Basic French Conversation",
+    "icon": "mic",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "french-basics",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Hold a 3-minute conversation in French on familiar topics",
+    "needs": ["language partner", "conversation guide"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Prepare Phrases",
+        "text": "Write down 20 useful conversation starters and responses about yourself (name, age, interests).",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Practice Pronunciation",
+        "text": "Listen to native speakers pronounce each phrase. Repeat until comfortable with French sounds.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Simulate Dialogue",
+        "text": "Practice a mock conversation with yourself alternating between roles. Time yourself for 3 minutes.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "With a Partner",
+        "text": "Have a real conversation with a language partner. Start simple: greetings, introductions, preferences.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Reflect & Repeat",
+        "text": "Note difficult phrases. Practice them again. Aim for a smoother second attempt.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Learn common connecting words like 'et' (and), 'mais' (but), 'parce que' (because) to improve flow.",
+    "resources": [
+      {
+        "label": "Forvo Pronunciation",
+        "url": "https://forvo.com",
+        "icon": "play"
+      },
+      {
+        "label": "Tandem App",
+        "url": "https://www.tandem.net",
+        "icon": "message-square"
+      }
+    ],
+    "likes": 2400,
+    "createdAt": "2026-01-12",
+    "featured": true
+  },
+  {
+    "id": "learn-asl-alphabet",
+    "name": "Learn the ASL Alphabet",
+    "icon": "hand",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "asl-basics",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Sign all 26 ASL letters clearly and recognize them when signed by others",
+    "needs": ["mirror", "video tutorials"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn Hand Shapes",
+        "text": "Study the 5 basic hand shapes used in ASL. Understand how they form different letters.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Practice Vowels First",
+        "text": "Master signing A, E, I, O, U. Practice each vowel in front of a mirror 10 times.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Add Consonants",
+        "text": "Learn B, C, D, and other consonants in groups of 4. Practice each group until fluid.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Spell Your Name",
+        "text": "Sign your full name letter by letter. Then try family members' names. Build rhythm and flow.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Speed Challenge",
+        "text": "Have someone call out letters while you sign them. Or watch a video and follow along at speed.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Watch videos of native ASL users signing the alphabet. Movement quality matters as much as hand shape.",
+    "resources": [
+      {
+        "label": "ASL University",
+        "url": "https://www.lifeprint.com",
+        "icon": "play"
+      },
+      {
+        "label": "YouTube ASL Alphabet",
+        "url": "https://youtube.com",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 1950,
+    "createdAt": "2026-01-15",
+    "featured": false
+  },
+  {
+    "id": "master-german-pronunciation",
+    "name": "Master German Pronunciation",
+    "icon": "mic",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "pronunciation",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Pronounce German vowels, consonants, and diphthongs correctly and confidently",
+    "needs": ["audio recordings", "tongue position guide"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn IPA Symbols",
+        "text": "Understand International Phonetic Alphabet for German. Learn how umlauts (ä, ö, ü) change sounds.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Vowel Drills",
+        "text": "Practice German vowels: a, e, i, o, u plus ä, ö, ü. Listen to native speakers and repeat.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Consonant Focus",
+        "text": "Master tricky German sounds: 'ch', 'ü', 'ö', the guttural 'r'. Use tongue position diagrams.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Word Pronunciation",
+        "text": "Practice 30 common German words focusing on stress patterns and smooth syllable flow.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Recording Comparison",
+        "text": "Record yourself pronouncing 10 words. Compare with native speaker audio. Refine weak sounds.",
+        "icon": "star"
+      }
+    ],
+    "tip": "German stress almost always falls on the first syllable. This simple rule helps you sound more native.",
+    "resources": [
+      {
+        "label": "Forvo German",
+        "url": "https://forvo.com/languages/de/",
+        "icon": "play"
+      },
+      {
+        "label": "Deutsche Welle Course",
+        "url": "https://www.dw.com/en/learn-german/s-9527",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 2100,
+    "createdAt": "2026-01-18",
+    "featured": false
+  },
+  {
+    "id": "count-to-100-in-mandarin",
+    "name": "Count to 100 in Mandarin",
+    "icon": "type",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "mandarin-basics",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Count from 1 to 100 in Mandarin Chinese with correct tones and pronunciation",
+    "needs": ["Mandarin audio", "tone reference chart"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn Mandarin Tones",
+        "text": "Understand the 4 tones of Mandarin. Listen to tone pairs and practice saying them distinctly.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Numbers 1-10",
+        "text": "Learn numbers 1-10 with correct tones. Repeat each number 10 times. Get comfortable with 'si' (4).",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Pattern Recognition",
+        "text": "Understand that numbers 11-19 use 10+ones, 20-99 use tens+ones. This makes counting systematic.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Count Aloud",
+        "text": "Count from 1-100 out loud continuously. Do this 3 times, focusing on tone accuracy.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Random Number Challenge",
+        "text": "Have someone call out random numbers 1-100. Say them correctly. Repeat weak numbers.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Pay special attention to 'si' (4) vs 'shi' sounds and 'er' (2) which have tone sandhi rules.",
+    "resources": [
+      {
+        "label": "Pinyin.info Tones",
+        "url": "https://pinyin.info",
+        "icon": "play"
+      },
+      {
+        "label": "Pimsleur Mandarin",
+        "url": "https://www.pimsleur.com",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 2650,
+    "createdAt": "2026-01-22",
+    "featured": false
+  },
+  {
+    "id": "order-food-in-italian",
+    "name": "Order Food in Italian",
+    "icon": "globe",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "italian-basics",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Order a complete meal in Italian and handle a restaurant interaction",
+    "needs": ["Italian menu", "conversation guide"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn Menu Vocabulary",
+        "text": "Study 30 common Italian food words and dishes. Learn appetizers, mains, desserts, and drinks.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Key Phrases",
+        "text": "Master phrases: 'Vorrei...' (I would like), 'Mi piacerebbe...' (I would like), 'Per favore' (please).",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Full Ordering Dialogue",
+        "text": "Write out a complete restaurant interaction from greeting to paying. Practice pronunciation.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Practice with Partner",
+        "text": "Role-play with a friend. One person is server, one is customer. Use real menu if possible.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Variations & Questions",
+        "text": "Practice ordering modifications (no onions, allergy questions). Ask about daily specials.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Learn to say 'Gli allergeni?' (Allergens?) and important dietary restriction phrases before ordering.",
+    "resources": [
+      {
+        "label": "Italian Food Vocabulary",
+        "url": "https://www.babbel.com",
+        "icon": "play"
+      },
+      {
+        "label": "Rocket Italian",
+        "url": "https://www.rocketlanguages.com",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 3100,
+    "createdAt": "2026-01-25",
+    "featured": false
+  },
+  {
+    "id": "language-learning-strategies",
+    "name": "Master Language Learning Strategies",
+    "icon": "brain",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "language-learning-strategy",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Learn scientifically-proven techniques to accelerate your language learning progress",
+    "needs": ["notebook", "timer", "learning apps"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Spaced Repetition",
+        "text": "Learn why spacing out practice is more effective than cramming. Review the forgetting curve.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Input vs Output",
+        "text": "Understand listening/reading (passive) vs speaking/writing (active). Plan balance for your goals.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Immersion Techniques",
+        "text": "Learn micro-immersion strategies: label objects at home, watch shows, use language with friends.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Build a System",
+        "text": "Design your personal language learning system using apps, partners, and consistent schedule.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Track & Adjust",
+        "text": "Set weekly goals. Track progress. Identify what works for you. Adjust strategy accordingly.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Consistency beats intensity. 15 minutes daily beats 2 hours once a week for language retention.",
+    "resources": [
+      {
+        "label": "Gabriel's Learning Science",
+        "url": "https://gabilan.wordpress.com",
+        "icon": "play"
+      },
+      {
+        "label": "Steve Kaufmann LingQ",
+        "url": "https://www.lingq.com",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 4200,
+    "createdAt": "2026-01-28",
+    "featured": false
+  },
+  {
+    "id": "improve-spanish-accent",
+    "name": "Improve Your Spanish Accent",
+    "icon": "mic",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "spanish-basics",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Sound more native when speaking Spanish with improved accent and rhythm",
+    "needs": ["audio recorder", "Spanish speaker recordings"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Identify Problem Sounds",
+        "text": "Listen to yourself speak Spanish. Identify which sounds are hardest (likely 'r', 'rr', 'j').",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Mouth Position",
+        "text": "Learn correct mouth and tongue positions for Spanish sounds. Practice trills and guttural sounds.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Shadowing Practice",
+        "text": "Listen to native Spanish speakers and try to shadow (speak simultaneously). Match their rhythm.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Stress & Intonation",
+        "text": "Practice Spanish stress patterns. Notice rising intonation in questions vs statements.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Record & Compare",
+        "text": "Record yourself saying phrases. Compare with native speakers. Refine specific problem areas.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Spanish 'r' and 'rr' are distinct sounds. Spend extra time here as they're common accent markers.",
+    "resources": [
+      {
+        "label": "Forvo Spanish Voices",
+        "url": "https://forvo.com/languages/es/",
+        "icon": "play"
+      },
+      {
+        "label": "ClozemasterAccent",
+        "url": "https://www.clozemaster.com",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 1800,
+    "createdAt": "2026-02-01",
+    "featured": false
+  },
+  {
+    "id": "french-grammar-foundations",
+    "name": "French Grammar Foundations",
+    "icon": "pen",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "french-basics",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Master basic French grammar including verbs, adjectives, and sentence structure",
+    "needs": ["grammar book", "practice exercises"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Cases",
+        "text": "Learn that French doesn't have strict cases like German. Understand gender (masculine/feminine).",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Verb Conjugation",
+        "text": "Learn present tense regular verbs (-er, -ir, -re). Practice conjugating 10 common verbs.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Adjective & Article Agreement",
+        "text": "Master that adjectives and articles agree with noun gender and number. Practice with sentences.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Common Phrases",
+        "text": "Study phrases with common irregular verbs (être, avoir, aller). These are essential building blocks.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Write Simple Paragraphs",
+        "text": "Write 3-4 sentences about yourself using new grammar rules. Self-check or have native review.",
+        "icon": "star"
+      }
+    ],
+    "tip": "French grammar has patterns. Once you understand why a rule exists, it becomes much easier to remember.",
+    "resources": [
+      {
+        "label": "Conjuguemos",
+        "url": "https://www.conjuguemos.com",
+        "icon": "play"
+      },
+      {
+        "label": "French Today",
+        "url": "https://www.frenchtoday.com",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 2900,
+    "createdAt": "2026-02-03",
+    "featured": false
+  },
+  {
+    "id": "japanese-conversational-basics",
+    "name": "Japanese Conversational Basics",
+    "icon": "message-square",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "japanese-basics",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Have simple Japanese conversations about daily topics and basic needs",
+    "needs": ["conversation partner", "phrase guide"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Politeness Levels",
+        "text": "Learn 3 levels: casual, polite, formal. Understand when to use each in Japanese culture.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Daily Phrases",
+        "text": "Master 30 essential phrases for greetings, gratitude, apologies, and requests in polite form.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Question Formation",
+        "text": "Learn how to ask questions in Japanese. Understand particles like 'は' (wa), 'が' (ga), 'を' (wo).",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Practice Dialogues",
+        "text": "Create and practice 5 short dialogues: introductions, ordering, asking directions, small talk.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Real Conversation",
+        "text": "Have a conversation with a native speaker or language partner. Record and review your progress.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Learn 'sumimasen' and 'arigatou gozaimasu' first. These are essential for any Japanese conversation.",
+    "resources": [
+      {
+        "label": "NHK Easy Japanese",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/learnjapanese/",
+        "icon": "play"
+      },
+      {
+        "label": "Genki Textbook",
+        "url": "https://www.japantimes.co.jp/culture/2014/07/15/books/genki-textbooks/",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 2300,
+    "createdAt": "2026-02-05",
+    "featured": false
+  },
+  {
+    "id": "german-basics-conversation",
+    "name": "German Basics Conversation",
+    "icon": "globe",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "german-basics",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Start basic German conversations and understand common responses",
+    "needs": ["language partner", "audio resources"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Essential Phrases",
+        "text": "Learn 25 essential German phrases including greetings, polite expressions, and introductions.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Pronunciation Practice",
+        "text": "Practice German sounds that don't exist in English. Focus on guttural 'ch' and umlauts.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Simple Sentences",
+        "text": "Build sentences with 'Ich bin' (I am), 'Ich heiße' (I'm called), 'Ich komme aus' (I'm from).",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Dialogue Practice",
+        "text": "Practice 3 dialogues: greeting, introducing yourself, asking for directions or help.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Role-Play",
+        "text": "Have a conversation with a partner simulating real situations (café, train station, hotel).",
+        "icon": "star"
+      }
+    ],
+    "tip": "Germans appreciate when you try their language. Even imperfect attempts are well-received.",
+    "resources": [
+      {
+        "label": "Deutsche Welle",
+        "url": "https://www.dw.com/en/learn-german/s-9527",
+        "icon": "play"
+      },
+      {
+        "label": "Duolingo German",
+        "url": "https://www.duolingo.com",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 2050,
+    "createdAt": "2026-02-06",
+    "featured": false
+  },
+  {
+    "id": "mandarin-conversation-starter",
+    "name": "Mandarin Conversation Starter",
+    "icon": "message-square",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "mandarin-basics",
+    "difficulty": "intermediate",
+    "setting": "anywhere",
+    "outcome": "Have a 5-minute Mandarin conversation covering personal topics",
+    "needs": ["conversation partner", "phrase reference"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Tones Review",
+        "text": "Quick review of Mandarin's 4 tones. Listen and repeat words you'll use in conversation.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Key Expressions",
+        "text": "Learn 30 expressions for introductions, asking about work/family, hobbies, and opinions.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Listening Comprehension",
+        "text": "Listen to 10 short videos of native speakers. Pause and try to understand before reading subtitles.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Prepare Your Story",
+        "text": "Write and practice your introduction story in Mandarin. Include name, job, hometown, interests.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Live Conversation",
+        "text": "Have a real conversation with a native speaker. Ask them to speak slowly and correct you.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Learn question particles '吗' (ma) and '呢' (ne) to turn statements into natural questions.",
+    "resources": [
+      {
+        "label": "Pimsleur Mandarin",
+        "url": "https://www.pimsleur.com",
+        "icon": "play"
+      },
+      {
+        "label": "HelloChinese",
+        "url": "https://www.hellochinese.com",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 1650,
+    "createdAt": "2026-02-07",
+    "featured": false
+  },
+  {
+    "id": "italian-grammar-essentials",
+    "name": "Italian Grammar Essentials",
+    "icon": "pen",
+    "color": "#F57F17",
+    "category": "language",
+    "subcategory": "italian-basics",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Understand Italian grammar fundamentals including present tense and basic sentence structure",
+    "needs": ["grammar resource", "conjugation charts"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Gender & Articles",
+        "text": "Understand masculine/feminine articles (il, lo, la, gli, le). Practice with common nouns.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Regular Verbs",
+        "text": "Master -are, -ere, -ire verb conjugations in present tense. Focus on first 3 persons.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Irregular Essentials",
+        "text": "Learn essere (to be), avere (to have), andare (to go), fare (to make). These appear in 50% of sentences.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Agreement Rules",
+        "text": "Master adjective-noun agreement. Practice building grammatically correct Italian sentences.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Write Practice",
+        "text": "Write 5 sentences about daily activities using new grammar. Have native speaker correct.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Italian word order is similar to English, making it easier than other Romance languages.",
+    "resources": [
+      {
+        "label": "Coniugazione Verbi",
+        "url": "https://www.coniugazione.it",
+        "icon": "play"
+      },
+      {
+        "label": "Italian Teachers Association",
+        "url": "https://www.itals.it",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 1420,
+    "createdAt": "2026-02-06",
+    "featured": false
+  },
+  {
+    "id": "give-confident-presentation",
+    "name": "Give a Confident 5-Minute Presentation",
+    "icon": "mic",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "public-speaking",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Deliver a clear, engaging 5-minute presentation without relying on notes",
+    "needs": ["topic", "audience", "timer"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Craft Your Story",
+        "text": "Choose a topic you know well. Create a 3-part structure: hook, main idea, memorable close.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Practice Aloud",
+        "text": "Say your presentation out loud 3 times. Time yourself. Adjust pacing to hit 5 minutes exactly.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Body Language",
+        "text": "Practice in front of a mirror. Maintain good posture, make hand gestures, establish presence.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Handle Nerves",
+        "text": "Record yourself. Watch and identify nervous habits. Practice controlled breathing techniques.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Live Presentation",
+        "text": "Present to a friend, family member, or small group. Ask for honest feedback on clarity and pacing.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Start with a question or surprising fact to grab attention. People remember beginnings and endings.",
+    "resources": [
+      {
+        "label": "TED Talk Secrets",
+        "url": "https://www.ted.com/talks",
+        "icon": "play"
+      },
+      {
+        "label": "Toastmasters",
+        "url": "https://www.toastmasters.org",
+        "icon": "users"
+      }
+    ],
+    "likes": 5800,
+    "createdAt": "2026-01-06",
+    "featured": true
+  },
+  {
+    "id": "master-small-talk",
+    "name": "Master Small Talk",
+    "icon": "message-square",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "small-talk",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Confidently start and sustain light conversations with strangers in social settings",
+    "needs": ["conversational confidence", "safe social space"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Conversation Starters",
+        "text": "Learn 15 safe conversation starters: weather, location, events, compliments, shared experiences.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Listening Skills",
+        "text": "Practice active listening. Ask follow-up questions based on what others share. Show genuine interest.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Keep It Light",
+        "text": "Understand topics to avoid (politics, religion, money, health issues). Learn smooth transitions.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Practice at Events",
+        "text": "Attend a low-stakes social event (coffee shop, community gathering). Practice with 5 people.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Reflect & Refine",
+        "text": "Note which starters worked. Identify times you felt most confident. Build on that.",
+        "icon": "star"
+      }
+    ],
+    "tip": "People love talking about themselves. Ask 'Tell me more' and let them lead the conversation.",
+    "resources": [
+      {
+        "label": "Conversation Tactics",
+        "url": "https://www.amazon.com/Conversation-Tactics-people-awkward-interactions/dp/0976206374",
+        "icon": "play"
+      },
+      {
+        "label": "Meetup.com Groups",
+        "url": "https://www.meetup.com",
+        "icon": "users"
+      }
+    ],
+    "likes": 6200,
+    "createdAt": "2026-01-09",
+    "featured": false
+  },
+  {
+    "id": "negotiate-better-deals",
+    "name": "Negotiate Anything Better",
+    "icon": "target",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "negotiation",
+    "difficulty": "intermediate",
+    "setting": "anywhere",
+    "outcome": "Apply proven negotiation techniques to get better outcomes in any situation",
+    "needs": ["negotiation scenario", "confidence"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand BATNA",
+        "text": "Learn your Best Alternative to Negotiated Agreement. Know your walk-away point before negotiating.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Research & Prepare",
+        "text": "Know market rates, other offers, or comparables. Preparation gives you confidence and leverage.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Anchoring & Framing",
+        "text": "Learn to make first offer (if beneficial). Frame requests in terms of mutual benefit.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Active Listening",
+        "text": "Listen for underlying interests behind positions. Ask questions to understand their needs.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Role-Play Scenarios",
+        "text": "Practice negotiating salary, price, timeline, or terms with a partner. Build real-world skills.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Silence is powerful. After you make an offer, stay quiet. Let them respond first.",
+    "resources": [
+      {
+        "label": "Getting to Yes",
+        "url": "https://www.pon.harvard.edu/publications/getting-to-yes/",
+        "icon": "play"
+      },
+      {
+        "label": "Never Split the Difference",
+        "url": "https://www.amazon.com/Never-Split-Difference-Negotiating-Your/dp/0062407805",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 4100,
+    "createdAt": "2026-01-14",
+    "featured": false
+  },
+  {
+    "id": "tell-captivating-story",
+    "name": "Tell a Captivating Story",
+    "icon": "lightbulb",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "storytelling",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Captivate listeners with engaging, well-structured personal or professional stories",
+    "needs": ["interesting story", "practice audience"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Story Structure",
+        "text": "Learn the Hero's Journey: beginning, conflict, climax, resolution. Every great story has this arc.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Find Your Story",
+        "text": "Identify a personal experience with clear challenge and learning. Something authentic you lived.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Add Sensory Details",
+        "text": "Include what you saw, heard, felt. Specific details make stories memorable, not generic ones.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Practice Delivery",
+        "text": "Tell your story out loud 5 times. Use pauses for effect. Vary pace and tone for engagement.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Tell to Audience",
+        "text": "Share your story with friends or colleagues. Ask what parts stuck with them. Refine.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Start with vulnerability. The best stories involve the teller admitting mistakes or fears.",
+    "resources": [
+      {
+        "label": "TED Talk Storytelling",
+        "url": "https://www.ted.com/talks",
+        "icon": "play"
+      },
+      {
+        "label": "Storyknife: Narrative for Leaders",
+        "url": "https://www.storyknight.com",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 5400,
+    "createdAt": "2026-01-17",
+    "featured": false
+  },
+  {
+    "id": "write-emails-people-read",
+    "name": "Write Emails People Actually Read",
+    "icon": "pen",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "writing-emails",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Write clear, persuasive emails that get responses and action from recipients",
+    "needs": ["email drafts", "feedback"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Subject Line Power",
+        "text": "Learn that subject lines determine if emails are opened. Use specific, benefit-driven subjects.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Structure & Clarity",
+        "text": "Master the formula: greeting, context, ask, benefit, close. Keep emails under 5 sentences.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Tone & Personality",
+        "text": "Write professional but warm. Use 'I' statements. Show you understand recipient's perspective.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Call to Action",
+        "text": "Make exactly what you want clear. 'Can you reply by Friday?' beats vague closings.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Draft & Review",
+        "text": "Write 3 emails for real situations. Have someone review them. Learn what works and why.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Most emails are skimmed, not read. Put your ask in the first sentence or second line.",
+    "resources": [
+      {
+        "label": "Harvard Business Review Writing",
+        "url": "https://hbr.org",
+        "icon": "play"
+      },
+      {
+        "label": "Copy Hackers Email",
+        "url": "https://www.copyhackers.com",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 4800,
+    "createdAt": "2026-01-21",
+    "featured": false
+  },
+  {
+    "id": "ace-job-interview",
+    "name": "Ace a Job Interview",
+    "icon": "target",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "interviewing",
+    "difficulty": "intermediate",
+    "setting": "anywhere",
+    "outcome": "Perform confidently in job interviews and present yourself as the ideal candidate",
+    "needs": ["job description", "interview practice partner"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Research Thoroughly",
+        "text": "Research the company, role, industry. Know their challenges and how you can help solve them.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Prepare Stories",
+        "text": "Use STAR method (Situation, Task, Action, Result) for 5-7 accomplishments matching job requirements.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Practice Questions",
+        "text": "Practice 20 common interview questions. Record yourself. Refine answers to be concise and relevant.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Body Language & Presence",
+        "text": "Practice firm handshake, eye contact, posture. Record a mock interview. Review for confidence.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Mock Interview",
+        "text": "Do a full mock interview with a friend or mentor. Ask for feedback on responses and presence.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Always have 2-3 intelligent questions prepared for the interviewer. This shows genuine interest.",
+    "resources": [
+      {
+        "label": "Indeed Interview Tips",
+        "url": "https://www.indeed.com/career-advice/interviewing",
+        "icon": "play"
+      },
+      {
+        "label": "Blind Interview Prep",
+        "url": "https://www.teamblind.com",
+        "icon": "users"
+      }
+    ],
+    "likes": 7200,
+    "createdAt": "2026-01-24",
+    "featured": false
+  },
+  {
+    "id": "read-body-language",
+    "name": "Read Body Language Like a Pro",
+    "icon": "eye",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "body-language",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Accurately interpret others' emotions and intentions through non-verbal cues",
+    "needs": ["observation practice", "video examples"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Baseline Behavior",
+        "text": "Learn that everyone has different normal behavior. Establish baseline before interpreting changes.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Micro-Expressions",
+        "text": "Study the 7 universal emotions and their facial micro-expressions (≤1/25th second flashes).",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Posture & Proximity",
+        "text": "Understand what crossing arms, leaning in, or stepping back indicates. Context matters greatly.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Eye Contact & Gaze",
+        "text": "Learn what eyes reveal: interest, doubt, dishonesty. But remember cultural differences matter.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Practice Observation",
+        "text": "Watch a conversation with sound off. Note body language cues. Then watch with sound. Check accuracy.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Never interpret a single cue. Look for clusters of behaviors. Context always matters most.",
+    "resources": [
+      {
+        "label": "Lie to Me TV Series",
+        "url": "https://www.amazon.com/Lie-Me-Tim-Roth/dp/B002UUHG8A",
+        "icon": "play"
+      },
+      {
+        "label": "What Every Body Is Saying",
+        "url": "https://www.amazon.com/What-Every-Body-Saying-Speed-Reading/dp/0061438260",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 6100,
+    "createdAt": "2026-01-27",
+    "featured": false
+  },
+  {
+    "id": "handle-conflict-gracefully",
+    "name": "Handle Conflict Gracefully",
+    "icon": "brain",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "conflict-resolution",
+    "difficulty": "intermediate",
+    "setting": "anywhere",
+    "outcome": "Resolve disagreements constructively while maintaining relationships and respect",
+    "needs": ["conflict scenario", "calm mindset"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Manage Emotions",
+        "text": "Learn to recognize triggers and pause before reacting. Practice deep breathing and grounding.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Understand Perspectives",
+        "text": "Ask why the other person feels the way they do. Listen to understand, not to respond.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Express Your View",
+        "text": "Use 'I' statements: 'I felt hurt when...' not 'You always...' Keep focus on impact, not blame.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Find Common Ground",
+        "text": "Identify shared values or goals. Work toward solutions that address both people's concerns.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Practice Scenarios",
+        "text": "Role-play 3 conflict scenarios with increasing complexity. Build confidence and skills.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Conflict often arises from unmet needs, not actual disagreement. Ask 'What do you need from me?'",
+    "resources": [
+      {
+        "label": "Crucial Conversations",
+        "url": "https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Never/dp/0071401946",
+        "icon": "play"
+      },
+      {
+        "label": "Nonviolent Communication",
+        "url": "https://www.cnvc.org",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 3900,
+    "createdAt": "2026-01-30",
+    "featured": false
+  },
+  {
+    "id": "networking-like-pro",
+    "name": "Network Like a Pro",
+    "icon": "user-plus",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "networking",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Build meaningful professional relationships that advance your career and goals",
+    "needs": ["networking events", "business cards"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Set Clear Goals",
+        "text": "Decide who you want to meet and why. Are you seeking mentors, collaborators, or opportunities?",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Research Attendees",
+        "text": "Before events, research attendees on LinkedIn. Identify 3-5 people you want to connect with.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Master the Opener",
+        "text": "Prepare a genuine 30-second introduction. Mention one interesting fact about yourself or your work.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Work the Room",
+        "text": "Go to an event. Have 5 conversations. Ask questions and listen. Follow up with 3 people.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Follow-up Strategy",
+        "text": "Send personalized messages within 24 hours. Reference something you discussed. Offer value.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Networking isn't about collecting contacts. It's about building genuine relationships over time.",
+    "resources": [
+      {
+        "label": "Never Eat Alone",
+        "url": "https://www.amazon.com/Never-Eat-Alone-Secrets-Success/dp/0385346670",
+        "icon": "play"
+      },
+      {
+        "label": "LinkedIn Networking",
+        "url": "https://www.linkedin.com/learning",
+        "icon": "users"
+      }
+    ],
+    "likes": 5600,
+    "createdAt": "2026-02-02",
+    "featured": false
+  },
+  {
+    "id": "improve-conversation-skills",
+    "name": "Improve Your Conversation Skills",
+    "icon": "message-square",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "conversation",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Have deeper, more meaningful conversations that build genuine connections",
+    "needs": ["conversation partners", "reflection time"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Active Listening Fundamentals",
+        "text": "Learn to listen without planning your response. Focus fully on understanding what's being said.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Ask Powerful Questions",
+        "text": "Master open-ended questions that start with 'What', 'How', or 'Tell me about'. Avoid yes/no questions.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Show Genuine Interest",
+        "text": "Notice details. Remember names and previous conversations. Reference them later to show care.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Navigate Transitions",
+        "text": "Learn to smoothly shift topics without abruptness. Use bridges like 'Speaking of...' or 'That reminds me...'",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Practice & Reflect",
+        "text": "Have conversations, then reflect: Did I listen well? Did I ask good questions? How can I improve?",
+        "icon": "star"
+      }
+    ],
+    "tip": "The most interesting conversationalists aren't the ones who talk most—they're the best listeners.",
+    "resources": [
+      {
+        "label": "How to Talk to Anyone",
+        "url": "https://www.amazon.com/How-Talk-Anyone-Never-Awkward/dp/0761143653",
+        "icon": "play"
+      },
+      {
+        "label": "The Art of Gathering",
+        "url": "https://www.theartofgathering.com",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 4700,
+    "createdAt": "2026-02-04",
+    "featured": false
+  },
+  {
+    "id": "boost-confidence-public-speaking",
+    "name": "Boost Your Public Speaking Confidence",
+    "icon": "zap",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "public-speaking",
+    "difficulty": "intermediate",
+    "setting": "anywhere",
+    "outcome": "Overcome speaking anxiety and deliver powerful presentations with confidence",
+    "needs": ["speaking opportunity", "supportive audience"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Nervousness",
+        "text": "Learn that nervousness is normal and can be channeled into energy. Reframe anxiety as excitement.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Preparation & Practice",
+        "text": "Know your material inside out. Practice out loud 10 times minimum. Familiarity builds confidence.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Physical Techniques",
+        "text": "Practice power poses, diaphragmatic breathing, and grounding techniques to calm nervous energy.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Visualize Success",
+        "text": "Spend 5 minutes visualizing yourself speaking confidently and audience responding positively.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Give Real Talk",
+        "text": "Present to an audience. Start small if needed. Each time you speak, confidence grows exponentially.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Focus on your message, not on being judged. Your audience wants you to succeed.",
+    "resources": [
+      {
+        "label": "Toastmasters Local Clubs",
+        "url": "https://www.toastmasters.org/find-a-club",
+        "icon": "play"
+      },
+      {
+        "label": "TED-Ed: How to Overcome Fear",
+        "url": "https://www.ted.com/talks",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 5200,
+    "createdAt": "2026-02-05",
+    "featured": true
+  },
+  {
+    "id": "persuasion-influence-tactics",
+    "name": "Master Persuasion & Influence",
+    "icon": "brain",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "negotiation",
+    "difficulty": "advanced",
+    "setting": "anywhere",
+    "outcome": "Ethically persuade others and gain influence through psychological principles",
+    "needs": ["influence scenarios", "ethical commitment"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Cialdini's Principles",
+        "text": "Learn 6 principles: reciprocity, commitment, social proof, authority, liking, scarcity.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Build Rapport First",
+        "text": "Establish genuine connection before persuading. Find common ground. Mirror language subtly.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Understand Motivations",
+        "text": "Discover what truly motivates your audience. Present your ideas in terms of their values and goals.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Social Proof & Authority",
+        "text": "Use testimonials, data, and credibility strategically. Show others support your position.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Real-World Application",
+        "text": "Apply techniques in real situations. Notice what works. Maintain ethical standards always.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Ethical persuasion wins long-term. Manipulative tactics backfire and damage relationships.",
+    "resources": [
+      {
+        "label": "Influence: The Psychology of Persuasion",
+        "url": "https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X",
+        "icon": "play"
+      },
+      {
+        "label": "Pre-Suasion",
+        "url": "https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109790",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 3200,
+    "createdAt": "2026-02-07",
+    "featured": false
+  },
+  {
+    "id": "active-listening-mastery",
+    "name": "Master Active Listening",
+    "icon": "ear",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "conversation",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Listen so effectively that others feel heard and understood, deepening relationships",
+    "needs": ["conversation partner", "awareness"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Stop Internal Dialogue",
+        "text": "Quiet your mind's commentary. Stop planning your response while they talk. Focus 100% on them.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Non-Verbal Signals",
+        "text": "Master nodding, maintaining eye contact, leaning in, and facial expressions that show engagement.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Verbal Affirmations",
+        "text": "Use minimal encouragers: 'mm-hmm', 'I see', 'Tell me more'. Don't interrupt or redirect.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Reflect Back",
+        "text": "Paraphrase what you heard: 'So what you're saying is...' This shows understanding and prevents misunderstandings.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Daily Practice",
+        "text": "Have one conversation per day where you focus on pure listening. Notice the difference it makes.",
+        "icon": "star"
+      }
+    ],
+    "tip": "When someone feels truly heard, they open up more. This builds deeper, meaningful relationships.",
+    "resources": [
+      {
+        "label": "Listening Skills Training",
+        "url": "https://www.mindtools.com/CommSkll/ActiveListening.htm",
+        "icon": "play"
+      },
+      {
+        "label": "Center for Transformative Change",
+        "url": "https://www.centfortransformativechange.com",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 4300,
+    "createdAt": "2026-01-19",
+    "featured": false
+  },
+  {
+    "id": "personal-branding-authentically",
+    "name": "Build Your Personal Brand Authentically",
+    "icon": "target",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "storytelling",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Create a genuine personal brand that aligns with your values and attracts opportunities",
+    "needs": ["self-reflection", "platform access"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Define Your Purpose",
+        "text": "Clarify what you stand for, your strengths, and unique value. What makes you different?",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Identify Your Audience",
+        "text": "Who do you want to reach? What problems do you solve for them? Stay specific and focused.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Craft Your Story",
+        "text": "Develop origin story, core values, and vision. Make it authentic. People connect with real stories.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Consistent Messaging",
+        "text": "Apply your brand across platforms, email, social media, and conversations. Consistency builds recognition.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Build & Engage",
+        "text": "Start creating content or having conversations aligned with your brand. Build community around values.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Authenticity beats polish. People trust and follow those who are genuine and real.",
+    "resources": [
+      {
+        "label": "Building a StoryBrand",
+        "url": "https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718019329",
+        "icon": "play"
+      },
+      {
+        "label": "Your Personal Brand on LinkedIn",
+        "url": "https://www.linkedin.com/learning",
+        "icon": "users"
+      }
+    ],
+    "likes": 2800,
+    "createdAt": "2026-01-23",
+    "featured": false
+  },
+  {
+    "id": "difficult-conversations",
+    "name": "Have Difficult Conversations",
+    "icon": "mic",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "conflict-resolution",
+    "difficulty": "intermediate",
+    "setting": "anywhere",
+    "outcome": "Navigate challenging conversations with honesty, empathy, and clear outcomes",
+    "needs": ["difficult situation", "courage"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Prepare Thoroughly",
+        "text": "Clarify your goal and desired outcome. Practice what you'll say. Anticipate their response.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Choose Time & Place",
+        "text": "Private setting, calm timing, no distractions. Give the conversation respect and space.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Lead with Empathy",
+        "text": "Acknowledge their perspective first. Show you understand their position before sharing yours.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Be Specific & Kind",
+        "text": "Use concrete examples, not generalizations. Focus on behavior, not character. Maintain respect.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Listen & Collaborate",
+        "text": "Create space for their response. Work together on solutions. Close with clarity on next steps.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Difficult conversations get easier with practice. Starting them is often harder than having them.",
+    "resources": [
+      {
+        "label": "Difficult Conversations Book",
+        "url": "https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447",
+        "icon": "play"
+      },
+      {
+        "label": "Harvard PON Difficult Conversations",
+        "url": "https://www.pon.harvard.edu",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 3600,
+    "createdAt": "2026-01-26",
+    "featured": false
+  },
+  {
+    "id": "build-emotional-intelligence",
+    "name": "Build Your Emotional Intelligence",
+    "icon": "brain",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "conflict-resolution",
+    "difficulty": "intermediate",
+    "setting": "anywhere",
+    "outcome": "Recognize and manage your emotions and develop deeper empathy for others",
+    "needs": ["self-reflection journal", "emotional awareness"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Name Your Emotions",
+        "text": "Build emotion vocabulary. Understand the difference between sad, disappointed, frustrated, ashamed.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Understand Triggers",
+        "text": "Keep a journal of emotional reactions. Identify what consistently triggers strong emotions in you.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Develop Self-Regulation",
+        "text": "Learn breathing, grounding, and pause techniques. Create space between trigger and response.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Empathy Building",
+        "text": "Practice perspective-taking. In conflicts, ask 'What might they be feeling?' Build genuine understanding.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Apply in Relationships",
+        "text": "Use emotional intelligence in work and personal relationships. Notice improved connections.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Emotional intelligence is the biggest predictor of success in relationships and careers.",
+    "resources": [
+      {
+        "label": "Emotional Intelligence by Goleman",
+        "url": "https://www.amazon.com/Emotional-Intelligence-Matter-More-IQ/dp/0553383264",
+        "icon": "play"
+      },
+      {
+        "label": "MAPP Emotional Intelligence Assessment",
+        "url": "https://www.multpl.com/mapp-ei",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 4900,
+    "createdAt": "2026-01-29",
+    "featured": false
+  },
+  {
+    "id": "executive-presence",
+    "name": "Develop Executive Presence",
+    "icon": "target",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "public-speaking",
+    "difficulty": "advanced",
+    "setting": "anywhere",
+    "outcome": "Command attention and respect in professional settings with authentic executive presence",
+    "needs": ["professional setting", "feedback"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Presence",
+        "text": "Executive presence combines confidence, clarity, composure, and credibility. It's learnable.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Physical Grounding",
+        "text": "Master posture, movement, and voice projection. Stand with weight balanced. Speak from diaphragm.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Strategic Communication",
+        "text": "Lead with your most important point. Use data. Be concise. Eliminate filler words and hedging.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Listening Authority",
+        "text": "Listen thoughtfully before speaking. Ask powerful questions. Don't interrupt. Respect others' time.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "High-Stakes Practice",
+        "text": "Lead meetings, presentations, or negotiations. Ask for feedback. Refine and improve iteratively.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Executive presence isn't about being the loudest—it's about being clear, confident, and considered.",
+    "resources": [
+      {
+        "label": "Executive Presence Course",
+        "url": "https://www.linkedin.com/learning/executive-presence",
+        "icon": "play"
+      },
+      {
+        "label": "HBR: Executive Presence",
+        "url": "https://hbr.org",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 2100,
+    "createdAt": "2026-02-04",
+    "featured": false
+  },
+  {
+    "id": "charm-and-likability",
+    "name": "Increase Your Charm & Likability",
+    "icon": "message-square",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "small-talk",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Be naturally likable and charismatic in social and professional settings",
+    "needs": ["social setting", "authentic interest"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Genuine Interest",
+        "text": "Develop real curiosity about others. People sense when interest is genuine vs transactional.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Remember Details",
+        "text": "Listen for names, facts, interests. Reference them later. People feel special when remembered.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Give Compliments Wisely",
+        "text": "Offer specific, earned compliments. Avoid flattery. Genuine appreciation is magnetic.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Find Common Ground",
+        "text": "Look for shared interests, experiences, values. Bonding happens around similarity.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Follow-up & Consistency",
+        "text": "Stay in touch. Show you value the relationship. Consistency builds genuine likability.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Likability comes from making others feel good about themselves, not from being impressive.",
+    "resources": [
+      {
+        "label": "Captivate: The Science of Succeeding",
+        "url": "https://www.amazon.com/Captivate-Science-Succeeding-Life-Vanessa/dp/0593079671",
+        "icon": "play"
+      },
+      {
+        "label": "The Likeability Factor",
+        "url": "https://www.amazon.com/Likeability-Factor-How-Become-Popular/dp/0061241059",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 3400,
+    "createdAt": "2026-01-31",
+    "featured": false
+  },
+  {
+    "id": "feedback-delivery-mastery",
+    "name": "Master Giving & Receiving Feedback",
+    "icon": "lightbulb",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "conversation",
+    "difficulty": "intermediate",
+    "setting": "anywhere",
+    "outcome": "Give constructive feedback that builds people up and receive feedback that helps you grow",
+    "needs": ["feedback scenarios", "emotional maturity"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Feedback Principles",
+        "text": "Learn: specific, timely, balanced, actionable, and kind. Wrong approach damages relationships.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Giving Feedback Framework",
+        "text": "Use sandwich method or DESC (Describe, Express, Specify, Consequences). Keep tone supportive.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Receiving Feedback Well",
+        "text": "Listen without defensiveness. Ask clarifying questions. Thank them. Reflect before responding.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Difficult Feedback",
+        "text": "Learn to deliver and receive critical feedback. The goal is growth, not praise.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Practice Scenarios",
+        "text": "Role-play giving feedback to a peer, boss, and report. Practice receiving feedback gracefully.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Best feedback comes from genuine care about the other person's growth and success.",
+    "resources": [
+      {
+        "label": "Thanks for the Feedback",
+        "url": "https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0670068403",
+        "icon": "play"
+      },
+      {
+        "label": "Radical Candor",
+        "url": "https://www.amazon.com/Radical-Candor-Kick-Ass-Humanity-Management/dp/1250103932",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 3100,
+    "createdAt": "2026-02-02",
+    "featured": false
+  },
+  {
+    "id": "cross-cultural-communication",
+    "name": "Master Cross-Cultural Communication",
+    "icon": "globe",
+    "color": "#C2185B",
+    "category": "social",
+    "subcategory": "conversation",
+    "difficulty": "advanced",
+    "setting": "anywhere",
+    "outcome": "Communicate effectively across cultures, avoiding misunderstandings and building respect",
+    "needs": ["cultural exposure", "learning mindset"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Cultural Dimensions",
+        "text": "Learn Hofstede's dimensions: individualism, power distance, uncertainty avoidance, time orientation.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Communication Styles",
+        "text": "Understand direct vs indirect, explicit vs implicit cultures. Adapt your style accordingly.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Non-Verbal Awareness",
+        "text": "Learn eye contact, distance, gesture meanings vary by culture. Research before international interaction.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Active Curiosity",
+        "text": "Ask respectful questions about cultures. Show genuine interest. Avoid stereotypes and assumptions.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Practice Globally",
+        "text": "Interact with people from different cultures. Build relationships. Learn from real experience.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Humility and curiosity are your best tools. Admit when you don't know and ask to learn.",
+    "resources": [
+      {
+        "label": "Culture Map by Erin Meyer",
+        "url": "https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507",
+        "icon": "play"
+      },
+      {
+        "label": "Morrison Conaway, Kiss, Bow",
+        "url": "https://www.amazon.com/Kiss-Bow-Shake-Hands-Nonverbal/dp/1598694677",
+        "icon": "book-open"
+      }
+    ],
+    "likes": 1900,
+    "createdAt": "2026-02-06",
+    "featured": false
+  }
+]

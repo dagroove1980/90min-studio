@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "fold-everything-in-closet",
+    "name": "Fold Everything in Your Closet Properly",
+    "icon": "home",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "organizing",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A perfectly organized closet with neatly folded clothes",
+    "needs": ["closet space", "hangers", "flat surface"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Sort",
+        "text": "Remove all items from closet and sort by category: shirts, pants, sweaters, accessories",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Fold",
+        "text": "Master the basic fold: lay items flat, fold in thirds lengthwise, fold in half widthwise",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Stack",
+        "text": "Stack folded items vertically in bins or shelf sections for easy visibility",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Organize",
+        "text": "Arrange by color and season, placing frequently worn items at eye level",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Maintain",
+        "text": "Return items to closet with intention, establishing a daily refold habit",
+        "icon": "star"
+      }
+    ],
+    "tip": "Use the KonMari fold method to maximize space and visibility",
+    "resources": [
+      {
+        "label": "KonMari Folding Guide",
+        "url": "https://konmari.com/folding-guide",
+        "icon": "play"
+      }
+    ],
+    "likes": 8734,
+    "createdAt": "2026-01-15",
+    "featured": true
+  },
+  {
+    "id": "deep-clean-kitchen",
+    "name": "Deep Clean Your Kitchen",
+    "icon": "wrench",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "cleaning",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A spotless kitchen that sparkles and smells fresh",
+    "needs": ["cleaning spray", "sponges", "microfiber cloths", "gloves", "vacuum"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Clear",
+        "text": "Remove all items from counters and wipe down surfaces with a damp cloth",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Appliances",
+        "text": "Clean microwave, stovetop, and oven with appropriate cleaners",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Cabinets",
+        "text": "Wipe down cabinet fronts and organize contents, removing expired items",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Floors",
+        "text": "Vacuum, then mop with appropriate floor cleaner for your surface type",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Details",
+        "text": "Clean sink, faucet, and backsplash to complete the transformation",
+        "icon": "star"
+      }
+    ],
+    "tip": "Work from top to bottom so debris falls to floors you'll clean last",
+    "resources": [
+      {
+        "label": "Deep Cleaning Checklist",
+        "url": "https://www.cleaninginstitute.org/kitchen-checklist",
+        "icon": "play"
+      }
+    ],
+    "likes": 11245,
+    "createdAt": "2026-01-22",
+    "featured": false
+  },
+  {
+    "id": "change-flat-tire",
+    "name": "Change a Flat Tire",
+    "icon": "car",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "car-maintenance",
+    "difficulty": "beginner",
+    "setting": "outdoor",
+    "outcome": "A replaced tire and a roadworthy vehicle",
+    "needs": ["jack", "lug wrench", "spare tire", "wheel wedges", "gloves"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Prepare",
+        "text": "Park safely on level ground, put on hazard lights, and loosen lug nuts slightly",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Lift",
+        "text": "Place jack under vehicle frame and raise until tire is 6 inches off ground",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Remove",
+        "text": "Remove lug nuts completely and pull damaged tire straight toward you",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Install",
+        "text": "Mount spare tire on lug bolts and hand-tighten lug nuts onto bolts",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Secure",
+        "text": "Lower vehicle and tighten lug nuts in star pattern, then drive to repair shop",
+        "icon": "star"
+      }
+    ],
+    "tip": "Loosen lug nuts before lifting so the tire doesn't spin",
+    "resources": [
+      {
+        "label": "Vehicle Manual",
+        "url": "https://www.car-maintenance-basics.com/tire-change",
+        "icon": "play"
+      }
+    ],
+    "likes": 9567,
+    "createdAt": "2026-01-08",
+    "featured": false
+  },
+  {
+    "id": "sew-button-perfectly",
+    "name": "Sew a Button Perfectly",
+    "icon": "scissors",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "sewing",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A securely sewn button that will last for years",
+    "needs": ["needle", "thread", "button", "scissors", "cloth"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Thread",
+        "text": "Cut 24 inches of thread, thread needle, and tie a knot at the end",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Position",
+        "text": "Push needle through fabric from back to front, coming up through button hole",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Stitch",
+        "text": "Push needle down through opposite hole and back up 6–8 times for strength",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Wrap",
+        "text": "Wrap thread around button base to create shank, then push through to back",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Finish",
+        "text": "Tie off with secure knot on reverse side and trim excess thread",
+        "icon": "star"
+      }
+    ],
+    "tip": "Creating a shank allows the button to move freely, preventing stress on stitches",
+    "resources": [
+      {
+        "label": "Sewing Tutorial",
+        "url": "https://www.craftsy.com/sewing-button",
+        "icon": "play"
+      }
+    ],
+    "likes": 7823,
+    "createdAt": "2026-01-18",
+    "featured": false
+  },
+  {
+    "id": "tie-10-essential-knots",
+    "name": "Tie 10 Essential Knots",
+    "icon": "tool",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "knots",
+    "difficulty": "intermediate",
+    "setting": "anywhere",
+    "outcome": "Mastery of knots for camping, sailing, and everyday use",
+    "needs": ["rope", "practice cord", "instruction guide"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Basics",
+        "text": "Learn square knot: right over left, left over right for secure joining",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Loops",
+        "text": "Master bowline, figure-eight loop, and clove hitch for various applications",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Hitches",
+        "text": "Practice taut-line hitch, trucker's hitch, and sheet bend for securing loads",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Specialty",
+        "text": "Learn fisherman's knot and monkey fist for climbing or nautical needs",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Drill",
+        "text": "Practice all 10 knots repeatedly until you can tie them without thinking",
+        "icon": "star"
+      }
+    ],
+    "tip": "Tie each knot 10 times in a row to build muscle memory",
+    "resources": [
+      {
+        "label": "Essential Knots Guide",
+        "url": "https://www.animatedknots.com/essential-knots",
+        "icon": "play"
+      }
+    ],
+    "likes": 6412,
+    "createdAt": "2026-01-12",
+    "featured": false
+  },
+  {
+    "id": "build-morning-routine",
+    "name": "Build a Morning Routine That Works",
+    "icon": "clock",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "time-management",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A consistent morning routine that sets you up for success",
+    "needs": ["planner", "alarm", "routine checklist"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Design",
+        "text": "List ideal morning activities: exercise, breakfast, meditation, grooming",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Schedule",
+        "text": "Assign realistic time blocks to each activity based on your wake time",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Prepare",
+        "text": "Set up the night before: clothes, breakfast items, workout gear",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Execute",
+        "text": "Follow your routine for 3 consecutive days, using checklist as guide",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Refine",
+        "text": "Adjust timing and activities based on what actually works for you",
+        "icon": "star"
+      }
+    ],
+    "tip": "Wake at the same time daily to help your body establish rhythm",
+    "resources": [
+      {
+        "label": "Morning Routine Playbook",
+        "url": "https://www.habitica.com/morning-routine",
+        "icon": "play"
+      }
+    ],
+    "likes": 10921,
+    "createdAt": "2026-02-01",
+    "featured": false
+  },
+  {
+    "id": "first-aid-basics",
+    "name": "Master First Aid Basics Everyone Should Know",
+    "icon": "shield",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "first-aid",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Confidence to handle common injuries and medical emergencies",
+    "needs": ["first aid kit", "training video", "practice mannequin"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "CPR",
+        "text": "Learn chest compressions: 30 compressions at 100–120 beats per minute",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Bleeding",
+        "text": "Master direct pressure, elevation, and pressure point techniques",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Choking",
+        "text": "Practice Heimlich maneuver with proper hand placement and execution",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Injuries",
+        "text": "Learn RICE protocol for sprains: rest, ice, compression, elevation",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Assessment",
+        "text": "Practice evaluating injuries and knowing when to call emergency services",
+        "icon": "star"
+      }
+    ],
+    "tip": "Take a certified first aid course for hands-on practice",
+    "resources": [
+      {
+        "label": "Red Cross First Aid",
+        "url": "https://www.redcross.org/first-aid-training",
+        "icon": "play"
+      }
+    ],
+    "likes": 12076,
+    "createdAt": "2026-01-25",
+    "featured": false
+  },
+  {
+    "id": "iron-dress-shirt-perfectly",
+    "name": "Iron a Dress Shirt Perfectly",
+    "icon": "wrench",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "laundry",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A crisp, wrinkle-free dress shirt ready for wear",
+    "needs": ["iron", "ironing board", "spray starch", "dress shirt"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Prep",
+        "text": "Dampen shirt lightly with spray starch and let sit for 5 minutes",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Sleeves",
+        "text": "Iron both sleeves with lengthwise strokes, rotating to get both sides",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Back",
+        "text": "Lay shirt flat and iron back in vertical strokes from bottom to collar",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Front",
+        "text": "Iron front panels carefully, working around buttons with gentle pressure",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Collar",
+        "text": "Finish with collar from inside out, then flip and press top side flat",
+        "icon": "star"
+      }
+    ],
+    "tip": "Iron sleeves first to avoid re-wrinkling as you work on body",
+    "resources": [
+      {
+        "label": "Ironing Technique Guide",
+        "url": "https://www.thespruce.com/ironing-shirts-guide",
+        "icon": "play"
+      }
+    ],
+    "likes": 5634,
+    "createdAt": "2026-01-20",
+    "featured": false
+  },
+  {
+    "id": "organize-closet-entirely",
+    "name": "Organize Your Entire Closet",
+    "icon": "home",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "organizing",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A fully organized closet with everything accessible and visible",
+    "needs": ["bins", "hangers", "labels", "measuring tape"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Audit",
+        "text": "Remove everything from closet and assess each item for fit and condition",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Purge",
+        "text": "Donate, sell, or discard items that don't fit or make you feel great",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Group",
+        "text": "Organize by category: tops, bottoms, outerwear, with subcategories by color",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Optimize",
+        "text": "Arrange items by frequency of wear, hanging everything that creases easily",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Label",
+        "text": "Label bins and drawers, establish a system for adding new items",
+        "icon": "star"
+      }
+    ],
+    "tip": "Use uniform hangers for a cohesive, professional appearance",
+    "resources": [
+      {
+        "label": "Closet Organization System",
+        "url": "https://www.apartmenttherapy.com/closet-system",
+        "icon": "play"
+      }
+    ],
+    "likes": 11203,
+    "createdAt": "2026-01-10",
+    "featured": true
+  },
+  {
+    "id": "unclog-any-drain",
+    "name": "Unclog Any Drain",
+    "icon": "wrench",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "home-repair",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A clear, flowing drain without chemical damage to pipes",
+    "needs": ["plunger", "snake", "wire hanger", "baking soda", "vinegar"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Assess",
+        "text": "Determine clog severity: slow drain vs complete blockage",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Remove",
+        "text": "Try baking soda and vinegar method: pour baking soda, add vinegar, wait",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Plunge",
+        "text": "Fill sink with water and use plunger with vigorous up-down motions",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Snake",
+        "text": "If plunging fails, use drain snake to physically remove blockage",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Flush",
+        "text": "Run hot water to flush debris and prevent future buildup",
+        "icon": "star"
+      }
+    ],
+    "tip": "Avoid chemical drain cleaners as they damage pipes and harm the environment",
+    "resources": [
+      {
+        "label": "Drain Maintenance Tips",
+        "url": "https://www.familyhandyman.com/drain-cleaning",
+        "icon": "play"
+      }
+    ],
+    "likes": 8945,
+    "createdAt": "2026-01-28",
+    "featured": false
+  },
+  {
+    "id": "do-laundry-like-pro",
+    "name": "Do Laundry Like a Pro",
+    "icon": "droplets",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "laundry",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Clean clothes that last longer with preserved colors and integrity",
+    "needs": ["laundry detergent", "washing machine", "dryer", "stain remover"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Sort",
+        "text": "Separate lights, darks, and delicates; check pockets for items",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Treat",
+        "text": "Pretreat stains with appropriate product and let sit 10–30 minutes",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Wash",
+        "text": "Use correct water temperature and detergent amount for load size",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Dry",
+        "text": "Transfer to dryer on appropriate heat setting, or hang delicates to air dry",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Fold",
+        "text": "Remove immediately and fold or hang to prevent wrinkles",
+        "icon": "star"
+      }
+    ],
+    "tip": "Turn clothes inside out and wash in cold water to preserve colors",
+    "resources": [
+      {
+        "label": "Laundry Care Guide",
+        "url": "https://www.cleaninginstitute.org/laundry-tips",
+        "icon": "play"
+      }
+    ],
+    "likes": 9823,
+    "createdAt": "2026-01-05",
+    "featured": false
+  },
+  {
+    "id": "pack-move-efficiently",
+    "name": "Pack for a Move Efficiently",
+    "icon": "layers",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "moving",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Everything packed, labeled, and ready to transport to your new home",
+    "needs": ["boxes", "packing tape", "markers", "bubble wrap", "newspaper"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Purge",
+        "text": "Declutter before packing: donate items you don't use or love",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Gather",
+        "text": "Collect boxes, tape, markers, and packing materials",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Pack",
+        "text": "Pack by room, filling boxes to capacity but keeping weight manageable",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Label",
+        "text": "Write room and contents on all sides of each box for easy identification",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Protect",
+        "text": "Wrap fragile items individually and clearly mark boxes as fragile",
+        "icon": "star"
+      }
+    ],
+    "tip": "Pack heaviest items in small boxes and lighter items in larger boxes",
+    "resources": [
+      {
+        "label": "Professional Packing Guide",
+        "url": "https://www.moving.com/packing-guide",
+        "icon": "play"
+      }
+    ],
+    "likes": 7564,
+    "createdAt": "2026-02-03",
+    "featured": false
+  },
+  {
+    "id": "establish-personal-hygiene",
+    "name": "Establish a Daily Personal Hygiene Routine",
+    "icon": "heart",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "personal-hygiene",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A consistent hygiene routine that keeps you clean and healthy",
+    "needs": ["soap", "toothbrush", "deodorant", "towels", "washcloth"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Morning",
+        "text": "Wash face, brush teeth, shower if needed, apply deodorant",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Grooming",
+        "text": "Trim nails weekly, shave or groom facial hair as preferred",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Skincare",
+        "text": "Establish routine with cleanser, moisturizer, and sunscreen",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Evening",
+        "text": "Wash face, brush teeth, floss, and bathe before bed",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Weekly",
+        "text": "Deep clean ears, cut nails, exfoliate skin, and wash towels",
+        "icon": "star"
+      }
+    ],
+    "tip": "Set phone reminders for daily routines until they become habits",
+    "resources": [
+      {
+        "label": "Personal Hygiene Guide",
+        "url": "https://www.healthline.com/health/hygiene",
+        "icon": "play"
+      }
+    ],
+    "likes": 6234,
+    "createdAt": "2026-01-30",
+    "featured": false
+  },
+  {
+    "id": "repair-leaky-faucet",
+    "name": "Repair a Leaky Faucet",
+    "icon": "wrench",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "home-repair",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A fully functioning faucet that no longer wastes water",
+    "needs": ["wrench", "screwdriver", "replacement washers", "plumber's tape"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Shut Off",
+        "text": "Turn off water supply under sink or at main shutoff valve",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Disassemble",
+        "text": "Remove handle, packing nut, and stem using appropriate wrench size",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Replace",
+        "text": "Remove old washer and O-ring, install new ones of correct size",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Reassemble",
+        "text": "Reverse disassembly process, tightening packing nut snugly but not over-tight",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Test",
+        "text": "Turn water back on and check for leaks, adjusting if necessary",
+        "icon": "star"
+      }
+    ],
+    "tip": "Take photos during disassembly to remember the correct order for reassembly",
+    "resources": [
+      {
+        "label": "Faucet Repair Guide",
+        "url": "https://www.familyhandyman.com/faucet-repair",
+        "icon": "play"
+      }
+    ],
+    "likes": 6789,
+    "createdAt": "2026-01-16",
+    "featured": false
+  },
+  {
+    "id": "mend-torn-seam",
+    "name": "Mend a Torn Seam Like New",
+    "icon": "scissors",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "sewing",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A perfectly mended seam that extends garment life",
+    "needs": ["needle", "thread", "scissors", "pins", "garment"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Assess",
+        "text": "Examine tear location and determine if simple stitch or patch is needed",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Thread",
+        "text": "Choose matching thread color, thread needle, tie off with knot",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Stitch",
+        "text": "Use whip stitch or ladder stitch for seam repairs, keeping stitches small",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Reinforce",
+        "text": "Make 2–3 passes for strength, especially on high-stress seams",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Finish",
+        "text": "Knot off inside garment and trim excess thread",
+        "icon": "star"
+      }
+    ],
+    "tip": "Use matching thread color and stitch style from original garment",
+    "resources": [
+      {
+        "label": "Hand Sewing Stitches",
+        "url": "https://www.craftsy.com/hand-sewing-stitches",
+        "icon": "play"
+      }
+    ],
+    "likes": 5123,
+    "createdAt": "2026-01-14",
+    "featured": false
+  },
+  {
+    "id": "tie-reef-knot",
+    "name": "Master the Reef Knot and Variations",
+    "icon": "tool",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "knots",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Ability to securely tie reef knots and teach others",
+    "needs": ["rope", "practice cord", "knot guide"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn",
+        "text": "Understand reef knot purpose: joining two ropes of similar diameter",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Practice",
+        "text": "Right over left, then left over right to create stable square knot",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Tension",
+        "text": "Practice until you can tie with proper tension without thinking",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Variations",
+        "text": "Learn granny knot vs reef knot to understand when each is appropriate",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Application",
+        "text": "Apply in practical scenarios: parcels, first aid, sailing",
+        "icon": "star"
+      }
+    ],
+    "tip": "Remember 'right over left and left over right' mnemonic for success",
+    "resources": [
+      {
+        "label": "Reef Knot Tutorial",
+        "url": "https://www.animatedknots.com/reef-knot",
+        "icon": "play"
+      }
+    ],
+    "likes": 4567,
+    "createdAt": "2026-01-11",
+    "featured": false
+  },
+  {
+    "id": "manage-time-effectively",
+    "name": "Manage Your Time Effectively",
+    "icon": "clock",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "time-management",
+    "difficulty": "intermediate",
+    "setting": "anywhere",
+    "outcome": "Complete control over your schedule and daily priorities",
+    "needs": ["planner", "calendar app", "timer", "notebook"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Audit",
+        "text": "Track how you spend time for 3 days to identify patterns",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Prioritize",
+        "text": "List major goals and break into daily actionable tasks",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Schedule",
+        "text": "Block time for each task, grouping similar activities together",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Protect",
+        "text": "Guard scheduled time from distractions and unexpected demands",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Review",
+        "text": "Weekly review what worked and adjust schedule accordingly",
+        "icon": "star"
+      }
+    ],
+    "tip": "Use the Eisenhower Matrix to separate urgent from important tasks",
+    "resources": [
+      {
+        "label": "Time Management System",
+        "url": "https://www.todoist.com/time-management",
+        "icon": "play"
+      }
+    ],
+    "likes": 8734,
+    "createdAt": "2026-01-29",
+    "featured": false
+  },
+  {
+    "id": "handle-severe-bleeding",
+    "name": "Handle Severe Bleeding Safely",
+    "icon": "shield",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "first-aid",
+    "difficulty": "intermediate",
+    "setting": "anywhere",
+    "outcome": "Ability to stabilize severe bleeding and potentially save a life",
+    "needs": ["sterile gauze", "pressure bandages", "tourniquet", "gloves"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Assess",
+        "text": "Check for danger, put on gloves, determine bleeding severity",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Pressure",
+        "text": "Apply direct sustained pressure with sterile gauze for 10 minutes",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Elevate",
+        "text": "Raise affected limb above heart level while maintaining pressure",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Bandage",
+        "text": "Apply pressure bandage without cutting off circulation to limb",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Emergency",
+        "text": "Call 911 if bleeding doesn't stop after 10 minutes of pressure",
+        "icon": "star"
+      }
+    ],
+    "tip": "Never remove initial bandage; apply new bandage over if bleeding continues",
+    "resources": [
+      {
+        "label": "Severe Bleeding Protocol",
+        "url": "https://www.redcross.org/severe-bleeding",
+        "icon": "play"
+      }
+    ],
+    "likes": 7891,
+    "createdAt": "2026-01-27",
+    "featured": false
+  },
+  {
+    "id": "clean-windows-spotless",
+    "name": "Clean Windows Until They Sparkle",
+    "icon": "eye",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "cleaning",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Crystal-clear windows that let in maximum light",
+    "needs": ["window cleaner", "squeegee", "newspaper", "bucket", "cloth"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Prep",
+        "text": "Remove dust with dry cloth or vacuum, then spray with window cleaner",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Wipe",
+        "text": "Wipe entire window with newspaper in circular motions for shine",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Squeegee",
+        "text": "Use squeegee vertically or horizontally to remove remaining liquid",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Frame",
+        "text": "Wipe window frames and sills with cloth to remove dried streaks",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Polish",
+        "text": "Final dry cloth pass to eliminate any remaining streaks or spots",
+        "icon": "star"
+      }
+    ],
+    "tip": "Newspaper leaves fewer streaks than paper towels due to its texture",
+    "resources": [
+      {
+        "label": "Window Cleaning Tips",
+        "url": "https://www.cleaninginstitute.org/window-cleaning",
+        "icon": "play"
+      }
+    ],
+    "likes": 6234,
+    "createdAt": "2026-01-19",
+    "featured": false
+  },
+  {
+    "id": "remove-carpet-stains",
+    "name": "Remove Tough Carpet Stains",
+    "icon": "wrench",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "cleaning",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Carpets that look renewed and spot-free",
+    "needs": ["stain remover", "brush", "white towels", "vinegar", "baking soda"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Identify",
+        "text": "Determine stain type: food, oil, ink, pet, wine, mud, etc.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Blot",
+        "text": "Blot with white cloth, never rub, to absorb excess liquid",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Treat",
+        "text": "Apply appropriate stain remover and let sit according to instructions",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Scrub",
+        "text": "Gently work solution in with brush, working from edges toward center",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Rinse",
+        "text": "Rinse with clean water and blot dry completely to prevent mildew",
+        "icon": "star"
+      }
+    ],
+    "tip": "Always test stain remover on hidden carpet area first",
+    "resources": [
+      {
+        "label": "Stain Removal Guide",
+        "url": "https://www.cleaninginstitute.org/stain-removal",
+        "icon": "play"
+      }
+    ],
+    "likes": 7234,
+    "createdAt": "2026-01-23",
+    "featured": false
+  },
+  {
+    "id": "change-car-oil",
+    "name": "Change Your Car's Oil",
+    "icon": "car",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "car-maintenance",
+    "difficulty": "intermediate",
+    "setting": "outdoor",
+    "outcome": "An engine with fresh oil that runs smoother and lasts longer",
+    "needs": ["new oil", "oil filter", "wrench", "oil pan", "socket set"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Prepare",
+        "text": "Warm engine, turn off, let cool 5 minutes, locate drain plug under car",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Drain",
+        "text": "Place pan under plug, remove plug, let oil drain completely",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Filter",
+        "text": "Remove old filter with wrench, install new filter with hand-tight seal",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Fill",
+        "text": "Replace drain plug and pour recommended amount of new oil into engine",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Check",
+        "text": "Wait 5 minutes, check level with dipstick, add more if needed",
+        "icon": "star"
+      }
+    ],
+    "tip": "Dispose of old oil at recycling center; never pour down drain",
+    "resources": [
+      {
+        "label": "Oil Change Guide",
+        "url": "https://www.car-care.org/oil-change-guide",
+        "icon": "play"
+      }
+    ],
+    "likes": 8567,
+    "createdAt": "2026-02-05",
+    "featured": false
+  },
+  {
+    "id": "fix-drywall-hole",
+    "name": "Fix a Drywall Hole Seamlessly",
+    "icon": "hammer",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "home-repair",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A smooth wall with no visible damage",
+    "needs": ["spackling compound", "drywall patch", "sandpaper", "putty knife", "paint"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Assess",
+        "text": "Determine hole size: small (spackling) or large (patch) repair",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Prep",
+        "text": "Remove loose debris with wire brush around hole edges",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Fill",
+        "text": "Apply spackling compound with putty knife, feathering edges smooth",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Sand",
+        "text": "Once dry, sand smooth with fine-grit sandpaper, dust with damp cloth",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Paint",
+        "text": "Paint over repair with matching color for seamless finish",
+        "icon": "star"
+      }
+    ],
+    "tip": "Apply multiple thin coats rather than one thick coat for better results",
+    "resources": [
+      {
+        "label": "Drywall Repair Guide",
+        "url": "https://www.familyhandyman.com/drywall-repair",
+        "icon": "play"
+      }
+    ],
+    "likes": 5876,
+    "createdAt": "2026-01-26",
+    "featured": false
+  },
+  {
+    "id": "clean-oven-thoroughly",
+    "name": "Clean Your Oven Thoroughly",
+    "icon": "wrench",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "cleaning",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A sparkling clean oven that heats food evenly",
+    "needs": ["oven cleaner", "sponge", "rubber gloves", "scraper", "warm water"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Prepare",
+        "text": "Remove oven racks, ensure oven is cool, open window for ventilation",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Spray",
+        "text": "Apply oven cleaner liberally, cover all interior surfaces, let sit overnight",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Scrape",
+        "text": "Wipe out loosened grime with sponge or plastic scraper",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Rinse",
+        "text": "Wipe with damp cloth multiple times until all cleaner residue is gone",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Dry",
+        "text": "Clean racks and reinstall, dry interior completely",
+        "icon": "star"
+      }
+    ],
+    "tip": "Use self-cleaning oven function on low heat after cleaning for residue",
+    "resources": [
+      {
+        "label": "Oven Cleaning Tips",
+        "url": "https://www.cleaninginstitute.org/oven-cleaning",
+        "icon": "play"
+      }
+    ],
+    "likes": 6543,
+    "createdAt": "2026-01-17",
+    "featured": false
+  },
+  {
+    "id": "patch-clothing-tear",
+    "name": "Patch a Clothing Tear",
+    "icon": "scissors",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "sewing",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A durable patch that extends garment life",
+    "needs": ["fabric patch", "needle", "thread", "scissors", "iron", "fabric adhesive"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Assess",
+        "text": "Evaluate tear size and location, determine if visible or hidden patch",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Prep",
+        "text": "Cut patch 1 inch larger than tear, fray edges for easier blending",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Attach",
+        "text": "Use fabric adhesive or iron-on patch backing to affix patch",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Stitch",
+        "text": "Whip stitch around patch edges for durability and finished appearance",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Finish",
+        "text": "Trim excess thread, press with iron for smooth finish",
+        "icon": "star"
+      }
+    ],
+    "tip": "Match fabric type and color closely for invisible repairs",
+    "resources": [
+      {
+        "label": "Patching Techniques",
+        "url": "https://www.craftsy.com/fabric-patching",
+        "icon": "play"
+      }
+    ],
+    "likes": 4923,
+    "createdAt": "2026-01-31",
+    "featured": false
+  },
+  {
+    "id": "jump-start-car",
+    "name": "Jump-Start a Car Battery",
+    "icon": "zap",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "car-maintenance",
+    "difficulty": "beginner",
+    "setting": "outdoor",
+    "outcome": "A successfully started vehicle ready to drive",
+    "needs": ["jumper cables", "helper vehicle", "safety glasses"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Position",
+        "text": "Park helper vehicle close to dead battery, both turned off",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Connect",
+        "text": "Red clamp to dead battery positive terminal, then helper battery positive",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Ground",
+        "text": "Black clamp to helper battery negative, then unpainted metal on dead car",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Start",
+        "text": "Start helper vehicle, wait 2 minutes, then start dead battery vehicle",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Remove",
+        "text": "Let engine run 5 minutes, disconnect clamps in reverse order",
+        "icon": "star"
+      }
+    ],
+    "tip": "Never let clamps touch each other or car body when engines are running",
+    "resources": [
+      {
+        "label": "Jump Starting Guide",
+        "url": "https://www.aa.com/car-care/jump-starting",
+        "icon": "play"
+      }
+    ],
+    "likes": 7654,
+    "createdAt": "2026-01-09",
+    "featured": false
+  },
+  {
+    "id": "install-curtain-rod",
+    "name": "Install a Curtain Rod Perfectly",
+    "icon": "hammer",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "home-repair",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Level curtain rod installed securely for years of use",
+    "needs": ["curtain rod", "brackets", "drill", "level", "wall anchors", "screws"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Plan",
+        "text": "Determine rod height: 4–6 inches above window frame for best proportions",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Mark",
+        "text": "Mark bracket locations with pencil, use level to ensure straight line",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Drill",
+        "text": "Drill holes at marked locations, install wall anchors if needed",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Mount",
+        "text": "Screw brackets into wall, ensuring they're level and secure",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Install",
+        "text": "Slide curtain rod through brackets and test for stability",
+        "icon": "star"
+      }
+    ],
+    "tip": "Use a stud finder to locate wall studs for maximum support",
+    "resources": [
+      {
+        "label": "Curtain Rod Installation",
+        "url": "https://www.apartmenttherapy.com/curtain-rod-installation",
+        "icon": "play"
+      }
+    ],
+    "likes": 5432,
+    "createdAt": "2026-02-02",
+    "featured": false
+  },
+  {
+    "id": "create-budget-system",
+    "name": "Create a Sustainable Budget System",
+    "icon": "settings",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "time-management",
+    "difficulty": "intermediate",
+    "setting": "anywhere",
+    "outcome": "A clear budget that tracks spending and enables financial goals",
+    "needs": ["spreadsheet or app", "bank statements", "expense tracker", "calculator"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Track",
+        "text": "Collect 3 months of bank and credit card statements",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Categorize",
+        "text": "Sort expenses: housing, food, utilities, entertainment, savings",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Calculate",
+        "text": "Total each category and allocate percentages using 50/30/20 rule",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Plan",
+        "text": "Create budget spreadsheet with monthly targets and actual spending",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Monitor",
+        "text": "Review budget monthly and adjust categories as needed",
+        "icon": "star"
+      }
+    ],
+    "tip": "Use 50/30/20 rule: 50% needs, 30% wants, 20% savings",
+    "resources": [
+      {
+        "label": "Budget Planning Guide",
+        "url": "https://www.nerdwallet.com/budgeting-guide",
+        "icon": "play"
+      }
+    ],
+    "likes": 8901,
+    "createdAt": "2026-01-24",
+    "featured": false
+  },
+  {
+    "id": "treat-burns-safely",
+    "name": "Treat Burns Safely and Correctly",
+    "icon": "thermometer",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "first-aid",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Proper burn treatment that minimizes scarring and infection",
+    "needs": ["cool water", "sterile gauze", "antibiotic ointment", "pain reliever"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Cool",
+        "text": "Run cool (not cold) water over burn for 10–15 minutes immediately",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Remove",
+        "text": "Gently remove jewelry and tight clothing before swelling occurs",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Protect",
+        "text": "Cover with sterile, non-stick gauze to prevent infection",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Treat",
+        "text": "Apply antibiotic ointment and take pain reliever as needed",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Monitor",
+        "text": "Watch for signs of severe burns and seek medical attention if needed",
+        "icon": "star"
+      }
+    ],
+    "tip": "Avoid ice directly on skin; use cool water instead to prevent damage",
+    "resources": [
+      {
+        "label": "Burn Treatment Guide",
+        "url": "https://www.redcross.org/burn-treatment",
+        "icon": "play"
+      }
+    ],
+    "likes": 6789,
+    "createdAt": "2026-01-21",
+    "featured": false
+  },
+  {
+    "id": "replace-air-filter",
+    "name": "Replace Your Car's Air Filter",
+    "icon": "key",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "car-maintenance",
+    "difficulty": "beginner",
+    "setting": "outdoor",
+    "outcome": "Better fuel efficiency and engine performance",
+    "needs": ["replacement air filter", "socket wrench", "work gloves"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Locate",
+        "text": "Open hood and find air filter box, usually near engine top",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Remove",
+        "text": "Unscrew or unclip air filter box lid and remove old filter",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Clean",
+        "text": "Wipe interior of box with cloth to remove dust and debris",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Install",
+        "text": "Insert new filter ensuring arrows point in correct flow direction",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Close",
+        "text": "Reattach lid and secure with clips or screws",
+        "icon": "star"
+      }
+    ],
+    "tip": "Replace air filter every 12,000–15,000 miles for optimal engine health",
+    "resources": [
+      {
+        "label": "Air Filter Replacement",
+        "url": "https://www.car-care.org/air-filter-guide",
+        "icon": "play"
+      }
+    ],
+    "likes": 5234,
+    "createdAt": "2026-02-04",
+    "featured": false
+  },
+  {
+    "id": "clean-baseboards-properly",
+    "name": "Clean Baseboards Properly",
+    "icon": "eye",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "cleaning",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Dust-free baseboards that make your home look fresher",
+    "needs": ["microfiber cloth", "vacuum", "cleaning solution", "bucket"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Vacuum",
+        "text": "Run vacuum along baseboards to remove loose dust and debris",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Prepare",
+        "text": "Mix cleaning solution: equal parts water and white vinegar",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Wipe",
+        "text": "Dampen cloth and wipe baseboards from one room to another systematically",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Dry",
+        "text": "Use dry cloth to remove excess moisture and prevent water damage",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Corners",
+        "text": "Use detail brush for corners and hard-to-reach spots",
+        "icon": "star"
+      }
+    ],
+    "tip": "Work from room to room to avoid having to retrace your steps",
+    "resources": [
+      {
+        "label": "Baseboard Cleaning Tips",
+        "url": "https://www.cleaninginstitute.org/baseboard-cleaning",
+        "icon": "play"
+      }
+    ],
+    "likes": 4321,
+    "createdAt": "2026-01-13",
+    "featured": false
+  },
+  {
+    "id": "master-advanced-knots",
+    "name": "Master Advanced Climbing and Safety Knots",
+    "icon": "tool",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "knots",
+    "difficulty": "advanced",
+    "setting": "outdoor",
+    "outcome": "Expert-level knot-tying for climbing, rescue, and technical applications",
+    "needs": ["climbing rope", "carabiners", "training guide", "belay device"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Foundation",
+        "text": "Review figure-eight follow-through and double fisherman's knots",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Climbing",
+        "text": "Master figure-eight follow-through and bowline on a bight",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Safety",
+        "text": "Learn auto-locking systems: Munter hitch and Kleimheist for rappelling",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Practice",
+        "text": "Tie each knot 20 times under stress to ensure reliability under load",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Certification",
+        "text": "Get certified in climbing knot systems through professional course",
+        "icon": "star"
+      }
+    ],
+    "tip": "Always inspect rope before use and retire it after hard climbing use",
+    "resources": [
+      {
+        "label": "Advanced Climbing Knots",
+        "url": "https://www.mountaineeringclub.org/advanced-knots",
+        "icon": "play"
+      }
+    ],
+    "likes": 3456,
+    "createdAt": "2026-01-07",
+    "featured": false
+  },
+  {
+    "id": "master-advanced-sewing",
+    "name": "Master Advanced Sewing Techniques",
+    "icon": "scissors",
+    "color": "#00838F",
+    "category": "life",
+    "subcategory": "sewing",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "Ability to create and repair complex garments with professional results",
+    "needs": ["sewing machine", "various threads", "fabric", "patterns", "tools"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Machine",
+        "text": "Master sewing machine operation: tension, threading, stitch variations",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Hems",
+        "text": "Learn invisible hems, rolled hems, and blind stitching techniques",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Zippers",
+        "text": "Master invisible zippers, replacement, and installation techniques",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Construction",
+        "text": "Learn pattern reading and garment construction from scratch",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Alteration",
+        "text": "Master professional alteration techniques for clothing customization",
+        "icon": "star"
+      }
+    ],
+    "tip": "Practice on scrap fabric before attempting projects on important garments",
+    "resources": [
+      {
+        "label": "Advanced Sewing Guide",
+        "url": "https://www.craftsy.com/advanced-sewing",
+        "icon": "play"
+      }
+    ],
+    "likes": 2987,
+    "createdAt": "2026-01-06",
+    "featured": false
+  }
+]

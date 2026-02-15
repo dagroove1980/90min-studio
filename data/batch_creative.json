@@ -1,0 +1,758 @@
+[
+  {
+    "id": "draw-realistic-face",
+    "name": "Draw a Realistic Face",
+    "icon": "pencil",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "drawing",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A complete portrait with accurate proportions and shading",
+    "needs": ["pencils (HB, 2B, 4B)", "sketchpad", "eraser", "blending stump"],
+    "steps": [
+      {"time": "0–15 min", "label": "Structure", "text": "Lightly sketch the basic face shape and placement lines for eyes, nose, and mouth using HB pencil", "icon": "eye"},
+      {"time": "15–35 min", "label": "Features", "text": "Draw detailed outlines for eyes, nose, mouth, and ears with proper proportions", "icon": "hand"},
+      {"time": "35–55 min", "label": "Shading", "text": "Apply base shadows using 2B pencil, focusing on facial contours and depth", "icon": "layers"},
+      {"time": "55–75 min", "label": "Refine", "text": "Deepen shadows with 4B pencil and blend with stump for smooth transitions", "icon": "zap"},
+      {"time": "75–90 min", "label": "Details", "text": "Add highlights, eye reflections, and fine details to complete the portrait", "icon": "star"}
+    ],
+    "tip": "Always work from light to dark, and use a light touch at first to avoid over-darkening areas",
+    "resources": [
+      {"label": "Portrait Drawing Tutorial", "url": "https://www.youtube.com/watch?v=face-drawing", "icon": "play"},
+      {"label": "Facial Proportions Guide", "url": "https://www.skillshare.com/face-proportions", "icon": "lightbulb"}
+    ],
+    "likes": 8234,
+    "createdAt": "2026-01-05",
+    "featured": false
+  },
+  {
+    "id": "sketch-hands-that-look-real",
+    "name": "Sketch Hands That Look Real",
+    "icon": "pen-tool",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "drawing",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Five detailed hand sketches showing different poses and angles",
+    "needs": ["drawing pencils", "sketchbook", "reference images", "eraser"],
+    "steps": [
+      {"time": "0–15 min", "label": "Anatomy", "text": "Study hand bone structure and proportions; lightly sketch palm and finger framework", "icon": "eye"},
+      {"time": "15–35 min", "label": "Outline", "text": "Refine basic shapes for each finger and thumb positioning", "icon": "hand"},
+      {"time": "35–55 min", "label": "Form", "text": "Add contours showing knuckles, creases, and muscle structure", "icon": "layers"},
+      {"time": "55–75 min", "label": "Shadow", "text": "Apply shading to show dimension between fingers and across palm", "icon": "zap"},
+      {"time": "75–90 min", "label": "Polish", "text": "Enhance details, add skin texture, and refine highlights", "icon": "star"}
+    ],
+    "tip": "Use your own hands as reference while sketching—it helps you understand the anatomy intuitively",
+    "resources": [
+      {"label": "Hand Drawing Basics", "url": "https://www.drawabox.com/lesson/1/2/hands", "icon": "play"},
+      {"label": "Hand Reference Collection", "url": "https://www.pinterest.com/hand-references", "icon": "lightbulb"}
+    ],
+    "likes": 7891,
+    "createdAt": "2026-01-12",
+    "featured": false
+  },
+  {
+    "id": "master-perspective-drawing",
+    "name": "Master Perspective Drawing",
+    "icon": "pencil",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "drawing",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Three perspective drawings of rooms, streets, or architectural scenes",
+    "needs": ["pencils", "ruler", "sketchpad", "eraser"],
+    "steps": [
+      {"time": "0–15 min", "label": "Basics", "text": "Learn vanishing points and horizon lines; sketch a simple one-point perspective framework", "icon": "eye"},
+      {"time": "15–35 min", "label": "Lines", "text": "Draw converging lines toward vanishing point to create depth illusion", "icon": "hand"},
+      {"time": "35–55 min", "label": "Shapes", "text": "Add geometric shapes and objects within the perspective grid", "icon": "layers"},
+      {"time": "55–75 min", "label": "Detail", "text": "Include windows, doors, shadows, and surface details", "icon": "zap"},
+      {"time": "75–90 min", "label": "Finish", "text": "Add final shading and remove construction lines for polished result", "icon": "star"}
+    ],
+    "tip": "Start with one-point perspective before tackling two or three-point to build confidence",
+    "resources": [
+      {"label": "Perspective Fundamentals", "url": "https://www.udemy.com/perspective-drawing", "icon": "play"},
+      {"label": "Vanishing Point Explained", "url": "https://www.scholastic.com/perspective-guide", "icon": "lightbulb"}
+    ],
+    "likes": 6543,
+    "createdAt": "2026-01-18",
+    "featured": false
+  },
+  {
+    "id": "paint-watercolor-landscape",
+    "name": "Paint a Watercolor Landscape",
+    "icon": "brush",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "painting",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A complete watercolor painting of mountains, water, or countryside",
+    "needs": ["watercolor set", "brushes", "watercolor paper", "water containers", "palette"],
+    "steps": [
+      {"time": "0–15 min", "label": "Sketch", "text": "Lightly pencil basic composition shapes for sky, land, and water", "icon": "eye"},
+      {"time": "15–35 min", "label": "Wash", "text": "Apply initial light water washes to establish sky and water colors", "icon": "hand"},
+      {"time": "35–55 min", "label": "Layers", "text": "Build up middle tones for mountains, trees, and landscape features", "icon": "layers"},
+      {"time": "55–75 min", "label": "Details", "text": "Add darker details, shadows, and texture to create focal points", "icon": "zap"},
+      {"time": "75–90 min", "label": "Refine", "text": "Enhance contrast and add final touches like highlights and vegetation", "icon": "star"}
+    ],
+    "tip": "Watercolor works best with light-to-dark layering—let each layer dry before adding the next",
+    "resources": [
+      {"label": "Watercolor Landscape Masterclass", "url": "https://www.skillshare.com/watercolor-landscapes", "icon": "play"},
+      {"label": "Color Mixing Guide", "url": "https://www.winsornewton.com/colour-mixing", "icon": "lightbulb"}
+    ],
+    "likes": 9127,
+    "createdAt": "2026-01-25",
+    "featured": true
+  },
+  {
+    "id": "create-acrylic-abstract-art",
+    "name": "Create Acrylic Abstract Art",
+    "icon": "paintbrush",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "painting",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A vibrant abstract painting expressing emotion through color and form",
+    "needs": ["acrylic paints", "canvas board", "brushes", "palette", "water spray"],
+    "steps": [
+      {"time": "0–15 min", "label": "Plan", "text": "Choose color palette and decide on composition—no detailed sketch needed for abstract", "icon": "eye"},
+      {"time": "15–35 min", "label": "Base", "text": "Apply base colors and gestural marks across the canvas", "icon": "hand"},
+      {"time": "35–55 min", "label": "Build", "text": "Layer additional colors, shapes, and textures with various brushstrokes", "icon": "layers"},
+      {"time": "55–75 min", "label": "Contrast", "text": "Add bold accent colors and darken shadows for visual impact", "icon": "zap"},
+      {"time": "75–90 min", "label": "Complete", "text": "Balance composition and add final highlights or details as needed", "icon": "star"}
+    ],
+    "tip": "Acrylic dries fast—keep a spray bottle handy to keep paints workable longer",
+    "resources": [
+      {"label": "Abstract Painting Techniques", "url": "https://www.youtube.com/watch?v=abstract-acrylic", "icon": "play"},
+      {"label": "Color Theory Basics", "url": "https://www.khanacademy.org/color-theory", "icon": "lightbulb"}
+    ],
+    "likes": 7654,
+    "createdAt": "2026-01-08",
+    "featured": false
+  },
+  {
+    "id": "paint-with-oils",
+    "name": "Paint With Oils",
+    "icon": "brush",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "painting",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A richly blended oil painting with depth and luminosity",
+    "needs": ["oil paints", "linseed oil", "canvas", "brushes", "palette knife"],
+    "steps": [
+      {"time": "0–15 min", "label": "Prepare", "text": "Thin first layer (imprimatura) with turpentine to establish basic values", "icon": "eye"},
+      {"time": "15–35 min", "label": "Underpainting", "text": "Block in major shapes and values using diluted paint", "icon": "hand"},
+      {"time": "35–55 min", "label": "Build", "text": "Layer increasingly opaque paint, developing form and color harmonies", "icon": "layers"},
+      {"time": "55–75 min", "label": "Blend", "text": "Smooth transitions between colors using blending techniques", "icon": "zap"},
+      {"time": "75–90 min", "label": "Finish", "text": "Add highlights and fine details with thicker paint for luminosity", "icon": "star"}
+    ],
+    "tip": "Follow the 'fat over lean' principle—each layer should have slightly more oil than the last",
+    "resources": [
+      {"label": "Oil Painting Fundamentals", "url": "https://www.masterclass.com/oil-painting", "icon": "play"},
+      {"label": "Solvent Safety Guide", "url": "https://www.safehealthypainting.org", "icon": "lightbulb"}
+    ],
+    "likes": 6234,
+    "createdAt": "2026-01-28",
+    "featured": false
+  },
+  {
+    "id": "take-professional-photos-phone",
+    "name": "Take Professional Photos on Your Phone",
+    "icon": "camera",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "photography",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "A portfolio of 10 polished smartphone photos ready for social media or printing",
+    "needs": ["smartphone", "phone tripod", "natural lighting"],
+    "steps": [
+      {"time": "0–15 min", "label": "Compose", "text": "Learn rule of thirds and frame your subject using gridlines on your camera", "icon": "eye"},
+      {"time": "15–35 min", "label": "Light", "text": "Use golden hour light and position yourself to avoid harsh shadows", "icon": "hand"},
+      {"time": "35–55 min", "label": "Focus", "text": "Master tap-to-focus and exposure adjustment on your device", "icon": "layers"},
+      {"time": "55–75 min", "label": "Shoot", "text": "Capture multiple angles and variations of your subject", "icon": "zap"},
+      {"time": "75–90 min", "label": "Edit", "text": "Use phone editing apps to enhance contrast, saturation, and sharpness", "icon": "star"}
+    ],
+    "tip": "Shoot during golden hour (sunrise/sunset) for naturally flattering lighting on any subject",
+    "resources": [
+      {"label": "Mobile Photography Masterclass", "url": "https://www.udemy.com/mobile-photography", "icon": "play"},
+      {"label": "Composition Rules Explained", "url": "https://www.youtube.com/photography-composition", "icon": "lightbulb"}
+    ],
+    "likes": 10234,
+    "createdAt": "2026-01-02",
+    "featured": false
+  },
+  {
+    "id": "master-portrait-photography",
+    "name": "Master Portrait Photography",
+    "icon": "camera",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "photography",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A series of professional-looking portraits with proper lighting and posing",
+    "needs": ["camera", "lighting setup", "reflector", "backdrop"],
+    "steps": [
+      {"time": "0–15 min", "label": "Setup", "text": "Position three-point lighting (key, fill, and back lights) around subject", "icon": "eye"},
+      {"time": "15–35 min", "label": "Position", "text": "Guide subject through flattering poses and angles", "icon": "hand"},
+      {"time": "35–55 min", "label": "Shoot", "text": "Capture multiple shots adjusting angles and expressions", "icon": "layers"},
+      {"time": "55–75 min", "label": "Check", "text": "Review focus, exposure, and composition on each image", "icon": "zap"},
+      {"time": "75–90 min", "label": "Edit", "text": "Retouch skin tones, adjust lighting, and enhance with software", "icon": "star"}
+    ],
+    "tip": "The most flattering portrait lighting comes from soft, diffused light placed at 45 degrees",
+    "resources": [
+      {"label": "Portrait Lighting Techniques", "url": "https://www.youtube.com/portrait-lighting", "icon": "play"},
+      {"label": "Posing Guide for Portraits", "url": "https://www.posing-guide.com", "icon": "lightbulb"}
+    ],
+    "likes": 5789,
+    "createdAt": "2026-01-15",
+    "featured": false
+  },
+  {
+    "id": "capture-nature-photography",
+    "name": "Capture Nature Photography",
+    "icon": "aperture",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "photography",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "A collection of stunning nature photos showcasing landscapes, wildlife, or flora",
+    "needs": ["camera", "lens", "tripod", "weather protection"],
+    "steps": [
+      {"time": "0–15 min", "label": "Scout", "text": "Find interesting locations and identify best viewing times and angles", "icon": "eye"},
+      {"time": "15–35 min", "label": "Settings", "text": "Adjust aperture, shutter speed, and ISO for optimal exposure", "icon": "hand"},
+      {"time": "35–55 min", "label": "Compose", "text": "Frame your shot using leading lines and natural framing elements", "icon": "layers"},
+      {"time": "55–75 min", "label": "Capture", "text": "Shoot in RAW format and take multiple exposures for flexibility", "icon": "zap"},
+      {"time": "75–90 min", "label": "Process", "text": "Edit images to enhance colors, clarity, and composition balance", "icon": "star"}
+    ],
+    "tip": "Golden hour provides the best lighting for nature photography—shoot early morning or late afternoon",
+    "resources": [
+      {"label": "Landscape Photography Tips", "url": "https://www.youtube.com/landscape-photography", "icon": "play"},
+      {"label": "Weather Photography Guide", "url": "https://www.exposurephotography.com/weather", "icon": "lightbulb"}
+    ],
+    "likes": 8965,
+    "createdAt": "2026-01-20",
+    "featured": false
+  },
+  {
+    "id": "learn-modern-calligraphy",
+    "name": "Learn Modern Calligraphy",
+    "icon": "pen-tool",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "calligraphy",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Mastery of modern calligraphy with consistent letterforms and flowing scripts",
+    "needs": ["calligraphy pens", "ink", "calligraphy paper", "guide sheets"],
+    "steps": [
+      {"time": "0–15 min", "label": "Basics", "text": "Learn proper pen angle (45 degrees) and grip for modern calligraphy style", "icon": "eye"},
+      {"time": "15–35 min", "label": "Practice", "text": "Work through lowercase alphabet drills focusing on consistency and pressure", "icon": "hand"},
+      {"time": "35–55 min", "label": "Uppercase", "text": "Master capital letters and practice letter combinations", "icon": "layers"},
+      {"time": "55–75 min", "label": "Words", "text": "Write full words and short phrases, maintaining rhythm and spacing", "icon": "zap"},
+      {"time": "75–90 min", "label": "Style", "text": "Create personalized pieces with flourishes and decorative elements", "icon": "star"}
+    ],
+    "tip": "Consistency comes from repetition—practice the same strokes daily for best results",
+    "resources": [
+      {"label": "Modern Calligraphy Course", "url": "https://www.skillshare.com/calligraphy", "icon": "play"},
+      {"label": "Letterform Guide", "url": "https://www.masterlettering.com/forms", "icon": "lightbulb"}
+    ],
+    "likes": 7432,
+    "createdAt": "2026-01-10",
+    "featured": false
+  },
+  {
+    "id": "master-brush-lettering",
+    "name": "Master Brush Lettering",
+    "icon": "brush",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "calligraphy",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Expressive brush-lettered pieces with varied weights and elegant flourishes",
+    "needs": ["brush pens", "ink markers", "lettering paper", "practice sheets"],
+    "steps": [
+      {"time": "0–15 min", "label": "Tools", "text": "Select appropriate brush pen sizes and test on paper to understand thickness variation", "icon": "eye"},
+      {"time": "15–35 min", "label": "Strokes", "text": "Practice basic downstrokes and upstrokes to control pressure and flow", "icon": "hand"},
+      {"time": "35–55 min", "label": "Letters", "text": "Build entire alphabet with consistent letterforms and proper spacing", "icon": "layers"},
+      {"time": "55–75 min", "label": "Flourish", "text": "Add decorative flourishes and connectors between letters", "icon": "zap"},
+      {"time": "75–90 min", "label": "Design", "text": "Create complete lettering compositions with layouts and styling", "icon": "star"}
+    ],
+    "tip": "Control pressure variation on downstrokes for dramatic thick-and-thin contrast",
+    "resources": [
+      {"label": "Brush Lettering Techniques", "url": "https://www.youtube.com/brush-lettering-tutorial", "icon": "play"},
+      {"label": "Flourish Design Ideas", "url": "https://www.creativemarket.com/flourishes", "icon": "lightbulb"}
+    ],
+    "likes": 6891,
+    "createdAt": "2026-01-22",
+    "featured": false
+  },
+  {
+    "id": "create-hand-lettered-cards",
+    "name": "Create Hand-Lettered Cards",
+    "icon": "pen-tool",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "calligraphy",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Five beautifully hand-lettered greeting cards for various occasions",
+    "needs": ["cardstock", "calligraphy pens", "ink", "decorative elements"],
+    "steps": [
+      {"time": "0–15 min", "label": "Design", "text": "Sketch layout and lettering placement on cardstock mockups", "icon": "eye"},
+      {"time": "15–35 min", "label": "Letter", "text": "Write main message using calligraphy pens with careful spacing", "icon": "hand"},
+      {"time": "35–55 min", "label": "Decorate", "text": "Add illustrations, borders, or watercolor accents around lettering", "icon": "layers"},
+      {"time": "55–75 min", "label": "Details", "text": "Include secondary text and decorative flourishes for balance", "icon": "zap"},
+      {"time": "75–90 min", "label": "Finish", "text": "Add envelope addressing and final touches to complete cards", "icon": "star"}
+    ],
+    "tip": "Always test lettering on separate paper first before committing to expensive cardstock",
+    "resources": [
+      {"label": "Card Design Inspiration", "url": "https://www.pinterest.com/hand-lettered-cards", "icon": "play"},
+      {"label": "Lettering Placement Guide", "url": "https://www.craftsy.com/card-layouts", "icon": "lightbulb"}
+    ],
+    "likes": 6123,
+    "createdAt": "2026-02-01",
+    "featured": false
+  },
+  {
+    "id": "throw-clay-on-wheel",
+    "name": "Throw Clay on the Wheel",
+    "icon": "layers",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "pottery",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A set of three centered, symmetrical clay bowls or vessels",
+    "needs": ["clay", "pottery wheel", "water", "tools", "apron"],
+    "steps": [
+      {"time": "0–15 min", "label": "Center", "text": "Secure clay ball to wheel and use hands to center it perfectly", "icon": "eye"},
+      {"time": "15–35 min", "label": "Open", "text": "Slowly increase wheel speed and open hole with thumb into clay", "icon": "hand"},
+      {"time": "35–55 min", "label": "Shape", "text": "Use inner and outer pressure to form walls to desired thickness and height", "icon": "layers"},
+      {"time": "55–75 min", "label": "Refine", "text": "Smooth walls and refine the rim to even thickness", "icon": "zap"},
+      {"time": "75–90 min", "label": "Cut", "text": "Use wire to cut piece from wheel and set aside to dry", "icon": "star"}
+    ],
+    "tip": "Keep hands wet but not dripping—proper moisture is crucial for wheel throwing success",
+    "resources": [
+      {"label": "Pottery Wheel Basics", "url": "https://www.youtube.com/pottery-wheel-tutorial", "icon": "play"},
+      {"label": "Clay Troubleshooting", "url": "https://www.potteryassociation.org/tips", "icon": "lightbulb"}
+    ],
+    "likes": 5456,
+    "createdAt": "2026-01-06",
+    "featured": false
+  },
+  {
+    "id": "hand-build-ceramic-vessel",
+    "name": "Hand-Build a Ceramic Vessel",
+    "icon": "hand",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "pottery",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A functional hand-built ceramic bowl or mug with textured surface design",
+    "needs": ["air-dry clay or stoneware", "clay tools", "sponge", "sculpting tools"],
+    "steps": [
+      {"time": "0–15 min", "label": "Prepare", "text": "Roll clay into coil or slab for building—choose your construction method", "icon": "eye"},
+      {"time": "15–35 min", "label": "Build", "text": "Stack coils or attach slab pieces using slip as adhesive", "icon": "hand"},
+      {"time": "35–55 min", "label": "Shape", "text": "Smooth exterior and shape vessel into desired form", "icon": "layers"},
+      {"time": "55–75 min", "label": "Texture", "text": "Add surface patterns using stamps, tools, or found objects", "icon": "zap"},
+      {"time": "75–90 min", "label": "Finish", "text": "Smooth base, add feet or handles, and finalize design", "icon": "star"}
+    ],
+    "tip": "Use slip (liquid clay) to bond pieces together—it acts like ceramic glue",
+    "resources": [
+      {"label": "Hand-Building Techniques", "url": "https://www.skillshare.com/pottery-techniques", "icon": "play"},
+      {"label": "Texture Ideas for Pottery", "url": "https://www.youtube.com/pottery-texture-effects", "icon": "lightbulb"}
+    ],
+    "likes": 5823,
+    "createdAt": "2026-01-16",
+    "featured": false
+  },
+  {
+    "id": "glaze-pottery-pieces",
+    "name": "Glaze Pottery Pieces",
+    "icon": "paintbrush",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "pottery",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Beautifully glazed ceramic pieces with color and finish applied",
+    "needs": ["ceramic pieces", "glazes", "brushes", "glaze application tools"],
+    "steps": [
+      {"time": "0–15 min", "label": "Prepare", "text": "Dust bisque-fired pieces and test glaze colors on test tiles", "icon": "eye"},
+      {"time": "15–35 min", "label": "Mix", "text": "Prepare glaze batches to proper consistency for application", "icon": "hand"},
+      {"time": "35–55 min", "label": "Apply", "text": "Brush or dip pieces to apply even glaze coating", "icon": "layers"},
+      {"time": "55–75 min", "label": "Layer", "text": "Apply accent glazes or patterns for color variation and interest", "icon": "zap"},
+      {"time": "75–90 min", "label": "Clean", "text": "Wipe base clean and prepare for kiln firing", "icon": "star"}
+    ],
+    "tip": "Always test glaze color combinations on test tiles before committing to finished pieces",
+    "resources": [
+      {"label": "Glaze Chemistry Basics", "url": "https://www.digitalfire.com/glossary", "icon": "play"},
+      {"label": "Glaze Color Guide", "url": "https://www.glazeology.com/colors", "icon": "lightbulb"}
+    ],
+    "likes": 5634,
+    "createdAt": "2026-01-31",
+    "featured": false
+  },
+  {
+    "id": "fold-10-origami-animals",
+    "name": "Fold 10 Origami Animals",
+    "icon": "scissors",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "origami",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Ten completed origami animals displayed as a finished collection",
+    "needs": ["origami paper", "instructions", "flat workspace", "optional: glue"],
+    "steps": [
+      {"time": "0–15 min", "label": "Basics", "text": "Learn valley and mountain folds, understand diagram notation", "icon": "eye"},
+      {"time": "15–35 min", "label": "Simple", "text": "Complete three simple projects like paper airplane or jumping frog", "icon": "hand"},
+      {"time": "35–55 min", "label": "Intermediate", "text": "Fold five moderately complex animals like crane, butterfly, or fish", "icon": "layers"},
+      {"time": "55–75 min", "label": "Refine", "text": "Perfect folds and make creases sharp for polished appearance", "icon": "zap"},
+      {"time": "75–90 min", "label": "Display", "text": "Arrange completed origami pieces in composition and photograph", "icon": "star"}
+    ],
+    "tip": "Start with squares of colorful origami paper—it's sized specifically for folding",
+    "resources": [
+      {"label": "Origami for Beginners", "url": "https://www.origami-fun.com/beginner", "icon": "play"},
+      {"label": "Fold Diagrams Archive", "url": "https://www.origamidatabase.com", "icon": "lightbulb"}
+    ],
+    "likes": 8234,
+    "createdAt": "2026-01-14",
+    "featured": false
+  },
+  {
+    "id": "create-advanced-origami-models",
+    "name": "Create Advanced Origami Models",
+    "icon": "scissors",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "origami",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "Complex origami models with detailed features and intricate folds",
+    "needs": ["specialty origami paper", "advanced instructions", "bone folder", "patience"],
+    "steps": [
+      {"time": "0–15 min", "label": "Study", "text": "Analyze complex diagram and understand the overall folding sequence", "icon": "eye"},
+      {"time": "15–35 min", "label": "Prepare", "text": "Pre-crease paper and work through initial major folds carefully", "icon": "hand"},
+      {"time": "35–55 min", "label": "Refine", "text": "Complete intermediate sections, adjusting and perfecting as needed", "icon": "layers"},
+      {"time": "55–75 min", "label": "Detail", "text": "Add intricate small folds that create features like feathers or scales", "icon": "zap"},
+      {"time": "75–90 min", "label": "Polish", "text": "Finalize all creases and shape model into finished form", "icon": "star"}
+    ],
+    "tip": "Advanced origami requires wet-folding or special paper—invest in quality materials",
+    "resources": [
+      {"label": "Advanced Origami Patterns", "url": "https://www.oriland.com/advanced", "icon": "play"},
+      {"label": "Complex Folding Techniques", "url": "https://www.origamicenter.com/techniques", "icon": "lightbulb"}
+    ],
+    "likes": 4562,
+    "createdAt": "2026-02-03",
+    "featured": false
+  },
+  {
+    "id": "arrange-flowers-like-florist",
+    "name": "Arrange Flowers Like a Florist",
+    "icon": "flower",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "flower-arranging",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A professionally balanced floral arrangement in vase or container",
+    "needs": ["fresh flowers", "greenery", "vase", "floral foam", "scissors"],
+    "steps": [
+      {"time": "0–15 min", "label": "Prepare", "text": "Prepare vase with water and floral foam, trim flower stems at 45-degree angle", "icon": "eye"},
+      {"time": "15–35 min", "label": "Structure", "text": "Establish base with greenery to create shape and height framework", "icon": "hand"},
+      {"time": "35–55 min", "label": "Feature", "text": "Add large focal flowers at varying heights for visual interest", "icon": "layers"},
+      {"time": "55–75 min", "label": "Fill", "text": "Add secondary flowers and fillers to create fullness and balance", "icon": "zap"},
+      {"time": "75–90 min", "label": "Finalize", "text": "Adjust positioning, ensure even water distribution, and remove leaves below waterline", "icon": "star"}
+    ],
+    "tip": "Place tallest flowers in center, slightly off-center for more interesting arrangement",
+    "resources": [
+      {"label": "Floral Design Basics", "url": "https://www.skillshare.com/floral-design", "icon": "play"},
+      {"label": "Flower Arranging Guide", "url": "https://www.gardendesign.com/flowers/arranging", "icon": "lightbulb"}
+    ],
+    "likes": 7891,
+    "createdAt": "2026-01-09",
+    "featured": false
+  },
+  {
+    "id": "create-dried-flower-wreaths",
+    "name": "Create Dried Flower Wreaths",
+    "icon": "flower",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "flower-arranging",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Two decorative dried flower wreaths for home display",
+    "needs": ["dried flowers", "wreath form", "floral wire", "hot glue gun"],
+    "steps": [
+      {"time": "0–15 min", "label": "Base", "text": "Arrange base layer of greenery around wreath form for foundation", "icon": "eye"},
+      {"time": "15–35 min", "label": "Layer", "text": "Add larger dried flowers evenly distributed around wreath", "icon": "hand"},
+      {"time": "35–55 min", "label": "Fill", "text": "Insert filler flowers and baby's breath to add texture and fullness", "icon": "layers"},
+      {"time": "55–75 min", "label": "Accent", "text": "Add ribbons, berries, or specialty elements for personality", "icon": "zap"},
+      {"time": "75–90 min", "label": "Secure", "text": "Wire all pieces securely and add protective spray if desired", "icon": "star"}
+    ],
+    "tip": "Dried flowers last for months indoors—make them even longer-lasting by storing away from direct sunlight",
+    "resources": [
+      {"label": "Wreath Making Techniques", "url": "https://www.youtube.com/dried-flower-wreaths", "icon": "play"},
+      {"label": "Dried Flower Sourcing", "url": "https://www.driedflowerguide.com", "icon": "lightbulb"}
+    ],
+    "likes": 6745,
+    "createdAt": "2026-01-21",
+    "featured": true
+  },
+  {
+    "id": "start-bullet-journal",
+    "name": "Start a Bullet Journal",
+    "icon": "feather",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "journaling",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A fully set up bullet journal with index, key, monthly, and daily pages",
+    "needs": ["dotted notebook", "quality pens", "pencils", "markers", "ruler"],
+    "steps": [
+      {"time": "0–15 min", "label": "Setup", "text": "Create index pages and establish your bullet journal key and symbols", "icon": "eye"},
+      {"time": "15–35 min", "label": "Decorate", "text": "Design cover page and header designs for visual appeal", "icon": "hand"},
+      {"time": "35–55 min", "label": "Monthly", "text": "Set up monthly calendar and task overview pages", "icon": "layers"},
+      {"time": "55–75 min", "label": "Weekly", "text": "Create weekly spread templates with trackers and notes sections", "icon": "zap"},
+      {"time": "75–90 min", "label": "Daily", "text": "Complete first week of daily pages with tasks, notes, and reflections", "icon": "star"}
+    ],
+    "tip": "Use a dotted notebook rather than lined—dots provide flexibility for layouts",
+    "resources": [
+      {"label": "Bullet Journal Guide", "url": "https://www.bulletjournal.com/pages/learn", "icon": "play"},
+      {"label": "Layout Ideas", "url": "https://www.pinterest.com/bullet-journal-spreads", "icon": "lightbulb"}
+    ],
+    "likes": 9456,
+    "createdAt": "2026-01-07",
+    "featured": false
+  },
+  {
+    "id": "keep-art-journal",
+    "name": "Keep an Art Journal",
+    "icon": "paintbrush",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "journaling",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Twenty pages of mixed-media art journaling exploring themes and self-expression",
+    "needs": ["art journal or sketchbook", "mixed media supplies", "glue", "paint", "collage materials"],
+    "steps": [
+      {"time": "0–15 min", "label": "Prepare", "text": "Choose pages and establish color palette or theme for the session", "icon": "eye"},
+      {"time": "15–35 min", "label": "Base", "text": "Apply background layers using paint, collage, or drawing", "icon": "hand"},
+      {"time": "35–55 min", "label": "Develop", "text": "Add layers of color, texture, and imagery expressing chosen theme", "icon": "layers"},
+      {"time": "55–75 min", "label": "Write", "text": "Add text, words, or journaling entries to pages for reflection", "icon": "zap"},
+      {"time": "75–90 min", "label": "Finish", "text": "Add final touches and let pages dry before moving to next entry", "icon": "star"}
+    ],
+    "tip": "Art journaling is about process, not perfection—embrace imperfections and happy accidents",
+    "resources": [
+      {"label": "Art Journal Prompts", "url": "https://www.theartistscafe.com/prompts", "icon": "play"},
+      {"label": "Mixed Media Techniques", "url": "https://www.youtube.com/art-journal-tutorial", "icon": "lightbulb"}
+    ],
+    "likes": 7234,
+    "createdAt": "2026-01-24",
+    "featured": false
+  },
+  {
+    "id": "read-tarot-cards",
+    "name": "Read Tarot Cards",
+    "icon": "sparkles",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "tarot",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Ability to perform full tarot readings using multiple spreads",
+    "needs": ["tarot deck", "guidebook", "journal", "quiet space"],
+    "steps": [
+      {"time": "0–15 min", "label": "Learn", "text": "Study meaning of Major Arcana cards and their symbolism", "icon": "eye"},
+      {"time": "15–35 min", "label": "Minor", "text": "Learn Minor Arcana meanings for Cups, Wands, Swords, and Pentacles", "icon": "hand"},
+      {"time": "35–55 min", "label": "Spreads", "text": "Master simple spreads like three-card or Celtic Cross layout", "icon": "layers"},
+      {"time": "55–75 min", "label": "Practice", "text": "Perform readings for yourself and interpret card combinations", "icon": "zap"},
+      {"time": "75–90 min", "label": "Journal", "text": "Record readings and their outcomes to develop intuition over time", "icon": "star"}
+    ],
+    "tip": "Trust your intuition—tarot meanings are guides, not fixed predictions",
+    "resources": [
+      {"label": "Tarot Card Meanings", "url": "https://www.learntarot.com/cards", "icon": "play"},
+      {"label": "Beginner Tarot Guide", "url": "https://www.skillshare.com/tarot-basics", "icon": "lightbulb"}
+    ],
+    "likes": 6543,
+    "createdAt": "2026-01-11",
+    "featured": false
+  },
+  {
+    "id": "create-oracle-deck",
+    "name": "Create Your Own Oracle Deck",
+    "icon": "feather",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "tarot",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A complete oracle deck of 36-52 handmade cards with personal meanings",
+    "needs": ["cardstock", "paints", "markers", "binding supplies", "box"],
+    "steps": [
+      {"time": "0–15 min", "label": "Design", "text": "Brainstorm themes and decide on number of cards for your deck", "icon": "eye"},
+      {"time": "15–35 min", "label": "Create", "text": "Paint or draw original art for each card in the deck", "icon": "hand"},
+      {"time": "35–55 min", "label": "Write", "text": "Write meanings, keywords, and interpretations for each card", "icon": "layers"},
+      {"time": "55–75 min", "label": "Prepare", "text": "Print and cut cards, bind them together, and create guidebook", "icon": "zap"},
+      {"time": "75–90 min", "label": "Package", "text": "Create custom box or pouch and finalize presentation", "icon": "star"}
+    ],
+    "tip": "Your personal oracle deck is most powerful when created with intention and meaning",
+    "resources": [
+      {"label": "Oracle Deck Creation Guide", "url": "https://www.youtube.com/make-oracle-cards", "icon": "play"},
+      {"label": "Card Meaning Inspiration", "url": "https://www.oracledeckresource.com", "icon": "lightbulb"}
+    ],
+    "likes": 5678,
+    "createdAt": "2026-01-29",
+    "featured": false
+  },
+  {
+    "id": "make-your-first-candle",
+    "name": "Make Your First Candle",
+    "icon": "flame",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "candle-making",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Three hand-poured candles with fragrance and custom labels",
+    "needs": ["soy or paraffin wax", "fragrance oils", "wicks", "containers", "thermometer"],
+    "steps": [
+      {"time": "0–15 min", "label": "Prepare", "text": "Secure wicks in containers and prepare workspace with dye if desired", "icon": "eye"},
+      {"time": "15–35 min", "label": "Heat", "text": "Melt wax to proper temperature (around 170-180F) using double boiler method", "icon": "hand"},
+      {"time": "35–55 min", "label": "Scent", "text": "Add fragrance oils at proper temperature and stir thoroughly", "icon": "layers"},
+      {"time": "55–75 min", "label": "Pour", "text": "Carefully pour wax into containers, keeping wick centered", "icon": "zap"},
+      {"time": "75–90 min", "label": "Cool", "text": "Let candles cool completely before trimming wicks and testing", "icon": "star"}
+    ],
+    "tip": "Use soy wax for cleaner burning—it holds fragrance better than paraffin",
+    "resources": [
+      {"label": "Candle Making 101", "url": "https://www.candlewicks.com/guide", "icon": "play"},
+      {"label": "Fragrance Oil Selection", "url": "https://www.essentialsupply.com/oils", "icon": "lightbulb"}
+    ],
+    "likes": 8765,
+    "createdAt": "2026-01-04",
+    "featured": false
+  },
+  {
+    "id": "create-soy-candles",
+    "name": "Create Custom Soy Candles",
+    "icon": "flame",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "candle-making",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A collection of premium soy candles with layering and advanced techniques",
+    "needs": ["soy wax flakes", "essential and fragrance oils", "dye chips", "wicks", "containers"],
+    "steps": [
+      {"time": "0–15 min", "label": "Design", "text": "Plan color combinations and scent pairings for multi-layered candles", "icon": "eye"},
+      {"time": "15–35 min", "label": "Layer", "text": "Pour first color layer and let cool slightly before adding next layer", "icon": "hand"},
+      {"time": "35–55 min", "label": "Scent", "text": "Combine fragrance oils in creative blends for signature scents", "icon": "layers"},
+      {"time": "55–75 min", "label": "Finish", "text": "Add final layers with colors and embedded elements like botanicals", "icon": "zap"},
+      {"time": "75–90 min", "label": "Cure", "text": "Allow proper cure time before packaging for sale or gifting", "icon": "star"}
+    ],
+    "tip": "Let soy candles cure for 48 hours before first burn for best scent throw",
+    "resources": [
+      {"label": "Advanced Candle Techniques", "url": "https://www.youtube.com/soy-candle-tutorial", "icon": "play"},
+      {"label": "Fragrance Blending Guide", "url": "https://www.perfumerybasics.com/blending", "icon": "lightbulb"}
+    ],
+    "likes": 6234,
+    "createdAt": "2026-02-02",
+    "featured": false
+  },
+  {
+    "id": "master-woodworking-basics",
+    "name": "Master Woodworking Basics",
+    "icon": "zap",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "woodworking-basics",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Proficiency with essential woodworking tools and completing a simple wood project",
+    "needs": ["wood boards", "hand tools", "saw", "sandpaper", "wood finish"],
+    "steps": [
+      {"time": "0–15 min", "label": "Tools", "text": "Learn proper use and safety for hammer, saw, chisel, and sander", "icon": "eye"},
+      {"time": "15–35 min", "label": "Wood", "text": "Understand wood types, grain direction, and proper measurement", "icon": "hand"},
+      {"time": "35–55 min", "label": "Joints", "text": "Practice basic joints like butt joint and simple fastening techniques", "icon": "layers"},
+      {"time": "55–75 min", "label": "Build", "text": "Create simple project like cutting board or small box following plans", "icon": "zap"},
+      {"time": "75–90 min", "label": "Finish", "text": "Sand smooth and apply stain or finish to protect and enhance wood", "icon": "star"}
+    ],
+    "tip": "Always wear safety glasses and keep hands clear of cutting paths",
+    "resources": [
+      {"label": "Woodworking Fundamentals", "url": "https://www.skillshare.com/woodworking", "icon": "play"},
+      {"label": "Tool Buying Guide", "url": "https://www.woodmagazine.com/tools", "icon": "lightbulb"}
+    ],
+    "likes": 7123,
+    "createdAt": "2026-01-17",
+    "featured": false
+  },
+  {
+    "id": "build-wooden-shelf",
+    "name": "Build a Wooden Shelf",
+    "icon": "layers",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "woodworking-basics",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A functional and attractive wooden shelf installed and ready for display",
+    "needs": ["wood boards", "supports or brackets", "screws", "saw", "drill", "level"],
+    "steps": [
+      {"time": "0–15 min", "label": "Plan", "text": "Choose dimensions, design, and mounting location for shelf", "icon": "eye"},
+      {"time": "15–35 min", "label": "Cut", "text": "Measure and cut wood pieces to exact dimensions needed", "icon": "hand"},
+      {"time": "35–55 min", "label": "Prepare", "text": "Sand all surfaces smooth and drill holes for brackets or hardware", "icon": "layers"},
+      {"time": "55–75 min", "label": "Assemble", "text": "Attach supports and assemble shelf structure using screws or dowels", "icon": "zap"},
+      {"time": "75–90 min", "label": "Install", "text": "Mount shelf to wall using level, anchors, and appropriate hardware", "icon": "star"}
+    ],
+    "tip": "Always use a stud finder to locate wall studs for maximum weight capacity",
+    "resources": [
+      {"label": "DIY Shelf Building", "url": "https://www.youtube.com/build-wooden-shelf", "icon": "play"},
+      {"label": "Wall Mounting Guide", "url": "https://www.diynetwork.com/wall-anchors", "icon": "lightbulb"}
+    ],
+    "likes": 6789,
+    "createdAt": "2026-01-27",
+    "featured": false
+  },
+  {
+    "id": "craft-wooden-box",
+    "name": "Craft a Wooden Box",
+    "icon": "sparkles",
+    "color": "#7B1FA2",
+    "category": "creative",
+    "subcategory": "woodworking-basics",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A finished wooden box with fitted lid and decorative details",
+    "needs": ["hardwood boards", "wood glue", "clamps", "chisels", "sandpaper"],
+    "steps": [
+      {"time": "0–15 min", "label": "Plan", "text": "Design box dimensions and decide on wood type and finishing style", "icon": "eye"},
+      {"time": "15–35 min", "label": "Cut", "text": "Precision cut all pieces for sides, bottom, and lid with proper angles", "icon": "hand"},
+      {"time": "35–55 min", "label": "Joint", "text": "Create tight-fitting joints using mortise and tenon or dovetail methods", "icon": "layers"},
+      {"time": "55–75 min", "label": "Assemble", "text": "Glue and clamp box sides together, attach bottom, and fit lid", "icon": "zap"},
+      {"time": "75–90 min", "label": "Finish", "text": "Sand all surfaces, stain if desired, and apply protective finish", "icon": "star"}
+    ],
+    "tip": "Tight-fitting wood joints require precision—measure twice, cut once",
+    "resources": [
+      {"label": "Box Joint Techniques", "url": "https://www.youtube.com/wooden-box-joints", "icon": "play"},
+      {"label": "Wood Finishing Guide", "url": "https://www.woodfinishes.com/guide", "icon": "lightbulb"}
+    ],
+    "likes": 5897,
+    "createdAt": "2026-02-04",
+    "featured": false
+  }
+]

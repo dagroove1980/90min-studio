@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "understand-stock-market",
+    "name": "Understand the Stock Market",
+    "icon": "trending-up",
+    "color": "#1565C0",
+    "category": "finance",
+    "subcategory": "investing",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Know how stocks work and why people invest",
+    "needs": ["notebook", "internet access"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn the Basics",
+        "text": "Watch a 10-minute explainer on what stocks are. Understand that a stock is ownership in a company.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "See Real Examples",
+        "text": "Look up 3 companies you know (Apple, Nike, Coca-Cola) on Yahoo Finance. Note their stock price and market cap.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Explore Market Patterns",
+        "text": "Read about bull vs bear markets. Understand that stock prices rise and fall based on company performance and market sentiment.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Calculate Dividends",
+        "text": "Find a dividend-paying stock. Calculate how much dividend income you'd earn on a $1000 investment.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Create Your Research Plan",
+        "text": "Write down 3 companies you'd like to research further and what metrics you'll track.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Start by investing in index funds—they're less risky than individual stocks.",
+    "resources": [
+      {
+        "label": "Khan Academy: Stock Market",
+        "url": "https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds",
+        "icon": "play"
+      }
+    ],
+    "likes": 2800,
+    "createdAt": "2026-01-05",
+    "featured": false
+  },
+  {
+    "id": "build-budget-that-sticks",
+    "name": "Build a Budget That Sticks",
+    "icon": "calculator",
+    "color": "#1565C0",
+    "category": "finance",
+    "subcategory": "budgeting",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Create a realistic monthly budget and commit to it",
+    "needs": ["spreadsheet app", "bank statements"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Track Your Income",
+        "text": "Write down all sources of money you receive monthly: salary, side gigs, freelance work.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "List Your Expenses",
+        "text": "Go through the last 3 months of bank transactions. Categorize into: housing, food, transport, entertainment, savings.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Apply the 50/30/20 Rule",
+        "text": "Allocate 50% to needs, 30% to wants, 20% to savings. Adjust for your actual spending patterns.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Set Up Tracking",
+        "text": "Create a simple spreadsheet or use an app like YNAB. Enter your budget categories and limits.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Make Your Commitment",
+        "text": "Review your budget one more time. Write down 3 ways you'll stay accountable this month.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Leave 5-10% wiggle room for unexpected expenses.",
+    "resources": [
+      {
+        "label": "You Need A Budget (YNAB)",
+        "url": "https://www.youneedabudget.com",
+        "icon": "play"
+      }
+    ],
+    "likes": 5400,
+    "createdAt": "2026-01-08",
+    "featured": true
+  },
+  {
+    "id": "set-up-first-crypto-wallet",
+    "name": "Set Up Your First Crypto Wallet",
+    "icon": "shield",
+    "color": "#1565C0",
+    "category": "finance",
+    "subcategory": "crypto",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Securely own and manage your first cryptocurrency",
+    "needs": ["laptop", "phone", "internet"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Choose Your Wallet Type",
+        "text": "Research hardware wallets (Ledger, Trezor) vs software wallets (MetaMask, Trust Wallet). Start with software for learning.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Download and Install",
+        "text": "Download MetaMask browser extension. Create an account and set a strong password.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Secure Your Seed Phrase",
+        "text": "Write down your 12-word recovery phrase on paper. Store it in a safe place. Never screenshot it.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Fund Your Wallet",
+        "text": "Purchase $10-20 of Bitcoin or Ethereum from Coinbase. Transfer it to your MetaMask wallet.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Practice Transactions",
+        "text": "Send a small amount to a friend or another wallet you own. Verify the transaction on blockchain explorer.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Never share your private keys. If someone asks for them, it's a scam.",
+    "resources": [
+      {
+        "label": "MetaMask Official Site",
+        "url": "https://metamask.io",
+        "icon": "play"
+      }
+    ],
+    "likes": 1800,
+    "createdAt": "2026-01-12",
+    "featured": false
+  },
+  {
+    "id": "file-your-own-taxes",
+    "name": "File Your Own Taxes",
+    "icon": "briefcase",
+    "color": "#1565C0",
+    "category": "finance",
+    "subcategory": "taxes",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "File accurate tax returns without paying an accountant",
+    "needs": ["W-2s", "1099s", "tax software", "calculator"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Gather Documents",
+        "text": "Collect all W-2s, 1099s, and receipts for deductible expenses. Organize by category.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Choose Tax Software",
+        "text": "Sign up for TurboTax, H&R Block, or TaxAct. Answer preliminary questions about your income.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Enter Your Income",
+        "text": "Input all W-2 and 1099 income. The software will auto-populate data if you import from your employer.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Claim Deductions",
+        "text": "List itemized or standard deductions. Include mortgage interest, charitable donations, business expenses if self-employed.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Review and File",
+        "text": "Double-check all numbers. Have the software calculate your refund or amount due. File electronically.",
+        "icon": "star"
+      }
+    ],
+    "tip": "File early to get refunds faster. Keep records for 7 years.",
+    "resources": [
+      {
+        "label": "IRS Free File Program",
+        "url": "https://www.irs.gov/freefileallianceprogram",
+        "icon": "play"
+      }
+    ],
+    "likes": 3200,
+    "createdAt": "2026-01-15",
+    "featured": false
+  },
+  {
+    "id": "start-side-income-plan",
+    "name": "Start a Side Income Plan",
+    "icon": "target",
+    "color": "#1565C0",
+    "category": "finance",
+    "subcategory": "side-income",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Launch your first side project and earn $100+ monthly",
+    "needs": ["laptop", "skill to offer"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Identify Your Skill",
+        "text": "List 5 things you're good at: writing, design, coding, tutoring, handmade crafts. Pick your top strength.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Validate Demand",
+        "text": "Search Fiverr, Upwork, and Etsy. See what similar services charge. Read reviews to find gaps.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Set Your Rates",
+        "text": "Research market rates for your skill. Start 20% lower to build reviews. Plan to raise rates after 10 clients.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Create Your Offering",
+        "text": "Write a 2-3 sentence description of what you offer. Define what's included and turnaround time.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "List and Launch",
+        "text": "Post your first service on Fiverr or Upwork. Create a portfolio piece or sample work to showcase.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Your first clients are hard to get. Under-promise and over-deliver to get 5-star reviews.",
+    "resources": [
+      {
+        "label": "Fiverr Seller Guide",
+        "url": "https://www.fiverr.com/community/forum",
+        "icon": "play"
+      }
+    ],
+    "likes": 4100,
+    "createdAt": "2026-01-18",
+    "featured": true
+  },
+  {
+    "id": "understand-credit-score",
+    "name": "Understand Your Credit Score",
+    "icon": "shield",
+    "color": "#1565C0",
+    "category": "finance",
+    "subcategory": "credit",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Know your credit score and 3 ways to improve it",
+    "needs": ["internet access"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Get Your Score Free",
+        "text": "Visit annualcreditreport.com or use Credit Karma. Check your credit score and report from one bureau.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Understand the Components",
+        "text": "Learn the 5 factors: payment history (35%), amounts owed (30%), length of history (15%), new credit (10%), mix (10%).",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Review Your Report",
+        "text": "Read your credit report line by line. Look for errors, late payments, collections, or accounts you don't recognize.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Dispute Errors",
+        "text": "If you find inaccuracies, file a dispute with the credit bureau. Provide documentation.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Plan Your Improvements",
+        "text": "Write 3 goals: pay on time, reduce credit card balances, don't close old accounts. Set monthly check-ins.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Check your credit at least once a year. Good credit saves you thousands on mortgages and car loans.",
+    "resources": [
+      {
+        "label": "Annual Credit Report Official",
+        "url": "https://www.annualcreditreport.com",
+        "icon": "play"
+      }
+    ],
+    "likes": 2200,
+    "createdAt": "2026-01-20",
+    "featured": false
+  },
+  {
+    "id": "open-first-investment-account",
+    "name": "Open Your First Investment Account",
+    "icon": "dollar-sign",
+    "color": "#1565C0",
+    "category": "finance",
+    "subcategory": "investing",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Start investing with $100+ in your first brokerage account",
+    "needs": ["laptop", "bank account", "ID"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Choose Your Broker",
+        "text": "Compare Fidelity, Vanguard, Charles Schwab. Look for low fees, no minimums, and mobile apps.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Sign Up Online",
+        "text": "Visit the broker's website. Create an account with email and password. Verify your identity.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Link Your Bank",
+        "text": "Add your bank account to fund the brokerage. Verify with micro-deposits (usually 1-2 business days).",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Deposit Your First $100",
+        "text": "Transfer $100-500 from your bank. Wait for the funds to settle (usually 2-3 business days).",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Buy Your First Index Fund",
+        "text": "Search for 'VTI' or 'VTSAX' (total stock market index). Buy $100 worth. Review your first position.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Index funds are beginner-friendly. They track the whole market, reducing risk.",
+    "resources": [
+      {
+        "label": "Vanguard Investing Guide",
+        "url": "https://www.vanguard.com/investor",
+        "icon": "play"
+      }
+    ],
+    "likes": 3600,
+    "createdAt": "2026-01-22",
+    "featured": false
+  },
+  {
+    "id": "plan-retirement-contributions",
+    "name": "Plan Your Retirement Contributions",
+    "icon": "trending-up",
+    "color": "#1565C0",
+    "category": "finance",
+    "subcategory": "retirement",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Set up automated retirement savings and maximize employer match",
+    "needs": ["employer benefits info", "calculator"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Review Your Options",
+        "text": "Check if your employer offers 401k, 403b, or pension. Find the employee handbook or HR portal.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Understand Matching",
+        "text": "Find the employer match percentage. If they match 3%, contribute at least 3% to get free money.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Calculate Your Contribution",
+        "text": "For 2026, the 401k limit is $24,500. Calculate what % of salary you can afford to contribute.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Choose Your Investments",
+        "text": "Select fund options inside your 401k. Choose a target-date fund matching your retirement year for simplicity.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Enroll and Confirm",
+        "text": "Submit your enrollment through HR or the provider's website. Verify the percentage on your next paystub.",
+        "icon": "star"
+      }
+    ],
+    "tip": "A 401k grows tax-deferred. Starting at 25 vs 35 doubles your retirement savings.",
+    "resources": [
+      {
+        "label": "Fidelity Retirement Planning",
+        "url": "https://www.fidelity.com/learning-center/personal-finance/retirement-plans",
+        "icon": "play"
+      }
+    ],
+    "likes": 1950,
+    "createdAt": "2026-01-25",
+    "featured": false
+  },
+  {
+    "id": "real-estate-basics",
+    "name": "Learn Real Estate Investment Basics",
+    "icon": "briefcase",
+    "color": "#1565C0",
+    "category": "finance",
+    "subcategory": "real-estate-basics",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Understand how real estate builds wealth and REITs as an alternative",
+    "needs": ["internet access", "notebook"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn Investment Types",
+        "text": "Research rental properties, flipping, and REITs (Real Estate Investment Trusts). Understand each model.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Understand Leverage",
+        "text": "Learn how a $20k down payment controls a $200k property. Study how leverage multiplies returns.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Calculate ROI",
+        "text": "Learn the formula: (Annual Rent - Expenses) / Down Payment. Practice with a real listing from Zillow.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Explore REITs",
+        "text": "Research dividend-paying REITs like Vanguard Real Estate ETF. See how they provide real estate exposure without buying property.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Create Your Plan",
+        "text": "Write down your real estate goals. Would you rent, flip, or invest via REITs? What's your timeline?",
+        "icon": "star"
+      }
+    ],
+    "tip": "REITs let you start real estate investing with $100. Rental properties require more capital and work.",
+    "resources": [
+      {
+        "label": "BiggerPockets Real Estate Forum",
+        "url": "https://www.biggerpockets.com",
+        "icon": "play"
+      }
+    ],
+    "likes": 1620,
+    "createdAt": "2026-01-28",
+    "featured": false
+  },
+  {
+    "id": "negotiate-salary-raise",
+    "name": "Negotiate Your First Salary Raise",
+    "icon": "dollar-sign",
+    "color": "#1565C0",
+    "category": "finance",
+    "subcategory": "side-income",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Secure a 5-10% salary increase with confidence",
+    "needs": ["market research", "accomplishment list"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Research Market Rate",
+        "text": "Check Glassdoor, Levels.fyi, and Payscale for your role, location, and experience level. Document salary ranges.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Document Your Impact",
+        "text": "List 10 accomplishments in the last year: projects completed, money saved, revenue generated, skills acquired.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Calculate Your Ask",
+        "text": "Determine your target: current salary + 5-10% is typical. Prepare a range (min-max) for negotiation.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Schedule the Conversation",
+        "text": "Email your manager requesting a 30-minute meeting. Don't mention salary in the email. Choose timing post-win.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Practice and Pitch",
+        "text": "Rehearse your pitch 3 times. Lead with impact, not need. Stay calm if they say no—ask when to revisit.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Your job title doesn't get you a raise; your value does. Always lead with your accomplishments.",
+    "resources": [
+      {
+        "label": "Glassdoor Salary Insights",
+        "url": "https://www.glassdoor.com/Salaries",
+        "icon": "play"
+      }
+    ],
+    "likes": 2750,
+    "createdAt": "2026-02-01",
+    "featured": false
+  },
+  {
+    "id": "build-emergency-fund",
+    "name": "Build Your 3-Month Emergency Fund",
+    "icon": "shield",
+    "color": "#1565C0",
+    "category": "finance",
+    "subcategory": "budgeting",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Save 3 months of expenses for financial security",
+    "needs": ["savings account", "budget", "calculator"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Calculate Your Target",
+        "text": "Find your monthly expenses from your budget. Multiply by 3. This is your emergency fund goal.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Open a High-Yield Savings",
+        "text": "Open a separate account at a bank like Ally or Marcus. Current rates are 4-5% APY.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Set Up Automatic Transfers",
+        "text": "Schedule automatic transfers of $50-200 weekly to your emergency fund. Make it automatic to avoid temptation.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Track Your Progress",
+        "text": "Create a simple chart showing your goal and current balance. Update monthly. Celebrate milestones.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Commit to the Goal",
+        "text": "Promise yourself you'll only use this fund for true emergencies: job loss, medical bills, car repair.",
+        "icon": "star"
+      }
+    ],
+    "tip": "If you can't save $50/week, start with $25. Small consistent steps beat one big attempt.",
+    "resources": [
+      {
+        "label": "NerdWallet High-Yield Savings",
+        "url": "https://www.nerdwallet.com/article/banking/best-high-yield-savings-accounts",
+        "icon": "play"
+      }
+    ],
+    "likes": 4600,
+    "createdAt": "2026-02-03",
+    "featured": false
+  },
+  {
+    "id": "do-first-yoga-flow",
+    "name": "Do Your First Yoga Flow",
+    "icon": "hand",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "yoga",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Complete a 30-minute sunrise yoga flow and feel calm",
+    "needs": ["yoga mat", "water bottle"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Set Your Space",
+        "text": "Roll out your mat in a quiet area. Play soft instrumental music. Open a window for fresh air.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Warm Up Gently",
+        "text": "Do 5 rounds of cat-cow, then 5 sun salutations. Move slowly. Focus on your breath, not speed.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Flow Through Poses",
+        "text": "Warrior 1, Warrior 2, Triangle, Tree pose, Downward Dog. Hold each for 5-8 breaths. Move with intention.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Cool Down Stretches",
+        "text": "Seated forward fold, pigeon pose, supine twist. Hold 10-15 breaths each. Let your body relax.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Final Savasana",
+        "text": "Lie flat on your back. Close your eyes. Breathe naturally for 10 minutes. Notice how you feel.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Don't push into pain. Yoga is about listening to your body, not proving anything.",
+    "resources": [
+      {
+        "label": "Yoga with Adriene (YouTube)",
+        "url": "https://www.youtube.com/c/yogawithadriene",
+        "icon": "play"
+      }
+    ],
+    "likes": 8900,
+    "createdAt": "2026-01-10",
+    "featured": true
+  },
+  {
+    "id": "run-mile-without-stopping",
+    "name": "Run a Mile Without Stopping",
+    "icon": "flame",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "running",
+    "difficulty": "intermediate",
+    "setting": "outdoor",
+    "outcome": "Build cardio endurance and complete a full mile at conversational pace",
+    "needs": ["running shoes", "timer"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Dynamic Warm-Up",
+        "text": "Walk briskly for 5 min. Do leg swings, arm circles, high knees. Raise your heart rate gradually.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Easy Jog Start",
+        "text": "Start jogging at an easy pace—one where you can speak in full sentences. Maintain this for 0.5 miles.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Steady State",
+        "text": "Continue at conversational pace. Don't speed up. Focus on landing softly, steady breathing, relaxed shoulders.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Final Push",
+        "text": "You're near the 1-mile mark. Keep your pace steady. Don't sprint. You've got this.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Cool Down Walk",
+        "text": "Walk for 5 minutes at an easy pace. Hydrate. Stretch your hamstrings, quads, and calves for 5 minutes.",
+        "icon": "star"
+      }
+    ],
+    "tip": "It's normal to need walk breaks early on. Use a couch-to-5k app that incorporates walking.",
+    "resources": [
+      {
+        "label": "Strava Running App",
+        "url": "https://www.strava.com",
+        "icon": "play"
+      }
+    ],
+    "likes": 6200,
+    "createdAt": "2026-01-12",
+    "featured": false
+  },
+  {
+    "id": "master-5-bodyweight-exercises",
+    "name": "Master 5 Bodyweight Exercises",
+    "icon": "dumbbell",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "strength",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Perform 5 foundational moves with perfect form and build functional strength",
+    "needs": ["yoga mat", "mirror"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn Push-Ups",
+        "text": "Start on knees if needed. Lower your chest to the ground, keep elbows at 45 degrees. Do 3 sets of 5-10 reps.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Master Squats",
+        "text": "Feet shoulder-width apart. Lower hips back and down as if sitting. Keep chest upright. 3 sets of 12-15 reps.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Practice Planks",
+        "text": "Hold a straight line from head to heels. Engage core. Start with 20-30 second holds. Work up to 1 minute.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Nail Lunges",
+        "text": "Step forward, lower back knee near ground. Push through front heel to return. 3 sets of 10 per leg.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Glute Bridges",
+        "text": "Lie on back, knees bent. Raise hips until body is straight. Squeeze glutes. 3 sets of 15 reps.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Form beats reps. One perfect push-up is better than 10 sloppy ones. Use a mirror to check alignment.",
+    "resources": [
+      {
+        "label": "AthleanX YouTube",
+        "url": "https://www.youtube.com/c/athleanx",
+        "icon": "play"
+      }
+    ],
+    "likes": 7400,
+    "createdAt": "2026-01-14",
+    "featured": false
+  },
+  {
+    "id": "fix-your-posture",
+    "name": "Fix Your Posture in 90 Minutes",
+    "icon": "sun",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "posture",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Correct forward head posture and reduce neck and back pain",
+    "needs": ["wall", "resistance band"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Assess Your Posture",
+        "text": "Stand against a wall. Your head, shoulders, and butt should touch the wall. Notice where you deviate.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Chest Opener Stretch",
+        "text": "Stand in doorway, arms on frame. Step forward gently to stretch chest. Hold 30 seconds each side. Repeat 3 times.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Shoulder Blade Squeezes",
+        "text": "Pull resistance band toward chest, squeezing shoulder blades. 3 sets of 15 reps. Keep shoulders relaxed.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Neck Release Work",
+        "text": "Chin tucks: pull chin back gently without looking down. 3 sets of 12 reps. Hold each 2 seconds.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Posture Habit Training",
+        "text": "Set phone reminders every hour. Check wall-touch alignment. Practice walking with head neutral, shoulders back.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Posture changes take weeks. Use reminders and be patient. Your body will thank you.",
+    "resources": [
+      {
+        "label": "Tom Merrick Posture Guide",
+        "url": "https://www.overcominggravity.com",
+        "icon": "play"
+      }
+    ],
+    "likes": 5300,
+    "createdAt": "2026-01-16",
+    "featured": false
+  },
+  {
+    "id": "learn-box-breathing",
+    "name": "Learn Box Breathing for Calm",
+    "icon": "wind",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "breathing",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Master box breathing technique and reduce anxiety instantly",
+    "needs": ["timer", "quiet space"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand the Technique",
+        "text": "Box breathing: inhale 4 counts, hold 4, exhale 4, hold 4. It balances the nervous system.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "First Practice Session",
+        "text": "Sit comfortably. Inhale through nose for 4 counts. Hold breath for 4 counts. Exhale for 4 counts. Repeat 5 times.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Increase Duration",
+        "text": "Do 10 more rounds. Notice your heart rate slowing. Feel your shoulders drop. Embrace the calm.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Apply to Real Stress",
+        "text": "Practice box breathing during a mildly stressful moment: before a meeting, after conflict, during anxiety.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Daily Integration",
+        "text": "Commit to 5 minutes of box breathing daily. Morning or evening. Track how it impacts your mood.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Box breathing works best when you make it a habit. Use it preventatively, not just in crisis.",
+    "resources": [
+      {
+        "label": "Wim Hof Breathing App",
+        "url": "https://www.wimhofmethod.com",
+        "icon": "play"
+      }
+    ],
+    "likes": 6800,
+    "createdAt": "2026-01-18",
+    "featured": false
+  },
+  {
+    "id": "throw-proper-punch",
+    "name": "Throw a Proper Punch",
+    "icon": "target",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "martial-arts-basics",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Master correct punch form and build shoulder and core strength",
+    "needs": ["heavy bag or pads", "hand wraps"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn the Stance",
+        "text": "Feet shoulder-width apart, one foot forward. Knees slightly bent. Guard your face with hands.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Practice Jab Technique",
+        "text": "Extend your lead arm straight out, rotating your shoulder. Snap it back. Do 30 slow, controlled jabs.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Master the Cross",
+        "text": "Rotate your hips and back shoulder. Extend rear arm straight. More power than a jab. 30 slow crosses.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Combine Movements",
+        "text": "Jab-cross combinations: jab, cross, jab, cross. Do 3 sets of 10 combinations slowly, focusing on form.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Bag Work",
+        "text": "Hit a heavy bag with your combinations. Light speed first, then increase intensity. Rest 1 minute between rounds.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Always use hand wraps. Power comes from your legs and hips, not just your arms.",
+    "resources": [
+      {
+        "label": "Boxing Basics by Floyd Mayweather",
+        "url": "https://www.youtube.com/watch?v=XU1d3gxGSf8",
+        "icon": "play"
+      }
+    ],
+    "likes": 3800,
+    "createdAt": "2026-01-20",
+    "featured": false
+  },
+  {
+    "id": "build-stretching-routine",
+    "name": "Build Your Daily Stretching Routine",
+    "icon": "timer",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "stretching",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Increase flexibility and prevent injury with a 15-minute daily routine",
+    "needs": ["yoga mat"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Identify Problem Areas",
+        "text": "Where's your tightest? Lower back, hamstrings, shoulders, hip flexors? Focus your routine there.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Warm Up Muscles",
+        "text": "Light cardio or yoga for 5 min to increase blood flow. Never stretch cold muscles.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Hold Key Stretches",
+        "text": "Hamstring stretch (30 sec), quad stretch (30 sec), hip opener (30 sec), shoulder rolls (30 sec). Repeat each 2x.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Deep Stretches",
+        "text": "Seated forward fold (1 min), pigeon pose (1 min per side), spinal twist (30 sec per side).",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Schedule It",
+        "text": "Pick a time daily: morning, post-workout, or evening. Set a phone reminder. Track for 30 days.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Stretch within 2 hours post-workout. Static stretching is best for flexibility, not as warm-up.",
+    "resources": [
+      {
+        "label": "DownDog Yoga App",
+        "url": "https://www.downdogapp.com",
+        "icon": "play"
+      }
+    ],
+    "likes": 4900,
+    "createdAt": "2026-01-22",
+    "featured": false
+  },
+  {
+    "id": "plan-balanced-meals-week",
+    "name": "Plan a Week of Balanced Meals",
+    "icon": "heart",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "nutrition",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Meal plan 7 days of healthy, balanced meals and prep ingredients",
+    "needs": ["notebook", "recipes", "grocery budget"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Define Your Meals",
+        "text": "Pick 3 breakfasts, 3 lunches, 3 dinners you enjoy. Repeat for variety without boredom.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Balance Macros",
+        "text": "Each meal: protein (25-30g), carbs (30-40g), fats (10-15g), veggies (2 cups). Write a grocery list.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Shop Smart",
+        "text": "Buy whole foods: chicken, fish, eggs, brown rice, oats, vegetables, nuts. Avoid processed foods.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Basic Prep",
+        "text": "Cook rice, grill chicken, chop veggies. Store in containers. Takes 1 hour to prep meals for 3 days.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Log Your Plan",
+        "text": "Write your meal plan visibly. Track intake with MyFitnessPal. Adjust based on hunger and energy.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Meal prep 2-3 days at a time. Food stays fresher. Invest in glass containers.",
+    "resources": [
+      {
+        "label": "MyFitnessPal Nutrition App",
+        "url": "https://www.myfitnesspal.com",
+        "icon": "play"
+      }
+    ],
+    "likes": 6100,
+    "createdAt": "2026-01-24",
+    "featured": false
+  },
+  {
+    "id": "improve-mobility-hips",
+    "name": "Improve Your Hip Mobility",
+    "icon": "wind",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "mobility",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Increase hip range of motion and squat depth",
+    "needs": ["yoga mat", "foam roller"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Assess Your Mobility",
+        "text": "Attempt a deep squat. Note where you feel restricted. That's your focus area.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Foam Roll Your Hips",
+        "text": "Sit on foam roller, roll outer hip (glute) area. Slow strokes. 1 minute per side. Intense but effective.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Active Stretches",
+        "text": "90-90 stretch: sit, one leg in front (90 degrees), one behind (90 degrees). Lean forward. Hold 1 minute each side.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Deep Squat Practice",
+        "text": "Bodyweight deep squat. Hold bottom position for 30 seconds. Repeat 5 times. Grip a bar for stability.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Test Progress",
+        "text": "Try a full-depth squat again. You should feel deeper. Commit to this routine 3x weekly.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Hip mobility improves squats, deadlifts, and everyday movement. Consistency over intensity.",
+    "resources": [
+      {
+        "label": "Bob Squat Workshop",
+        "url": "https://www.youtube.com/watch?v=LzuIFYlA5KA",
+        "icon": "play"
+      }
+    ],
+    "likes": 4200,
+    "createdAt": "2026-01-26",
+    "featured": false
+  },
+  {
+    "id": "master-meditation",
+    "name": "Master Meditation Basics",
+    "icon": "sun",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "meditation",
+    "difficulty": "beginner",
+    "setting": "anywhere",
+    "outcome": "Meditate for 10 minutes daily and reduce mental clutter",
+    "needs": ["quiet space", "meditation app"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Meditation",
+        "text": "Meditation isn't about clearing your mind—it's about observing thoughts without judgment.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Find Your Spot",
+        "text": "Choose a quiet place: bedroom, park, office. Sit comfortably with spine straight. No need to sit lotus pose.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "First Meditation",
+        "text": "Set timer for 5 minutes. Close eyes. Focus on breath: inhale, exhale. When mind wanders, gently return focus.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Extend Practice",
+        "text": "Gradually increase to 10 minutes. Notice your thoughts: don't fight them, just observe and return to breath.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Build the Habit",
+        "text": "Meditate at the same time daily: morning is best. Use Headspace or Insight Timer. Aim for 30 consecutive days.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Your mind will wander—a lot. That's normal. The practice is returning your attention, not keeping it perfect.",
+    "resources": [
+      {
+        "label": "Insight Timer Meditation App",
+        "url": "https://insighttimer.com",
+        "icon": "play"
+      }
+    ],
+    "likes": 7600,
+    "createdAt": "2026-01-28",
+    "featured": false
+  },
+  {
+    "id": "build-grip-strength",
+    "name": "Build Your Grip Strength",
+    "icon": "dumbbell",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "strength",
+    "difficulty": "intermediate",
+    "setting": "gym",
+    "outcome": "Increase grip strength for better deadlifts and daily function",
+    "needs": ["hand gripper", "pull-up bar", "farmer carry weights"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Warm Up",
+        "text": "Gentle hand stretches. Rotate wrists 10 times each direction. Shake out hands.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Gripper Training",
+        "text": "Use a hand gripper. Squeeze maximally for 5 seconds. Rest 10 seconds. Do 20 reps per hand.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Dead Hangs",
+        "text": "Hang from a pull-up bar for 20-30 seconds. Rest 1 minute. Repeat 5 times. Increases grip endurance.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Farmer Carries",
+        "text": "Hold heavy dumbbells at your sides. Walk 40 meters. Rest 1 minute. Do 5 sets. Builds functional strength.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Cool Down",
+        "text": "Stretch forearms and wrists. Hand massage. Review your progress. Train grip 2x weekly.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Grip strength predicts longevity. Strong hands help with pull-ups, deadlifts, and climbing.",
+    "resources": [
+      {
+        "label": "Jedd Johnson Grip Strength",
+        "url": "https://www.dieselcrew.com",
+        "icon": "play"
+      }
+    ],
+    "likes": 2900,
+    "createdAt": "2026-02-01",
+    "featured": false
+  },
+  {
+    "id": "master-handstand",
+    "name": "Master Handstand Basics",
+    "icon": "target",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "strength",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "Hold a stable handstand against the wall for 30 seconds",
+    "needs": ["wall", "yoga mat"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Wall Walks",
+        "text": "Start in plank, walk feet up the wall slowly. Your body forms an inverted V. Work toward horizontal alignment.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Wall Holds",
+        "text": "Kick up into a handstand against wall. Hold for 10-15 seconds. Do 5 sets. Focus on balance.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Core Engagement",
+        "text": "In handstand, engage core and glutes hard. They prevent you from crashing. Press shoulders down.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Increase Duration",
+        "text": "Hold for 20-30 seconds. Do 3 sets. Rest 2 minutes between sets. You're building shoulder strength.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Practice Free-Standing",
+        "text": "Kick up into handstand, trying to balance away from wall for 1-2 seconds. It's hard. Be patient.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Handstands take months to master. Train 3x weekly. Consistency beats intensity.",
+    "resources": [
+      {
+        "label": "Antranik Handstand Guide",
+        "url": "https://www.antranik.org/handstand",
+        "icon": "play"
+      }
+    ],
+    "likes": 1800,
+    "createdAt": "2026-02-02",
+    "featured": false
+  },
+  {
+    "id": "run-5k-race",
+    "name": "Prepare for Your First 5K Race",
+    "icon": "flame",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "running",
+    "difficulty": "intermediate",
+    "setting": "outdoor",
+    "outcome": "Complete a 5K (3.1 miles) and finish strong",
+    "needs": ["running shoes", "timer", "water"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Set Race Goal",
+        "text": "Research 5K times. Pick a realistic goal: finish without stopping is perfect for first-timers.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Follow a 4-Week Plan",
+        "text": "Week 1: Run 3x/week, easy pace. Week 2: Add 1 tempo run. Week 3: Increase distance. Week 4: taper down.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Long Run Day",
+        "text": "Once weekly, run longer: Week 1 (2 miles), Week 2 (2.2 miles), Week 3 (2.5 miles).",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Race Week Prep",
+        "text": "Eat carbs 2 days before race. Hydrate extra. Lay out race outfit. Arrive early race morning.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Race Day Strategy",
+        "text": "Start slow. Find a steady rhythm by mile 1. Keep pace for miles 2-3. Negative split (faster 2nd half) is ideal.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Run your own race. Don't let others' paces affect your effort. Your fitness is your only competition.",
+    "resources": [
+      {
+        "label": "Couch to 5K App",
+        "url": "https://www.nhs.uk/every-mind-matters/every-body-matters/couch-to-5k",
+        "icon": "play"
+      }
+    ],
+    "likes": 5100,
+    "createdAt": "2026-02-04",
+    "featured": false
+  },
+  {
+    "id": "strengthen-core-planks",
+    "name": "Strengthen Your Core With Planks",
+    "icon": "dumbbell",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "strength",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Hold a 2-minute plank and build a strong, injury-resistant core",
+    "needs": ["yoga mat"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Perfect Your Form",
+        "text": "Align head-to-heels straight. Engage core and glutes. Don't sag hips or pike butt up. Breathe steadily.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Start With 30 Seconds",
+        "text": "Hold plank for 30 seconds. Rest 1 minute. Do 3 sets. Your goal is maintaining perfect form.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Increase by 10 Seconds Weekly",
+        "text": "Week 1: 30 sec. Week 2: 45 sec. Week 3: 60 sec. Week 4: 75 sec. Week 5: 90 sec. Week 6: 2 min.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Add Variations",
+        "text": "Side planks (per side), plank with leg lift, plank shoulder taps. Do 2x weekly with standard planks.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Track Progress",
+        "text": "Write down your time weekly. Celebrate PRs. Once you hit 2 minutes, maintain and add intensity.",
+        "icon": "star"
+      }
+    ],
+    "tip": "A strong core prevents back pain and improves posture. Planks are the most efficient core builder.",
+    "resources": [
+      {
+        "label": "Jeff Nippard Core Training",
+        "url": "https://www.jeffnippard.com",
+        "icon": "play"
+      }
+    ],
+    "likes": 6700,
+    "createdAt": "2026-02-05",
+    "featured": false
+  },
+  {
+    "id": "learn-kickboxing",
+    "name": "Learn Kickboxing Fundamentals",
+    "icon": "target",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "martial-arts-basics",
+    "difficulty": "intermediate",
+    "setting": "gym",
+    "outcome": "Master basic kicks and punches for cardiovascular fitness and confidence",
+    "needs": ["heavy bag", "hand wraps", "kickboxing gloves"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Warm Up",
+        "text": "Jump rope for 3 minutes. Shadowbox for 2 minutes. Get your heart rate up.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Practice Kicks",
+        "text": "Front kick: drive knee up, extend leg straight. Do 10 per leg. Side kick: rotate, extend. 10 per side.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Combine Combos",
+        "text": "Jab-cross-front kick. Jab-cross-roundhouse. Practice 3 combos slowly, then increase speed.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Bag Work",
+        "text": "Hit the heavy bag with your combinations for 3 minutes. Rest 1 minute. Repeat 4 rounds total.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Cool Down",
+        "text": "Light shadow-box, then static stretch. Quads, hamstrings, hip flexors. You just worked hard.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Kickboxing is cardio + strength. It's fun, empowering, and burns 400+ calories per hour.",
+    "resources": [
+      {
+        "label": "KickboxingMasters YouTube",
+        "url": "https://www.youtube.com/c/KickboxingMasters",
+        "icon": "play"
+      }
+    ],
+    "likes": 3600,
+    "createdAt": "2026-02-06",
+    "featured": false
+  },
+  {
+    "id": "start-rock-climbing",
+    "name": "Start Rock Climbing",
+    "icon": "flame",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "strength",
+    "difficulty": "intermediate",
+    "setting": "gym",
+    "outcome": "Climb your first 5.6 grade route indoors and build full-body strength",
+    "needs": ["climbing gym membership", "climbing shoes", "chalk"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn Belay Safety",
+        "text": "Take a belay class at your gym. Know how to operate the belay device safely. This is critical.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Warm-Up Bouldering",
+        "text": "Boulder (climb short walls without ropes) on beginner routes for 20 minutes. Get a feel for movement.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Rope Climbing Basics",
+        "text": "With a partner/belayer, climb a 5.5 route. Use legs, not arms. Stay close to the wall. Learn footwork.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Climb Progressively",
+        "text": "Attempt a 5.6 route. You might not top it. That's okay. Try 3 different routes in this grade range.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Cool Down and Reflect",
+        "text": "Stretch your forearms, shoulders, legs. Reflect on footholds that worked. Plan your next session.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Climbing is 60% legs, 40% arms. Use your legs to push up, not your arms to pull.",
+    "resources": [
+      {
+        "label": "Climbing Training Guide by Eva López",
+        "url": "https://www.evaclimbs.com",
+        "icon": "play"
+      }
+    ],
+    "likes": 3100,
+    "createdAt": "2026-02-07",
+    "featured": false
+  },
+  {
+    "id": "deep-dive-breathwork",
+    "name": "Master Advanced Breathwork Techniques",
+    "icon": "wind",
+    "color": "#2E7D32",
+    "category": "fitness",
+    "subcategory": "breathing",
+    "difficulty": "advanced",
+    "setting": "anywhere",
+    "outcome": "Use advanced breathing techniques to boost performance and recovery",
+    "needs": ["timer", "quiet space"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Review Box Breathing",
+        "text": "Warm up with 5 minutes of box breathing: 4-4-4-4 count. This is your foundation.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Learn 4-7-8 Breathing",
+        "text": "Inhale 4, hold 7, exhale 8. This triggers the parasympathetic nervous system. 5 rounds.",
+        "icon": "hand"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Wim Hof Method",
+        "text": "30 rapid inhales through mouth, then hold breath. Start with 2 minutes. Advanced technique for recovery.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Alternate Nostril Breathing",
+        "text": "Nadi Shodhana: inhale left, exhale right, repeat 10 times. Balances the nervous system.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Integration Practice",
+        "text": "Choose 2 techniques. Practice daily for 2 weeks. Track mood, sleep, and energy changes.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Breathing affects everything: stress, performance, recovery, sleep. Mastering it is a superpower.",
+    "resources": [
+      {
+        "label": "Wim Hof Official Method",
+        "url": "https://www.wimhofmethod.com",
+        "icon": "play"
+      }
+    ],
+    "likes": 2400,
+    "createdAt": "2026-02-08",
+    "featured": false
+  }
+]

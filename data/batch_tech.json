@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "write-first-python-script",
+    "name": "Write Your First Python Script",
+    "icon": "code",
+    "color": "#00897B",
+    "category": "tech",
+    "subcategory": "coding",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A working Python program that solves a real problem",
+    "needs": ["Laptop", "Python installed", "Text editor"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Set Up Your Environment",
+        "text": "Install Python 3 and choose a text editor like VS Code. Verify installation by running 'python --version' in terminal.",
+        "icon": "settings"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Learn Python Basics",
+        "text": "Understand variables, data types, and basic operations. Write a simple program that stores your name and age, then prints them.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Build a Calculator",
+        "text": "Create a program that takes two numbers as input and performs addition, subtraction, multiplication, and division.",
+        "icon": "cpu"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Add Decision Logic",
+        "text": "Use if/else statements to make your calculator choose operations. Handle edge cases like division by zero.",
+        "icon": "lightbulb"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Run your calculator, test it with different inputs, and share the code. Next: explore loops and functions.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Start small and test frequently. Print output at each step to see what's happening.",
+    "resources": [
+      {
+        "label": "Python Official Tutorial",
+        "url": "https://docs.python.org/3/tutorial/",
+        "icon": "play"
+      },
+      {
+        "label": "VS Code Python Setup",
+        "url": "https://code.visualstudio.com/docs/languages/python",
+        "icon": "tool"
+      }
+    ],
+    "likes": 8743,
+    "createdAt": "2026-01-18",
+    "featured": true
+  },
+  {
+    "id": "build-first-webpage",
+    "name": "Build Your First Webpage",
+    "icon": "globe",
+    "color": "#1976D2",
+    "category": "tech",
+    "subcategory": "web-development",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A live webpage about your interests visible in a browser",
+    "needs": ["Laptop", "Text editor", "Web browser"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand HTML Structure",
+        "text": "Learn that HTML is markup. Create a file called index.html with basic tags: html, head, body, h1, p.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Write Your Content",
+        "text": "Add a heading, a few paragraphs, and a list to your page. Make it about something you love.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Style with CSS",
+        "text": "Create a style.css file. Change colors, fonts, and spacing. Link it to your HTML using a link tag.",
+        "icon": "palette"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Add Interactivity",
+        "text": "Include a button or link that does something simple using HTML and CSS hover effects.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Open index.html in your browser, share the file, and celebrate. Next: learn JavaScript.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Use browser DevTools (F12) to inspect and test your CSS in real-time.",
+    "resources": [
+      {
+        "label": "MDN HTML Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+        "icon": "play"
+      },
+      {
+        "label": "CSS Tricks",
+        "url": "https://css-tricks.com/",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 11205,
+    "createdAt": "2026-01-20",
+    "featured": false
+  },
+  {
+    "id": "master-excel-formulas",
+    "name": "Master Excel Formulas",
+    "icon": "layers",
+    "color": "#388E3C",
+    "category": "tech",
+    "subcategory": "spreadsheets",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "An automated spreadsheet that calculates and analyzes data without manual work",
+    "needs": ["Laptop", "Excel or Google Sheets"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn Formula Syntax",
+        "text": "Understand that formulas start with =. Practice simple math: =SUM(A1:A5), =AVERAGE(B1:B10).",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Create a Budget Sheet",
+        "text": "Build a spreadsheet with income and expenses. Use SUM to total each category.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Use IF Statements",
+        "text": "Add a column that flags expenses over $100 using =IF(B2>100,\"High\",\"Low\").",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Apply VLOOKUP",
+        "text": "Create a lookup table and use VLOOKUP to find values. Practice with product names and prices.",
+        "icon": "target"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Format your sheet nicely and share it. Next: explore pivot tables and charts.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Use named ranges to make formulas easier to read. Test edge cases.",
+    "resources": [
+      {
+        "label": "Excel Functions Guide",
+        "url": "https://support.microsoft.com/en-us/office/excel-functions-by-category",
+        "icon": "play"
+      },
+      {
+        "label": "Google Sheets Help",
+        "url": "https://support.google.com/docs/answer/3093197",
+        "icon": "tool"
+      }
+    ],
+    "likes": 9821,
+    "createdAt": "2026-01-22",
+    "featured": false
+  },
+  {
+    "id": "automate-daily-tasks",
+    "name": "Automate Your Daily Tasks with Zapier",
+    "icon": "zap",
+    "color": "#F57C00",
+    "category": "tech",
+    "subcategory": "automation",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Three automated workflows that save you hours each week",
+    "needs": ["Laptop", "Internet connection", "Zapier account"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Triggers & Actions",
+        "text": "Learn that Zapier connects apps. A trigger (when X happens) starts an action (do Y).",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Build Your First Zap",
+        "text": "Create a zap that sends you an email reminder every Monday morning.",
+        "icon": "zap"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Connect to Your Calendar",
+        "text": "Set up a zap that adds new emails tagged 'Event' to your Google Calendar.",
+        "icon": "settings"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Save Data Automatically",
+        "text": "Create a zap that adds new Slack messages to a Google Sheet for record-keeping.",
+        "icon": "database"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Turn on your zaps and watch them work. Next: explore Zapier's advanced filters.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Start with apps you already use daily. Test each zap with a test action before activating.",
+    "resources": [
+      {
+        "label": "Zapier Getting Started",
+        "url": "https://zapier.com/help/get-started/",
+        "icon": "play"
+      },
+      {
+        "label": "Zapier Templates",
+        "url": "https://zapier.com/app/dashboard/templates",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 7654,
+    "createdAt": "2026-01-24",
+    "featured": false
+  },
+  {
+    "id": "create-ai-chatbot",
+    "name": "Create Your First AI Chatbot",
+    "icon": "brain",
+    "color": "#6A1B9A",
+    "category": "tech",
+    "subcategory": "ai-tools",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A working chatbot that answers questions about a topic you choose",
+    "needs": ["Laptop", "Internet connection", "OpenAI API key or ChatGPT"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Explore ChatGPT",
+        "text": "Sign up for ChatGPT or access OpenAI's API. Understand how to write effective prompts.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Design Your Chatbot",
+        "text": "Decide what your chatbot does. Example: answers questions about a book or product.",
+        "icon": "lightbulb"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Create a System Prompt",
+        "text": "Write instructions that tell the AI its role, tone, and boundaries. Test with sample questions.",
+        "icon": "code"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Build an Interface",
+        "text": "Use a no-code tool like Replit or create a simple HTML form to chat with your AI.",
+        "icon": "monitor"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Test your chatbot, refine prompts, and share with friends. Next: add memory and personalities.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Be specific in your prompts. Vague instructions lead to vague responses. Iterate and refine.",
+    "resources": [
+      {
+        "label": "OpenAI API Docs",
+        "url": "https://platform.openai.com/docs/",
+        "icon": "play"
+      },
+      {
+        "label": "ChatGPT Prompt Engineering",
+        "url": "https://platform.openai.com/docs/guides/prompt-engineering",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 10234,
+    "createdAt": "2026-01-26",
+    "featured": false
+  },
+  {
+    "id": "design-logo-figma",
+    "name": "Design a Logo in Figma",
+    "icon": "tool",
+    "color": "#D32F2F",
+    "category": "tech",
+    "subcategory": "design-tools",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A professional-looking logo suitable for personal brand or small business",
+    "needs": ["Laptop", "Internet connection", "Figma account"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Navigate Figma",
+        "text": "Create a new project, understand the canvas, tools, and layers panel.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Sketch Your Concept",
+        "text": "Use shapes (circles, rectangles, lines) to create a simple geometric logo design.",
+        "icon": "lightbulb"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Refine & Color",
+        "text": "Adjust shapes, align elements, and apply a cohesive color scheme.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Add Typography",
+        "text": "Insert your business name or initials. Choose and size a font that matches the design.",
+        "icon": "code"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Export as PNG and SVG. Share for feedback. Next: animate your logo.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Keep it simple. The best logos work at any size. Reference great logos for inspiration.",
+    "resources": [
+      {
+        "label": "Figma Tutorial",
+        "url": "https://www.figma.com/resource-library/",
+        "icon": "play"
+      },
+      {
+        "label": "Logo Design Principles",
+        "url": "https://www.figma.com/blog/",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 6512,
+    "createdAt": "2026-01-28",
+    "featured": false
+  },
+  {
+    "id": "master-terminal-basics",
+    "name": "Master Terminal Basics",
+    "icon": "terminal",
+    "color": "#212121",
+    "category": "tech",
+    "subcategory": "terminal",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Comfortable navigating and managing files entirely through the command line",
+    "needs": ["Laptop", "Terminal application"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Open & Explore",
+        "text": "Open Terminal (Mac) or PowerShell (Windows). Type 'pwd' to see your location.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Navigate Directories",
+        "text": "Use 'ls' to list files, 'cd' to change folders, and 'mkdir' to create new directories.",
+        "icon": "terminal"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Manage Files",
+        "text": "Practice 'cp' (copy), 'mv' (move), and 'rm' (delete) commands with test files.",
+        "icon": "tool"
+      },
+      {
+        "time": "55–75 min",
+        "label": "View & Edit Files",
+        "text": "Use 'cat' to view files, 'grep' to search, and 'nano' to edit text files.",
+        "icon": "code"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Complete a project using only terminal. Next: learn about permissions and piping.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Use 'man' command to read help for any command. Mistakes are hard to undo, so double-check before deleting.",
+    "resources": [
+      {
+        "label": "Terminal Cheat Sheet",
+        "url": "https://cheatography.com/davechild/cheat-sheets/linux-command-line/",
+        "icon": "play"
+      },
+      {
+        "label": "The Linux Command Line Book",
+        "url": "https://linuxcommand.org/lc3_learning_the_shell.php",
+        "icon": "book"
+      }
+    ],
+    "likes": 5789,
+    "createdAt": "2026-02-01",
+    "featured": false
+  },
+  {
+    "id": "query-database-sql",
+    "name": "Query a Database with SQL",
+    "icon": "database",
+    "color": "#00695C",
+    "category": "tech",
+    "subcategory": "databases",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Ability to extract, filter, and analyze data from a real database",
+    "needs": ["Laptop", "SQLite or MySQL", "Database tool like DBeaver"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Tables & Rows",
+        "text": "Learn that databases store data in tables with columns and rows. Explore a sample database.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Write SELECT Queries",
+        "text": "Use SELECT * FROM table_name to retrieve all data. Filter with WHERE clauses.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Join Tables",
+        "text": "Connect two tables using INNER JOIN to find related data.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Aggregate & Group",
+        "text": "Use COUNT, SUM, AVG with GROUP BY to analyze patterns in your data.",
+        "icon": "target"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Write 5 complex queries and save them. Next: learn INSERT, UPDATE, DELETE.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Write queries step by step. Start simple and add complexity. Use comments to document your logic.",
+    "resources": [
+      {
+        "label": "SQL Tutorial",
+        "url": "https://www.w3schools.com/sql/",
+        "icon": "play"
+      },
+      {
+        "label": "SQL Cheat Sheet",
+        "url": "https://www.sqlshack.com/en/sql-cheat-sheet/",
+        "icon": "tool"
+      }
+    ],
+    "likes": 7923,
+    "createdAt": "2026-02-03",
+    "featured": false
+  },
+  {
+    "id": "secure-passwords-encryption",
+    "name": "Secure Your Passwords with Encryption",
+    "icon": "lock",
+    "color": "#C62828",
+    "category": "tech",
+    "subcategory": "cybersecurity",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "A secure system for storing and managing your passwords safely",
+    "needs": ["Laptop", "Password manager like 1Password or Bitwarden"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Password Security",
+        "text": "Learn why strong, unique passwords matter. Understand encryption basics.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Choose a Password Manager",
+        "text": "Install a password manager like Bitwarden (free) or 1Password. Set a master password.",
+        "icon": "settings"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Generate Strong Passwords",
+        "text": "Use your password manager to generate 12+ character passwords with mixed characters.",
+        "icon": "zap"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Migrate Your Passwords",
+        "text": "Update 10 important accounts with new strong passwords stored in your manager.",
+        "icon": "layers"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Enable two-factor authentication on key accounts. Next: audit your security practices.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Never reuse passwords. Use a password manager to remember them for you. Enable 2FA everywhere possible.",
+    "resources": [
+      {
+        "label": "Bitwarden Official",
+        "url": "https://bitwarden.com/",
+        "icon": "play"
+      },
+      {
+        "label": "NIST Password Guidelines",
+        "url": "https://pages.nist.gov/800-63-3/sp800-63b.html",
+        "icon": "shield"
+      }
+    ],
+    "likes": 8456,
+    "createdAt": "2026-02-05",
+    "featured": false
+  },
+  {
+    "id": "analyze-data-python-pandas",
+    "name": "Analyze Data with Python Pandas",
+    "icon": "layers",
+    "color": "#1565C0",
+    "category": "tech",
+    "subcategory": "data-analysis",
+    "difficulty": "beginner",
+    "setting": "home",
+    "outcome": "Insights extracted from a dataset with visualizations and statistical analysis",
+    "needs": ["Laptop", "Python 3", "Jupyter Notebook", "pip"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Install & Import Pandas",
+        "text": "Install pandas using pip. Import it in Jupyter and understand DataFrames.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Load & Explore Data",
+        "text": "Load a CSV file with pandas. Use head(), info(), describe() to understand your data.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Clean Your Data",
+        "text": "Remove null values, handle duplicates, and standardize data formats.",
+        "icon": "tool"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Analyze & Visualize",
+        "text": "Calculate statistics, group data, and create charts using matplotlib or seaborn.",
+        "icon": "target"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Write conclusions from your analysis. Share your notebook. Next: explore machine learning.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Start with small datasets. Understand your data before jumping to analysis. Document assumptions.",
+    "resources": [
+      {
+        "label": "Pandas Official Documentation",
+        "url": "https://pandas.pydata.org/docs/",
+        "icon": "play"
+      },
+      {
+        "label": "10 Minutes to Pandas",
+        "url": "https://pandas.pydata.org/docs/user_guide/10min.html",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 9234,
+    "createdAt": "2026-02-07",
+    "featured": false
+  },
+  {
+    "id": "javascript-interactive-page",
+    "name": "Add Interactivity with JavaScript",
+    "icon": "code",
+    "color": "#F57F17",
+    "category": "tech",
+    "subcategory": "coding",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A webpage with buttons, forms, and interactive elements that respond to user actions",
+    "needs": ["Laptop", "Text editor", "Web browser"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand DOM",
+        "text": "Learn that JavaScript manipulates the Document Object Model. Practice selecting elements.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Handle Events",
+        "text": "Add click listeners to buttons. Make elements change color or text on click.",
+        "icon": "zap"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Build a Form",
+        "text": "Create a form that validates input and shows errors if data is invalid.",
+        "icon": "code"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Use Local Storage",
+        "text": "Save user data to browser storage so it persists after page reload.",
+        "icon": "database"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Deploy your interactive page. Test across browsers. Next: learn frameworks like React.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Use console.log() to debug. Learn DevTools well. Build incrementally and test often.",
+    "resources": [
+      {
+        "label": "MDN JavaScript Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        "icon": "play"
+      },
+      {
+        "label": "JavaScript Cheat Sheet",
+        "url": "https://www.w3schools.com/js/",
+        "icon": "tool"
+      }
+    ],
+    "likes": 8901,
+    "createdAt": "2026-01-19",
+    "featured": false
+  },
+  {
+    "id": "responsive-design-mobile",
+    "name": "Build a Responsive Mobile-First Website",
+    "icon": "monitor",
+    "color": "#0277BD",
+    "category": "tech",
+    "subcategory": "web-development",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A website that looks perfect on phones, tablets, and desktops",
+    "needs": ["Laptop", "Text editor", "Multiple browsers"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Media Queries",
+        "text": "Learn CSS media queries to apply different styles based on screen size.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Design Mobile First",
+        "text": "Start with a mobile layout, then add styles for tablet and desktop screens.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Create Flexible Grids",
+        "text": "Use CSS Flexbox and Grid to build layouts that adapt to different widths.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Optimize Images",
+        "text": "Use responsive images with srcset and picture elements. Ensure fast loading.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Test on real devices. Check mobile performance. Next: add PWA capabilities.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Test on actual phones, not just browser emulators. Use DevTools device toolbar extensively.",
+    "resources": [
+      {
+        "label": "Responsive Design MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design",
+        "icon": "play"
+      },
+      {
+        "label": "CSS-Tricks Flexbox Guide",
+        "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 7645,
+    "createdAt": "2026-01-21",
+    "featured": false
+  },
+  {
+    "id": "pivot-table-data-summary",
+    "name": "Create Pivot Tables for Data Summary",
+    "icon": "layers",
+    "color": "#2E7D32",
+    "category": "tech",
+    "subcategory": "spreadsheets",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Automated data summaries and insights from large datasets without writing formulas",
+    "needs": ["Laptop", "Excel or Google Sheets", "Sample data"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Prepare Your Data",
+        "text": "Ensure data has headers and no blank rows. Clean any inconsistencies.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Insert a Pivot Table",
+        "text": "Select your data and use Insert > Pivot Table. Learn the pivot table dialog.",
+        "icon": "settings"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Configure Rows & Columns",
+        "text": "Drag fields to rows, columns, and values. Group data by categories like month or region.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Add Calculations",
+        "text": "Summarize values using SUM, AVG, COUNT. Apply filters to focus on subsets.",
+        "icon": "target"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Create a chart from your pivot table. Present insights. Next: automate with formulas.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Start simple with 2–3 fields. Refresh pivot tables when source data changes.",
+    "resources": [
+      {
+        "label": "Excel Pivot Table Guide",
+        "url": "https://support.microsoft.com/en-us/office/create-a-pivottable",
+        "icon": "play"
+      },
+      {
+        "label": "Google Sheets Pivot Tables",
+        "url": "https://support.google.com/docs/answer/1272900",
+        "icon": "tool"
+      }
+    ],
+    "likes": 6789,
+    "createdAt": "2026-01-23",
+    "featured": false
+  },
+  {
+    "id": "webhook-ifttt-automation",
+    "name": "Build Webhooks with IFTTT",
+    "icon": "zap",
+    "color": "#E65100",
+    "category": "tech",
+    "subcategory": "automation",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Custom automated workflows triggered by events from any app or service",
+    "needs": ["Laptop", "Internet connection", "IFTTT account", "Multiple app accounts"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Webhooks",
+        "text": "Learn how webhooks send data when events occur. Explore IFTTT platform.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Create Basic Applets",
+        "text": "Build 2–3 simple applets connecting common apps like Gmail, Twitter, and Slack.",
+        "icon": "zap"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Set Up Webhooks",
+        "text": "Learn to use Webhooks service. Send custom data to IFTTT from your own apps.",
+        "icon": "code"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Create Complex Workflows",
+        "text": "Chain multiple actions together. Add conditional logic where possible.",
+        "icon": "layers"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Activate all workflows and monitor them. Next: explore Make (formerly Integromat).",
+        "icon": "star"
+      }
+    ],
+    "tip": "Test each applet individually before chaining. Use filters to prevent unintended triggers.",
+    "resources": [
+      {
+        "label": "IFTTT Documentation",
+        "url": "https://ifttt.com/explore",
+        "icon": "play"
+      },
+      {
+        "label": "Webhook Tutorial",
+        "url": "https://ifttt.com/discover/webhook",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 6234,
+    "createdAt": "2026-01-25",
+    "featured": false
+  },
+  {
+    "id": "fine-tune-ai-model",
+    "name": "Fine-Tune an AI Model for Your Domain",
+    "icon": "brain",
+    "color": "#7B1FA2",
+    "category": "tech",
+    "subcategory": "ai-tools",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "An AI model customized for your specific business or interest domain",
+    "needs": ["Laptop", "OpenAI API key", "Python", "Training data"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Gather Training Data",
+        "text": "Collect 50+ examples of text relevant to your domain in JSONL format.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Prepare Your Data",
+        "text": "Format data correctly. Test with OpenAI's CLI tool. Validate against schema.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Start Fine-Tuning Job",
+        "text": "Use OpenAI API to submit your data for fine-tuning. Monitor job progress.",
+        "icon": "zap"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Test Your Model",
+        "text": "Query your fine-tuned model with test prompts. Compare to base model.",
+        "icon": "target"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Deploy your model in production. Gather user feedback. Next: iterate and improve.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Quality training data is everything. More examples = better results. Iterate based on test results.",
+    "resources": [
+      {
+        "label": "OpenAI Fine-Tuning Guide",
+        "url": "https://platform.openai.com/docs/guides/fine-tuning",
+        "icon": "play"
+      },
+      {
+        "label": "Fine-Tuning Best Practices",
+        "url": "https://platform.openai.com/docs/guides/fine-tuning/best-practices",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 8567,
+    "createdAt": "2026-01-27",
+    "featured": false
+  },
+  {
+    "id": "build-interactive-prototype",
+    "name": "Build an Interactive Prototype in Figma",
+    "icon": "tool",
+    "color": "#E91E63",
+    "category": "tech",
+    "subcategory": "design-tools",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A clickable prototype that simulates your app or website interaction flow",
+    "needs": ["Laptop", "Internet connection", "Figma account"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Design Multiple Screens",
+        "text": "Create wireframes or designs for 3–5 key pages of your app/website.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Learn Figma Interactions",
+        "text": "Understand prototype links and interactions. Connect buttons to different screens.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Build User Flow",
+        "text": "Create interaction chains that mimic real user journeys. Add transitions.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Test & Refine",
+        "text": "Use Figma's play mode to test your prototype. Adjust flows based on feedback.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Share prototype link with stakeholders. Gather feedback. Next: add animations.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Prototype only key flows, not everything. Use consistent naming for frames.",
+    "resources": [
+      {
+        "label": "Figma Prototyping Guide",
+        "url": "https://www.figma.com/design/",
+        "icon": "play"
+      },
+      {
+        "label": "Interactive Components",
+        "url": "https://www.figma.com/best-practices/components-and-variants/",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 7823,
+    "createdAt": "2026-01-29",
+    "featured": false
+  },
+  {
+    "id": "shell-scripts-automation",
+    "name": "Write Shell Scripts for Automation",
+    "icon": "terminal",
+    "color": "#263238",
+    "category": "tech",
+    "subcategory": "terminal",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "Executable scripts that automate repetitive tasks and save hours per month",
+    "needs": ["Laptop", "Terminal", "Text editor"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn Shell Syntax",
+        "text": "Understand variables, loops, and conditionals in bash. Write a simple script.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Create Backup Script",
+        "text": "Write a script that copies important folders to a backup location with timestamps.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Add Error Handling",
+        "text": "Use if statements and error codes to make scripts robust.",
+        "icon": "shield"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Build File Processing",
+        "text": "Create a script that processes multiple files (rename, convert, move).",
+        "icon": "layers"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Schedule scripts with cron. Document and test. Next: explore more advanced scripting.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Start simple. Test scripts thoroughly before automating critical tasks. Use version control.",
+    "resources": [
+      {
+        "label": "Bash Scripting Guide",
+        "url": "https://www.gnu.org/software/bash/manual/bash.html",
+        "icon": "play"
+      },
+      {
+        "label": "ShellCheck",
+        "url": "https://www.shellcheck.net/",
+        "icon": "tool"
+      }
+    ],
+    "likes": 5456,
+    "createdAt": "2026-02-02",
+    "featured": false
+  },
+  {
+    "id": "relational-database-design",
+    "name": "Design a Relational Database",
+    "icon": "database",
+    "color": "#004D40",
+    "category": "tech",
+    "subcategory": "databases",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A properly structured database for a real application or business problem",
+    "needs": ["Laptop", "Database design tool like Lucidchart", "Database software"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Normalization",
+        "text": "Learn about database normalization rules (1NF, 2NF, 3NF) to avoid data redundancy.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Define Entities",
+        "text": "Identify tables and columns for your application. List all attributes needed.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Create ER Diagram",
+        "text": "Draw entity relationships using a tool. Show primary and foreign keys.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Implement Database",
+        "text": "Write CREATE TABLE statements. Set up constraints and indexes.",
+        "icon": "settings"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Insert sample data. Test relationships. Next: optimize with indexes.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Think about queries before designing. Avoid unnecessary joins. Use meaningful names.",
+    "resources": [
+      {
+        "label": "Database Design Tutorial",
+        "url": "https://www.guru99.com/database-design.html",
+        "icon": "play"
+      },
+      {
+        "label": "SQL Server Index Tuning",
+        "url": "https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-index-design-guide",
+        "icon": "tool"
+      }
+    ],
+    "likes": 6912,
+    "createdAt": "2026-02-04",
+    "featured": false
+  },
+  {
+    "id": "network-security-audit",
+    "name": "Conduct a Network Security Audit",
+    "icon": "shield",
+    "color": "#B71C1C",
+    "category": "tech",
+    "subcategory": "cybersecurity",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A comprehensive security report identifying vulnerabilities and improvement areas",
+    "needs": ["Laptop", "Security tools like Nessus", "Network access"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Identify Assets",
+        "text": "List all devices, software, and services on your network that need protection.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Assess Vulnerabilities",
+        "text": "Use scanning tools to identify open ports, outdated software, and weak configurations.",
+        "icon": "target"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Check Access Controls",
+        "text": "Review user permissions, firewall rules, and password policies.",
+        "icon": "lock"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Review Policies",
+        "text": "Evaluate backup procedures, update schedules, and incident response plans.",
+        "icon": "shield"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Write findings report with recommendations. Prioritize fixes. Next: implement solutions.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Document everything. Get permission before scanning. Prioritize by risk level.",
+    "resources": [
+      {
+        "label": "OWASP Security Testing Guide",
+        "url": "https://owasp.org/www-project-web-security-testing-guide/",
+        "icon": "play"
+      },
+      {
+        "label": "Nessus Essentials",
+        "url": "https://www.tenable.com/products/nessus",
+        "icon": "tool"
+      }
+    ],
+    "likes": 5678,
+    "createdAt": "2026-02-06",
+    "featured": false
+  },
+  {
+    "id": "predictive-analytics-regression",
+    "name": "Build Predictive Models with Regression",
+    "icon": "target",
+    "color": "#1976D2",
+    "category": "tech",
+    "subcategory": "data-analysis",
+    "difficulty": "intermediate",
+    "setting": "home",
+    "outcome": "A working predictive model that forecasts outcomes based on historical data",
+    "needs": ["Laptop", "Python", "Scikit-learn", "Jupyter Notebook"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Regression",
+        "text": "Learn linear and logistic regression concepts. Explore when to use each.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Prepare Training Data",
+        "text": "Load data, handle missing values, and split into training and test sets.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Train Your Model",
+        "text": "Fit a regression model using scikit-learn. Evaluate accuracy metrics.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Visualize Results",
+        "text": "Create plots showing predictions vs. actual values. Identify patterns.",
+        "icon": "target"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Make predictions on new data. Document your model. Next: explore classification.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Feature selection matters. Avoid overfitting. Always validate on separate test data.",
+    "resources": [
+      {
+        "label": "Scikit-learn Documentation",
+        "url": "https://scikit-learn.org/stable/",
+        "icon": "play"
+      },
+      {
+        "label": "Regression Analysis Guide",
+        "url": "https://en.wikipedia.org/wiki/Regression_analysis",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 8234,
+    "createdAt": "2026-02-08",
+    "featured": false
+  },
+  {
+    "id": "react-component-library",
+    "name": "Build a React Component Library",
+    "icon": "code",
+    "color": "#61DAFB",
+    "category": "tech",
+    "subcategory": "coding",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "A reusable library of UI components for your projects and team",
+    "needs": ["Laptop", "Node.js", "npm", "Code editor"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Plan Components",
+        "text": "Define 5–10 core components (Button, Card, Modal, etc.) and their props.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Set Up Project",
+        "text": "Use Create React App or Vite. Set up TypeScript and Storybook.",
+        "icon": "settings"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Build Components",
+        "text": "Create reusable components with consistent API and styling.",
+        "icon": "code"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Document & Test",
+        "text": "Write Storybook stories. Add unit tests with Jest. Document API.",
+        "icon": "layers"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Publish to npm. Gather feedback. Next: add advanced patterns and animations.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Think about accessibility and responsiveness from the start. Use semantic HTML.",
+    "resources": [
+      {
+        "label": "React Documentation",
+        "url": "https://react.dev/",
+        "icon": "play"
+      },
+      {
+        "label": "Storybook Guide",
+        "url": "https://storybook.js.org/docs/react/get-started/introduction",
+        "icon": "tool"
+      }
+    ],
+    "likes": 9456,
+    "createdAt": "2026-01-17",
+    "featured": true
+  },
+  {
+    "id": "microservices-architecture",
+    "name": "Design Microservices Architecture",
+    "icon": "layers",
+    "color": "#00ACC1",
+    "category": "tech",
+    "subcategory": "web-development",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "A scalable microservices architecture for a distributed application",
+    "needs": ["Laptop", "Docker", "Kubernetes basics", "API knowledge"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn Microservices",
+        "text": "Understand benefits and challenges. Compare to monolithic architecture.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Define Services",
+        "text": "Break down application into independent, loosely-coupled services.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Design APIs",
+        "text": "Define REST or gRPC APIs for service-to-service communication.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Containerize & Orchestrate",
+        "text": "Create Docker containers for each service. Set up Kubernetes deployment.",
+        "icon": "settings"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Deploy to cloud platform. Monitor and scale. Next: add service mesh.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Start with a single microservice. Don't over-engineer. Understand trade-offs.",
+    "resources": [
+      {
+        "label": "Microservices.io",
+        "url": "https://microservices.io/",
+        "icon": "play"
+      },
+      {
+        "label": "Docker Tutorial",
+        "url": "https://docs.docker.com/get-started/",
+        "icon": "tool"
+      }
+    ],
+    "likes": 7234,
+    "createdAt": "2026-01-16",
+    "featured": false
+  },
+  {
+    "id": "power-query-etl",
+    "name": "Master Power Query for ETL",
+    "icon": "zap",
+    "color": "#FFC107",
+    "category": "tech",
+    "subcategory": "spreadsheets",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "Automated data pipelines that extract, transform, and load data from multiple sources",
+    "needs": ["Laptop", "Excel with Power Query", "Data sources"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Explore Power Query",
+        "text": "Open Power Query editor. Understand M language basics.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Extract Data",
+        "text": "Connect to multiple sources (CSV, SQL, APIs). Import data.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Transform Data",
+        "text": "Clean, filter, merge, and pivot data using Power Query transformations.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Write Custom M Code",
+        "text": "Create functions and complex transformations using M language.",
+        "icon": "settings"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Automate refresh cycles. Build dashboard. Next: integrate with Power BI.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Test transformations step-by-step. Keep queries modular and reusable.",
+    "resources": [
+      {
+        "label": "Power Query Documentation",
+        "url": "https://support.microsoft.com/en-us/office/power-query-overview",
+        "icon": "play"
+      },
+      {
+        "label": "M Language Reference",
+        "url": "https://docs.microsoft.com/en-us/powerquery-m/",
+        "icon": "tool"
+      }
+    ],
+    "likes": 6543,
+    "createdAt": "2026-01-15",
+    "featured": false
+  },
+  {
+    "id": "advanced-ifttt-workflows",
+    "name": "Create Advanced Multi-Step IFTTT Workflows",
+    "icon": "zap",
+    "color": "#E64A19",
+    "category": "tech",
+    "subcategory": "automation",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "Complex business automations that integrate 10+ services and handle edge cases",
+    "needs": ["Laptop", "IFTTT Pro", "Multiple app accounts", "API keys"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Plan Workflow",
+        "text": "Map out a complex business process. Identify all data transformations needed.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Build Applet Chain",
+        "text": "Create 5+ interconnected applets. Use webhooks to pass data between them.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Handle Errors",
+        "text": "Implement error handling, retries, and notifications for failures.",
+        "icon": "shield"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Add Custom Logic",
+        "text": "Use webhooks to implement conditional logic not available in standard applets.",
+        "icon": "layers"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Test all scenarios. Monitor execution. Next: evaluate alternative tools.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Document every step. Test failure scenarios. Keep logs of all executions.",
+    "resources": [
+      {
+        "label": "IFTTT Pro Features",
+        "url": "https://ifttt.com/explore/pro",
+        "icon": "play"
+      },
+      {
+        "label": "IFTTT Webhook Examples",
+        "url": "https://ifttt.com/applets/search?q=webhook",
+        "icon": "tool"
+      }
+    ],
+    "likes": 5123,
+    "createdAt": "2026-02-09",
+    "featured": false
+  },
+  {
+    "id": "llm-application-development",
+    "name": "Develop Production LLM Applications",
+    "icon": "brain",
+    "color": "#8B00FF",
+    "category": "tech",
+    "subcategory": "ai-tools",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "A production-grade application using LLMs with proper error handling and monitoring",
+    "needs": ["Laptop", "Python", "LangChain", "OpenAI API", "Vector database"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand LLM Frameworks",
+        "text": "Explore LangChain, LlamaIndex. Learn about chains and agents.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Build RAG System",
+        "text": "Implement Retrieval Augmented Generation using vector embeddings.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Create Agents",
+        "text": "Build multi-step agents that can use tools and make decisions.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Implement Safety",
+        "text": "Add input validation, rate limiting, and output filtering.",
+        "icon": "shield"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Deploy application. Monitor costs and usage. Next: implement fine-tuning.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Test extensively for edge cases and harmful outputs. Monitor token usage closely.",
+    "resources": [
+      {
+        "label": "LangChain Documentation",
+        "url": "https://python.langchain.com/",
+        "icon": "play"
+      },
+      {
+        "label": "OpenAI Best Practices",
+        "url": "https://platform.openai.com/docs/guides/production-best-practices",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 9876,
+    "createdAt": "2026-02-10",
+    "featured": false
+  },
+  {
+    "id": "advanced-figma-animation",
+    "name": "Master Advanced Figma Animations & Prototypes",
+    "icon": "tool",
+    "color": "#FF1744",
+    "category": "tech",
+    "subcategory": "design-tools",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "Complex animated prototypes with smooth transitions and interactive states",
+    "needs": ["Laptop", "Figma Pro", "Motion design knowledge"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Learn Animation Principles",
+        "text": "Study easing, timing, and appeal in motion design.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Create Smooth Transitions",
+        "text": "Build prototypes with custom easing and timing functions.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Implement State Machine",
+        "text": "Create complex interactive components with multiple states and behaviors.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Polish Details",
+        "text": "Add micro-interactions, loading states, and error animations.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Export prototype. Share with developers. Next: explore Framer.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Animation should enhance UX, not distract. Test on different devices and speeds.",
+    "resources": [
+      {
+        "label": "Figma Prototyping Docs",
+        "url": "https://help.figma.com/en/articles/6783497-Prototype",
+        "icon": "play"
+      },
+      {
+        "label": "12 Principles of Animation",
+        "url": "https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 7891,
+    "createdAt": "2026-02-11",
+    "featured": false
+  },
+  {
+    "id": "devops-pipeline-setup",
+    "name": "Build a Complete DevOps CI/CD Pipeline",
+    "icon": "terminal",
+    "color": "#FF6F00",
+    "category": "tech",
+    "subcategory": "terminal",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "Automated deployment pipeline from code commit to production with zero downtime",
+    "needs": ["Laptop", "GitHub or GitLab", "Docker", "CI/CD tool", "Cloud provider"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand CI/CD",
+        "text": "Learn concepts of continuous integration and deployment.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Set Up Version Control",
+        "text": "Configure GitHub workflow. Set up branch protection and code review.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Build Pipeline",
+        "text": "Create GitHub Actions or GitLab CI workflow. Add testing and building steps.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Deploy to Production",
+        "text": "Set up automated deployment to cloud. Add health checks and rollback.",
+        "icon": "zap"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Monitor deployment. Add logging and alerting. Next: implement canary deployments.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Test extensively before production. Keep deployment scripts simple and idempotent.",
+    "resources": [
+      {
+        "label": "GitHub Actions Documentation",
+        "url": "https://docs.github.com/en/actions",
+        "icon": "play"
+      },
+      {
+        "label": "DevOps Best Practices",
+        "url": "https://cloud.google.com/architecture/devops-culture",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 8543,
+    "createdAt": "2026-02-12",
+    "featured": false
+  },
+  {
+    "id": "advanced-sql-optimization",
+    "name": "Optimize Complex SQL Queries",
+    "icon": "database",
+    "color": "#00838F",
+    "category": "tech",
+    "subcategory": "databases",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "Dramatically faster query execution and reduced database load",
+    "needs": ["Laptop", "Database with real data", "Query analyzer tool"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Profile Queries",
+        "text": "Use EXPLAIN PLAN to understand query execution. Identify slow queries.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Create Strategic Indexes",
+        "text": "Build indexes on frequently searched columns and joins.",
+        "icon": "target"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Rewrite Complex Queries",
+        "text": "Optimize joins, subqueries, and aggregations. Use window functions.",
+        "icon": "code"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Implement Caching",
+        "text": "Cache frequent queries. Use materialized views for complex aggregations.",
+        "icon": "layers"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Monitor improvements. Document optimizations. Next: explore partitioning.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Measure before and after. Small improvements at scale matter. Don't over-index.",
+    "resources": [
+      {
+        "label": "SQL Optimization Guide",
+        "url": "https://use-the-index-luke.com/",
+        "icon": "play"
+      },
+      {
+        "label": "Query Execution Plans",
+        "url": "https://docs.microsoft.com/en-us/sql/relational-databases/query-processing-architecture-guide",
+        "icon": "tool"
+      }
+    ],
+    "likes": 8765,
+    "createdAt": "2026-02-13",
+    "featured": false
+  },
+  {
+    "id": "penetration-testing-basics",
+    "name": "Conduct Ethical Penetration Testing",
+    "icon": "key",
+    "color": "#D84315",
+    "category": "tech",
+    "subcategory": "cybersecurity",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "A comprehensive penetration test report identifying security weaknesses",
+    "needs": ["Laptop", "Penetration testing tools", "Lab environment", "Ethical approval"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Understand Methodology",
+        "text": "Learn OWASP testing methodology. Understand legal and ethical constraints.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Reconnaissance",
+        "text": "Gather information about target. Use passive and active techniques.",
+        "icon": "target"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Find Vulnerabilities",
+        "text": "Test for common exploits (SQL injection, XSS, CSRF). Use automated tools.",
+        "icon": "code"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Exploit Findings",
+        "text": "Prove vulnerabilities with careful, controlled testing.",
+        "icon": "key"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Write detailed report with recommendations. Present findings ethically.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Always get written permission. Stay within scope. Document everything carefully.",
+    "resources": [
+      {
+        "label": "OWASP Testing Guide",
+        "url": "https://owasp.org/www-project-web-security-testing-guide/",
+        "icon": "play"
+      },
+      {
+        "label": "HackTheBox",
+        "url": "https://www.hackthebox.com/",
+        "icon": "tool"
+      }
+    ],
+    "likes": 7234,
+    "createdAt": "2026-02-14",
+    "featured": false
+  },
+  {
+    "id": "machine-learning-pipeline",
+    "name": "Build End-to-End Machine Learning Pipeline",
+    "icon": "target",
+    "color": "#0277BD",
+    "category": "tech",
+    "subcategory": "data-analysis",
+    "difficulty": "advanced",
+    "setting": "home",
+    "outcome": "A production ML system that automatically trains, evaluates, and deploys models",
+    "needs": ["Laptop", "Python", "MLflow", "Data", "Cloud infrastructure"],
+    "steps": [
+      {
+        "time": "0–15 min",
+        "label": "Define Problem",
+        "text": "Clearly define business problem, success metrics, and model requirements.",
+        "icon": "eye"
+      },
+      {
+        "time": "15–35 min",
+        "label": "Prepare Data",
+        "text": "Clean, normalize, and split data. Create feature engineering pipeline.",
+        "icon": "code"
+      },
+      {
+        "time": "35–55 min",
+        "label": "Train & Evaluate",
+        "text": "Experiment with models. Track experiments using MLflow. Compare results.",
+        "icon": "layers"
+      },
+      {
+        "time": "55–75 min",
+        "label": "Automate Pipeline",
+        "text": "Create automated workflow using Airflow or similar. Orchestrate from data to predictions.",
+        "icon": "settings"
+      },
+      {
+        "time": "75–90 min",
+        "label": "Ship & next steps",
+        "text": "Deploy model. Set up monitoring. Next: implement A/B testing.",
+        "icon": "star"
+      }
+    ],
+    "tip": "Focus on data quality. Document assumptions. Monitor model drift in production.",
+    "resources": [
+      {
+        "label": "MLflow Documentation",
+        "url": "https://mlflow.org/docs/latest/",
+        "icon": "play"
+      },
+      {
+        "label": "ML Ops Best Practices",
+        "url": "https://ml-ops.systems/",
+        "icon": "lightbulb"
+      }
+    ],
+    "likes": 9543,
+    "createdAt": "2026-02-15",
+    "featured": false
+  }
+]
