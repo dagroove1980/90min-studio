@@ -4,7 +4,7 @@ import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
   title: 'About',
-  description: '90min.studio is a library of structured 90-minute plans to learn any skill from zero. Not courses, not tutorials — just a clear plan and a timer.',
+  description: 'LearnItNow is a library of structured 90-minute plans to learn any skill from zero. Not courses, not tutorials — just a clear plan and a timer.',
 };
 
 export default function AboutPage() {
@@ -16,11 +16,11 @@ export default function AboutPage() {
           className="text-3xl font-bold mb-6"
           style={{ fontFamily: 'var(--font-heading)', color: '#1A1A1A' }}
         >
-          About 90min.studio
+          About LearnItNow
         </h1>
         <div className="space-y-4 text-base leading-relaxed" style={{ color: '#444444' }}>
           <p>
-            <strong>90min.studio</strong> is a library of structured 90-minute plans to learn any skill
+            <strong>LearnItNow</strong> is a library of structured 90-minute plans to learn any skill
             from zero. Not courses. Not tutorials. Not 40-hour curriculums you&apos;ll never finish. Just
             a clear plan and 90 minutes.
           </p>
@@ -53,7 +53,7 @@ export default function AboutPage() {
             <li>Surprise yourself</li>
           </ol>
           <p className="pt-4 text-sm" style={{ color: '#999999' }}>
-            Made with care. Questions? Reach out at hello@90min.studio
+            Made with care. Questions? Reach out at hello@learn-it-now.com
           </p>
         </div>
       </main>

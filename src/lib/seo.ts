@@ -12,7 +12,7 @@ export function skillMetaDescription(skill: Skill): string {
 export function skillStructuredData(skill: Skill): object {
   const baseUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL
     ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-    : 'https://90min.studio';
+    : 'https://learn-it-now.com';
 
   return {
     '@context': 'https://schema.org',

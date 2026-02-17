@@ -17,18 +17,18 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: '90min.studio — Learn Any Skill in 90 Minutes',
-    template: '%s | 90min.studio',
+    default: 'LearnItNow — Learn Any Skill in 90 Minutes',
+    template: '%s | LearnItNow',
   },
   description:
     'Step-by-step skill plans that take you from zero to "I can actually do this" in exactly 90 minutes. No courses. No fluff. Just a clear plan.',
   metadataBase: new URL(
     process.env.VERCEL_PROJECT_PRODUCTION_URL
       ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-      : 'https://90min.studio'
+      : 'https://learn-it-now.com'
   ),
   openGraph: {
-    siteName: '90min.studio',
+    siteName: 'LearnItNow',
     type: 'website',
     locale: 'en_US',
   },

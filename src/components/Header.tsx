@@ -25,10 +25,10 @@ export default function Header() {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-1.5">
           <span className="text-xl font-bold" style={{ fontFamily: 'var(--font-heading)', color: '#1A1A1A' }}>
-            90min
+            LearnIt
           </span>
           <span className="text-xl font-bold" style={{ fontFamily: 'var(--font-heading)', color: '#E63946' }}>
-            .studio
+            Now
           </span>
         </Link>
 

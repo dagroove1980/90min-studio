@@ -2,7 +2,7 @@ import { ImageResponse } from 'next/og';
 
 export const runtime = 'edge';
 
-export const alt = '90min Studio — Master Any Skill in 90 Minutes';
+export const alt = 'LearnItNow — Master Any Skill in 90 Minutes';
 export const size = {
     width: 1200,
     height: 630,
@@ -89,7 +89,7 @@ export default async function Image() {
                             letterSpacing: '-0.05em',
                         }}
                     >
-                        90min
+                        LearnIt
                     </div>
 
                     <div
@@ -101,7 +101,7 @@ export default async function Image() {
                             letterSpacing: '0.02em',
                         }}
                     >
-                        STUDIO
+                        NOW
                     </div>
 
                     <div

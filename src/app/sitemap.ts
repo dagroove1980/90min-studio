@@ -4,7 +4,7 @@ import { ALL_CATEGORIES, ALL_DIFFICULTIES, ALL_SETTINGS } from '@/lib/constants'
 
 const BASE_URL = process.env.VERCEL_PROJECT_PRODUCTION_URL
   ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-  : 'https://90min.studio';
+  : 'https://learn-it-now.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date().toISOString();

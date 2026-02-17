@@ -52,7 +52,7 @@ export default async function SkillDetailPage({
 
   const baseUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL
     ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-    : 'https://90min.studio';
+    : 'https://learn-it-now.com';
 
   const breadcrumbItems = [
     { label: 'Home', href: '/' },

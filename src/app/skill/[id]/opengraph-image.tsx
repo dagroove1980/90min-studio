@@ -2,7 +2,7 @@ import { ImageResponse } from '@vercel/og';
 import { getSkillById, getAllSkills } from '@/lib/skills';
 import { categoryLabels, difficultyLabels } from '@/lib/constants';
 
-export const alt = '90min.studio skill plan';
+export const alt = 'LearnItNow skill plan';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
 
@@ -26,7 +26,7 @@ export default async function OGImage({ params }: { params: Promise<{ id: string
             color: '#1A1A1A',
           }}
         >
-          90min.studio
+          LearnItNow
         </div>
       ),
       size
@@ -140,8 +140,8 @@ export default async function OGImage({ params }: { params: Promise<{ id: string
 
         {/* Branding */}
         <div style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
-          <span style={{ fontSize: 24, fontWeight: 700, color: '#1A1A1A' }}>90min</span>
-          <span style={{ fontSize: 24, fontWeight: 700, color: '#E63946' }}>.studio</span>
+          <span style={{ fontSize: 24, fontWeight: 700, color: '#1A1A1A' }}>LearnIt</span>
+          <span style={{ fontSize: 24, fontWeight: 700, color: '#E63946' }}>Now</span>
         </div>
       </div>
     ),
