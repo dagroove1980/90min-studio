@@ -1,4 +1,4 @@
-import type { Category, Difficulty } from '@/types/skill';
+import type { Category, Difficulty, Setting } from '@/types/skill';
 
 export const categoryColors: Record<Category, { bg: string; text: string }> = {
   music: { bg: '#EDE7F6', text: '#5C6BC0' },
@@ -20,6 +20,13 @@ export const difficultyColors: Record<Difficulty, { bg: string; text: string }> 
   beginner: { bg: '#E8F5E9', text: '#2E7D32' },
   intermediate: { bg: '#FFF8E1', text: '#F57F17' },
   advanced: { bg: '#FFEBEE', text: '#C62828' },
+};
+
+export const settingColors: Record<Setting, { bg: string; text: string }> = {
+  home: { bg: '#FFF8E1', text: '#F57F17' },
+  outdoor: { bg: '#E8F5E9', text: '#2E7D32' },
+  gym: { bg: '#E3F2FD', text: '#1565C0' },
+  anywhere: { bg: '#F3E5F5', text: '#7B1FA2' },
 };
 
 export function hexToRgba(hex: string, opacity: number): string {
