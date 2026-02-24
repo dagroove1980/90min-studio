@@ -9,11 +9,31 @@ import Footer from '@/components/Footer';
 import HomepageContent from '@/components/HomepageContent';
 import AdSlot from '@/components/AdSlot';
 
+const websiteStructuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'LearnItNow',
+  url: 'https://learn-it-now.com',
+  description: 'Step-by-step skill plans that take you from zero to capable in 90 minutes. No courses, no fluff — just a clear plan.',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: 'https://learn-it-now.com/?q={search_term_string}',
+    },
+    'query-input': 'required name=search_term_string',
+  },
+};
+
 export default function HomePage() {
   const allSkills = sortSkills(getAllSkills(), 'popular');
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteStructuredData) }}
+      />
       <Header />
       <main className="max-w-7xl mx-auto px-4 sm:px-6">
         {/* Hero */}
